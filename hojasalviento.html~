@@ -1,0 +1,1167 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr>
+        <td colspan="4">
+            <a href="index.html">
+                <img src="assets/images/banner.jpg"/>
+            </a>
+        </td>
+    </tr>
+    <tr class="menu bg-grey">
+        <td class="menu-credit">
+            <a href="creditos.html">
+                <p>&nbsp;</p>
+            </a>
+        </td>
+        <td colspan="2" align="center">
+            <p class="text-white fecha"></p>
+        </td>
+        <td class="menu-email">
+            <a href="javascript:void(0);"></a>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td valign="top">
+            <table cellspacing="1" class="menu-left full-width bg-dark">
+                <tr>
+                    <td class="menu-summary">
+                        <a href="sumario.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-editorial">
+                        <a href="editorial.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-sable">
+                        <a href="sable.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-leaf">
+                        <a href="hojasalviento.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-hive">
+                        <a href="lacolmena.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-laberinto">
+                        <a href="ellaberinto.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-lectura">
+                        <a href="lectura.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-dia">
+                        <a href="dia.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-facebook">
+                        <a href="facebook.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="menu-hornilla">
+                        <a href="lahornilla.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-celosia">
+                        <a href="lacelosia.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-paleta">
+                        <a href="paleta.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        
+        <td class="bg-dark" colspan="3">
+            <table cellspacing="0" class="content bg-ligthgrey">
+                <tr>
+                    <td>
+                        <div class="cell-title" id="home">
+                            <p class="title">
+                                La discontinua condición humana
+                                <br>
+                                (Premio Jorge Manrique, España 2019)
+                            </p>
+                        </div>
+                        <div class="cell-autor">
+                            <p>
+                                <span>Por:</span>
+                                <a class="autor" href="curriculum/ramiro_fuentes.html" target="_blank">Ramiro Fuentes Álamo</a>
+                            </p>
+                        </div>
+                    </td>
+                    <td class="cell-logo">
+                        <img src="assets/images/logo_hojas.png"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="width: 59.1rem;">
+                        <div class="content-body">
+                            
+                            <p class="text-normal poema">
+                            in bed with the flu and reading Rabelais
+                            <br>
+                            as the cat snores
+                            <br>
+                            the bathroom toilet
+                            <br>
+                            hisses
+                            <br>
+                            and my eyes burn.
+                            <p>
+                        
+                            <p class="text-note text-right">
+                                <a class="autor" href="curriculum/.html" target="_blank">Charles Bukowski</a>
+                            </p>
+                        </div>
+                        <br>
+                        <br>
+                        
+                        <div class="content-body">
+                            
+                            <p class="text-normal poema">
+									<strong>1.</strong>
+<br>
+<br>
+<br>
+estoy en
+<br>
+<br>
+mi cuarto
+<br>
+<br>
+que no es mi cuarto
+<br>
+<br>
+sino un espacio
+<br>
+<br>
+provisional
+<br>
+<br>
+y apenas privado
+<br>
+<br>
+intentando
+<br>
+<br> 
+escuchar 
+<br>
+<br>
+a Brahms
+<br>
+<br>
+por encima 
+<br>
+<br>
+de los niños
+<br>
+<br>
+que juegan
+<br>
+<br>
+y los adultos 
+<br>
+<br>
+que
+<br>
+<br>
+a su manera
+<br>
+<br>
+seria y torpe
+<br>
+<br>
+también juegan
+<br>
+<br>
+<br>
+estoy
+<br>
+<br>
+pues
+<br>
+<br>
+intentando
+<br>
+<br>
+acallar mis pasiones	
+<br>
+<br>
+frenar mis deseos
+<br>
+<br>
+en esta Cuaresma
+<br>
+<br>
+en esta soledad
+<br>
+<br>
+mal compartida
+<br>
+<br>
+mientras
+<br>
+<br>
+el reloj
+<br>
+<br>
+sigue
+<br>
+<br> 
+su marcha
+<br>
+<br>
+indolente
+<br>
+<br>
+y fría  						
+                            </p>
+                               
+                            
+                            <p class="text-normal poema">
+<br>
+<br>
+									<strong>3.</strong>
+<br>
+<br>
+<br>
+de niño
+<br>
+<br>
+soñé
+<br>
+<br> 
+el sacerdocio
+<br>
+<br>
+<br>
+supongo
+<br>
+<br>
+que mi anhelo
+<br>
+<br>
+de pureza
+<br>
+<br>
+confundía 
+<br>
+<br>
+el alba
+<br>
+<br>
+con el cuerpo
+<br>
+<br>
+<br>
+de adolescente
+<br>
+<br>
+quería
+<br>
+<br>
+una plaza de toros
+<br>
+<br>
+<br>
+supongo
+<br>
+<br>
+que mi amor
+<br>
+<br>
+confundía
+<br>
+<br>
+la emoción
+<br>
+<br>
+de la muerte
+<br>
+<br>
+con la bestia
+<br>
+<br>
+hermosa
+<br>
+<br>
+y amenazante
+<br>
+<br>
+<br>
+de adulto
+<br>
+<br>
+amé
+<br>
+<br>
+la escritura
+<br>
+<br>
+<br>
+supongo
+<br>
+<br>
+que confundía
+<br>
+<br>
+las letras
+<br>
+<br>
+con mi afán
+<br>
+<br>
+egoísta
+<br>
+<br>
+de brillo
+<br>
+<br>
+y reconocimiento
+<br>
+<br>
+<br>
+de anciano
+<br>
+<br>
+ya soy
+<br>
+<br>
+el tonto 
+<br>
+<br>
+de la esquina
+<br>
+<br>
+el viejo absurdo
+<br>
+<br>
+que aún no sabe
+<br>
+<br>
+lo que quiere
+<br>
+<br>
+<br>
+supongo
+<br>
+<br>
+que mezclo
+<br>
+<br>
+la realidad
+<br>
+<br>
+y el deseo.                
+                            </p>
+                            
+                            <p class="text-normal poema">
+<br>
+<br>										 
+<br>
+                            <strong>4.</strong>
+<br>
+<br>										 
+<br>										  
+el sexo
+<br>
+<br>
+ha sido
+<br>
+<br>
+mi condición
+<br>
+<br>
+continua 
+<br>
+<br>
+<br>
+mi continua
+<br>
+<br>
+cruz
+<br>
+<br>
+desaforada
+<br>
+<br>
+y ciega 
+<br>
+<br>
+<br>
+he comido
+<br>
+<br>
+para mejor
+<br>
+<br>
+afrontar
+<br>
+<br>
+los embates
+<br>
+<br>
+de la cama
+<br>
+<br>
+<br>
+he bebido
+<br>
+<br>
+para olvidar
+<br>
+<br>
+la vergüenza
+<br>
+<br>
+del primer
+<br>
+<br>
+encuentro 
+<br>
+<br>
+desnudo
+<br>
+<br>
+<br>
+he fumado
+<br>
+<br>
+para multiplicar
+<br>
+<br>
+las sensaciones
+<br>
+<br>
+de mi piel
+<br>
+<br>
+frotándose
+<br>
+<br>
+sobre otra
+<br>
+<br>
+<br>
+he llorado
+<br>
+<br>
+he gritado
+<br>
+<br>
+he gemido
+<br>
+<br>
+he rezado
+<br>
+<br>
+para ver
+<br>
+<br>
+si finalmente
+<br>
+<br>
+los días
+<br>
+<br>
+disuelven
+<br>
+<br>
+lo que fuera
+<br>
+<br>
+y es
+<br>
+<br>
+mi condición
+<br>
+<br>
+continua
+
+                            <p class="text-normal poema">
+                            <br>
+                            <br>
+                            <br>
+										  <strong>5.</strong>
+										  <br>
+                            <br>
+                            <br>
+jugamos
+<br>
+<br> 
+un mismo espacio
+<br>
+<br> 
+<br>
+el blanquito de la casa
+<br>
+<br> 
+y el amiguito negro
+<br>
+<br> 
+hijo de la cocinera
+<br>
+<br> 
+<br>
+hubo 
+<br>
+<br> 
+un cambio social
+<br>
+<br> 
+revolucionario dicen
+<br>
+<br> 
+que sentó
+<br>
+<br> 
+en la misma aula
+<br>
+<br> 
+al niño aplicado
+<br>
+<br> 
+obediente
+<br>
+<br> 
+sabelotodo
+<br>
+<br> 
+y al amiguito jodedor
+<br>
+<br> 
+intranquilo
+<br>
+<br> 
+problemático
+<br>
+<br> 
+<br>
+fui
+<br>
+<br> 
+a la universidad
+<br>
+<br> 
+y él a la cárcel
+<br>
+<br> 
+<br>
+para sorpresa de todos
+<br>
+<br> 
+visitaba mi casa
+<br>
+<br> 
+y no robaba
+<br>
+<br> 
+ofendía
+<br>
+<br> 
+ni maltrataba
+<br>
+<br> 
+<br>
+un día
+<br>
+<br> 
+me propuso
+<br>
+<br> 
+ser su amante
+<br>
+<br> 
+su protegido
+<br>
+<br> 
+su razón
+<br>
+<br> 
+para no volver
+<br>
+<br> 
+al presidio
+<br>
+<br> 
+<br>
+sentí el tufo
+<br>
+<br> 
+del incesto
+<br>
+<br> 
+del pecado
+<br>
+<br> 
+la traición
+<br>
+<br>
+<br> 
+volví
+<br>
+<br> 
+a la universidad
+<br>
+<br> 
+él a su cárcel
+<br>
+<br> 
+donde alguien
+<br>
+<br> 
+lo desangró
+<br>
+<br> 
+con un vulgar
+<br>
+<br> 
+cuchillo 
+<br>
+<br> 
+de carnicero.                      
+                            </p>
+                            <p class="text-normal poema">
+                            <br><br><br>
+                            
+                     
+                                <strong>6.</strong>
+                                <br><br><br>
+¿cómo ir
+<br><br>
+más allá
+<br><br>
+de la pena?
+<br><br><br>
+¿cómo saltar
+<br><br>
+la barrera
+<br><br>
+que
+<br><br>
+ante nosotros
+<br><br>
+ha colocado?
+<br><br><br>
+pena 
+<br><br>
+es el día
+<br><br>
+y pena 
+<br><br>
+es la noche
+<br><br><br>
+pena 
+<br><br>
+el sueño
+<br><br>
+y pena 
+<br><br>
+el caminar
+<br><br><br>
+pena
+<br><br>
+cuando ríes
+<br><br>
+y pena
+<br><br>
+cuando lloras
+<br><br><br>
+pena
+<br><br>
+si te abrazan
+<br><br>
+y pena
+<br><br>
+si la espalda
+<br><br>
+responde
+<br><br><br>
+todo 
+<br><br>
+continuo penar
+<br><br>
+ante el arrecife
+<br><br>
+continua
+<br><br>
+de la pena 
+                         
+                            </p>
+                            
+                            <p class="text-normal poema">
+                            <br><br><br>
+										  <strong>7.</strong>
+										  <br><br><br>
+la muerte
+<br><br>
+siempre a tu lado
+<br><br><br>
+siempre
+<br><br>
+atenta
+<br><br>
+compañía
+<br><br><br>
+pero
+<br><br>
+la muerte
+<br><br>
+de una bala
+<br><br>
+asesina
+<br><br>
+de una cárcel
+<br><br>
+injusta
+<br><br>
+de una balsa
+<br><br>
+en el mar
+<br><br>
+es
+<br><br>
+de alguna 
+<br><br>
+manera 
+<br><br>
+más
+<br><br>
+incisiva
+<br><br>
+más
+<br><br>
+dolorosa
+<br><br>
+más
+<br><br>
+punzante
+<br><br>
+que
+<br><br>
+cualquier
+<br><br>
+otra
+<br><br>
+igualmente
+<br><br>
+inmerecida 
+                            </p>
+                            <p class="text-normal poema">
+                            <br><br><br>
+										  <strong>12.</strong>
+										  <br><br><br>
+la noche brilla
+<br><br>
+constelada
+<br><br>
+limpia
+<br><br>
+a pesar del smog
+<br><br>
+y las luces 
+<br><br>
+terrenales
+<br><br><br>
+a nuestro 
+<br><br>
+derredor
+<br><br>
+edificios 
+<br><br>
+sombras
+<br><br>
+carreteras
+<br><br><br>
+silencio
+<br><br>
+paz 
+<br><br>
+éxtasis
+<br><br>
+ante la lluvia 
+<br><br>
+de estrellas 
+<br><br>
+fugaces
+<br><br><br>
+fugaces
+<br><br>
+como ese instante
+<br><br>
+de mi mano
+<br><br>
+entre tus cabellos
+                            </p>
+                            
+                            <p class="text-normal poema">
+                            <br><br><br>
+										  <strong>33.</strong>
+<br><br>
+las Navidades
+<br><br>
+sus pinos
+<br><br>
+sus adornos 
+<br><br>
+multicolores
+<br><br>
+sus luces
+<br><br>
+sus sonrisas
+<br><br>
+sus regalos
+<br><br><br>
+las Navidades
+<br><br>
+sus falsedades
+<br><br>
+sus mentiras
+<br><br>
+sus buenas
+<br><br>
+y malas
+<br><br>
+intenciones
+<br><br><br>
+las Navidades
+<br><br>
+como todo
+<br><br>
+la mayor falsedad
+<br><br>
+el más limpio
+<br><br>
+símbolo
+<br><br>
+de fraterno
+<br><br>
+interés
+<br><br><br>
+la Pascua
+<br><br>
+sus cruces
+<br><br>
+sus lágrimas
+<br><br>
+arrepentimientos
+<br><br>
+y promesas
+<br><br><br>
+la Pascua
+<br><br>
+su 
+<br><br>
+no lo vuelvo a hacer
+<br><br>
+penar doloroso
+<br><br>
+que se eleva
+<br><br>
+y nos eleva
+<br><br><br>
+su paz
+<br><br>
+su felicidad
+<br><br><br>
+la Pascua
+<br><br>
+como todo
+<br><br>
+en el hombre
+<br><br>
+rito vacío
+<br><br>
+sendero sin frutos
+<br><br><br>
+memoria
+<br><br>
+razón
+<br><br>
+que quiere ser
+<br><br>
+camino de amor
+                            </p>
+                            <p class="text-normal poema">
+                            <br><br><br>
+										  <strong>70.</strong>
+										  <br><br><br>
+cada vez
+<br><br>
+más tiempo
+<br><br>
+en mi cuarto
+<br><br><br>
+más tiempo
+<br><br>
+en mis libros
+<br><br><br>
+más tiempo
+<br><br>
+en mi música
+<br><br><br>
+más tiempo
+<br><br>
+en mis oraciones
+<br><br><br>
+cada vez
+<br><br>
+más tiempo
+<br><br>
+en mi cuaderno
+<br><br>
+escrito a bolígrafo
+<br><br><br>
+más tiempo
+<br><br>
+en mis poemas
+<br><br><br>
+más tiempo
+<br><br>
+en mis ensayos
+<br><br><br>
+y oigo
+<br><br>
+ciertamente
+<br><br>
+oigo
+<br><br> 
+las campanas
+<br><br><br>
+pero no importa
+<br><br>
+no quiero 
+<br><br>
+que me importe
+<br><br>
+por quién 
+<br><br>
+doblan las campanas
+                            </p>
+                           
+                           
+                            <p class="text-normal poema">
+                            <br><br><br>
+										  <strong>71.</strong>
+										  <br><br><br>
+una foto
+<br><br>
+nunca dice
+<br><br><br>
+unos brazos sólidos
+<br><br>
+una cara
+<br><br>
+de incertidumbre
+<br><br>
+pueden esconder
+<br><br>
+un cuerpo dócil
+<br><br>
+a las caricias
+<br><br>
+una firme
+<br><br>
+convicción
+<br><br>
+ante el vacío
+<br><br><br>
+una foto
+<br><br>
+nunca dice
+<br><br>
+el olor
+<br><br>
+de tus axilas
+<br><br>
+el aliento
+<br><br>
+de tu boca
+<br><br>
+el calor
+<br><br>
+de tu piel
+<br><br>
+la presión
+<br><br>
+de tu lengua
+<br><br><br>
+una foto
+<br><br>
+nunca dice
+<br><br>
+tu reacción
+<br><br>
+si mi cuerpo
+<br><br>
+se acerca
+<br><br>
+nunca dice
+<br><br>
+el espacio
+<br><br>
+de un encuentro
+<br><br>
+la presencia
+<br><br>
+posible
+<br><br>
+del amor
+<br><br>
+más allá
+<br><br>
+del roce 
+<br><br>
+de los sexos
+<br><br><br>
+una foto
+<br><br>
+dice
+<br><br>
+aquí estoy
+<br><br>
+así me ves
+<br><br>
+pero
+<br><br>
+nunca dice
+<br><br>
+lo que calla
+<br><br>
+el corazón.
+                            </p>
+                         
+                           <p class="text-normal poema">
+                           <br><br><br>
+										72.
+										<br><br><br>
+das la espalda
+<br><br><br>
+mueca idiota 
+<br><br>
+en el espejo
+<br><br><br>
+sales
+<br><br><br>
+luz crudelísima 
+<br><br>
+Lázaro extravagante
+<br><br>
+sombra de la muerte
+<br><br><br>
+después de todo
+<br><br>
+la buena fortuna 
+<br><br>
+te acompaña
+<br><br><br>
+has encontrado
+<br><br>
+a un dios 
+<br><br>
+de misericordia
+<br><br>
+que te dice 
+<br><br>
+cada día
+<br><br>
+infatigable 
+<br><br>
+en su perdón
+<br><br>
+levántate y anda.  
+ 									</p>
+ 										
+                 </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right" colspan="2">
+                        <div class="pb-md pt-md" style="padding-right: 1rem; font-weight: bolder;">
+                            <a class="text-black pr-sm" href="hojasalviento1.html">siguiente</a> |
+                            <a class="text-black pr-sm" href="index.html">inicio</a> |
+                            <a class="text-black pl-sm" href="javascript:void(0);" id="scroll">arriba</a>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+
+    <tr class="menu bg-grey">
+        <td class="menu-life">
+            <a href="vidapublica.html"><p>&nbsp;</p></a>
+        </td>
+        <td class="menu-last">
+            <a href="lastnumbers.html"><p>&nbsp;</p></a>
+        </td>
+        <td class="menu-writers">
+            <a href="escritoresahs.html"><p>&nbsp;</p></a>
+        </td>
+        <td class="menu-link">
+            <a href="javascript:void(0);"></a>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="4">
+            <div class="footer">
+                <p class="text-white">
+                   &copy; Centro Provincial del Libro y la Literatura.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+
+<!-- The Modal -->
+<div class="modal" align="center">
+    <div class="modal-body">
+        <div class="modal-header">
+            <div align="right">
+                <h1 class="close">&times;</h1>
+            </div>
+            <p class="figcaption" style="padding-bottom: 1.5rem;"></p>
+        </div>
+        <div class="modal-content" align="center">
+            <img class="" src="">
+        </div>
+    </div>
+</div>
+
+</body>
+<!-- Scripts section -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="data.js"></script>
+<script src="assets/js/league.js"></script>
+</html>

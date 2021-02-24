@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/roblejo.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Manuel Roblejo Proenza
+                    <br>
+                    <small>(Bayamo, 1982)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Poeta y narrador cubano.
+                </p>
+                <p class="text-normal text-white">
+                    Es graduado de Ingenier&iacute;a en Telecomunicaciones y Electr&oacute;nica en la Universidad de Oriente, Santiago de Cuba, en el 2006. Ganador de diversos premios literarios nacionales e internacionales, entre los que sobresalen:
+                </p>
+                <p class="text-normal text-white">
+                    <em>Primera Menci&oacute;n Honrosa en el XIII Concurso Literario “Gonzalo Rojas Pizarro” de cuento, Chile, 2016.</em>
+                    <br/>
+                    <em>Finalista del Premio Internacional de Poes&iacute;a “Hispaletras”, Panam&aacute;, 2016.</em>
+                    <br/>
+                    <em>Finalista en el Premio Internacional de Cuentos “Gabriel Mir&oacute;”, Espa&ntilde;a, 2016</em>
+                    <br/>
+                    <em>Primer Premio VIII Concurso Literario “Relatos Asombrosos”, Argentina, 2016</em>
+                    <br/>
+                    <em>Primer Premio en el Concurso de Cuentos “Carmen Rubio”, Cuba, 2016.</em>
+                    <br/>
+                    <em>Premio Nacional de Literatura “F&eacute;lix Pita Rodr&iacute;guez”, Cuba, 2017.</em>
+                    <br/>
+                    <em>Premio Nacional de Literatura “Emilio Ballagas”, Cuba, 2018.</em>
+                </p>
+                <p class="text-normal text-white">
+                    <b>Publicaciones:</b>
+                </p>
+                <p class="text-normal text-white">
+                    <em>“Diario &iacute;ntimo del mal amante”</em>. Editorial Guantanamera. Espa&ntilde;a, 2017.
+                    <br/>
+                    <em>“Ni&ntilde;os del tiempo”</em>. Editorial Montecallado. Cuba, 2018.
+                    <br/>
+                    Sus relatos y poes&iacute;as han sido publicados en antolog&iacute;as en pa&iacute;ses como Espa&ntilde;a, Argentina, EEUU, Chile, Venezuela y Cuba.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                    <br>
+                    <small></small>
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

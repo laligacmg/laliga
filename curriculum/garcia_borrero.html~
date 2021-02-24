@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/jantonio.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Juan Antonio Garc&iacute;a Borrero
+                    <br>
+                    <small>(Camag&uuml;ey, 8 de septiembre de 1964)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Ensayista e investigador del cine cubano. Ha ganado en tres ocasiones el Premio Nacional de la Cr&iacute;tica Literaria por los libros Gu&iacute;a cr&iacute;tica del
+                    cine cubano de ficci&oacute;n, La edad de la herej&iacute;a y Otras maneras de pensar el cine cubano, en ocho ocasiones el Premio Caracol a la mejor investigaci&oacute;n
+                    o cr&iacute;tica del a&ntilde;o, y en el 2004 el Premio Internacional de Ensayo de la revista &ldquo;Temas&rdquo; por el trabajo &ldquo;Cine cubano: Historia, historiograf&iacute;a y post-
+                    modernidad&rdquo;. Su blog &ldquo;Cine cubano, la pupila insomne&rdquo; fue creado en el 2007, y se ha convertido en uno de los principales foros de debate del audiovisual
+                    realizado por cubanos.
+                </p>
+                <p class="text-normal text-white">
+                    Es uno de los fundadores del Taller Nacional de Cr&iacute;tica Cinematogr&aacute;fica de Camag&uuml;ey y su coordinador de las sesiones te&oacute;ricas (1993-2015). En el 2000 dirigi&oacute; en La Habana la Primera Muestra de Nuevos Realizadores cubanos. Ha impartido conferencias en diversas universidades del mundo (Estados Unidos, Francia, Espa&ntilde;a, Argentina, Colombia) y ha sido jurado de varios festivales internacionales de cine (Vi&ntilde;a del Mar, Huesca, Lima, Piracicaba, La Habana).
+                </p>
+                <p class="text-normal text-white">
+                    Ha publicado los siguientes libros: Por una cr&iacute;tica imperfecta (Editorial Chau Bloqueo, Argentina, 1997), &iquest;Qui&eacute;n le pone el cascabel al Oscar? (Universidad Veracruzana, M&eacute;xico, 1998, y Editorial Oriente, Santiago de Cuba, 1998), La ciudad simb&oacute;lica (Editorial &Aacute;cana, Camag&uuml;ey, Cuba, 2000, Compilador), Gu&iacute;a cr&iacute;tica del cine cubano de ficci&oacute;n (Editorial Arte y Literatura, La Habana, Cuba, 2000), Regreso a la ciudad simb&oacute;lica (Editorial &Aacute;cana, Camag&uuml;ey, Cuba, 2001, Compilador), Julio Garc&iacute;a Espinosa: las estrategias de un provocador (Festival de Huelva-Casa de Am&eacute;rica de Madrid, Espa&ntilde;a, 2001, Compilador), Rehenes de la sombra (Festival de Huesca- Casa de Am&eacute;rica de Madrid – Filmoteca de Andaluc&iacute;a, Espa&ntilde;a, 2001), La dictadura de los cr&iacute;ticos (Editorial &Aacute;cana, Camag&uuml;ey, Cuba, 2002, Compilador), La edad de la herej&iacute;a (Editorial Oriente, Santiago de Cuba, Cuba, 2002), El Oscar m&aacute;s corto (Festival de Huesca, Espa&ntilde;a, 2005), Todo sobre Oscar (Editorial Oriente, Santiago de Cuba, 2006), Cine cubano: naci&oacute;n, di&aacute;spora e identidad (Festival de Benalm&aacute;dena, Espa&ntilde;a, 2006, Compilador), Cine cubano de los sesenta: mito y realidad (Festival de Huelva – Editorial Ocho y medio, Espa&ntilde;a, 2007), Otras maneras de pensar el cine cubano (Editorial Oriente, Santiago de Cuba, 2009), Bloguer&iacute;as (Editorial Acana, Camag&uuml;ey, Cuba, 2009), Intrusos en el Para&iacute;so (Festival &ldquo;Cines del Sur&rdquo;/ Filmoteca de Andaluc&iacute;a, Granada, Espa&ntilde;a, junio del 2009), Cine cubano, la pupila insomne (Editorial UNI&Oacute;N, La Habana, junio 2011), y El perfecto neoanalfabeto y otras bloguer&iacute;as (Editorial Oriente, 2013).
+                </p>
+                <p class="text-normal text-white">
+                    En el a&ntilde;o 2009 obtuvo la Beca &ldquo;Raz&oacute;n de Ser&rdquo; concedida por la Fundaci&oacute;n Alejo Carpentier (Cuba) con el fin de concluir el libro &ldquo;Hasta cierto Tit&oacute;n&rdquo;, una biograf&iacute;a intelectual de Tom&aacute;s Guti&eacute;rrez Alea que a&uacute;n permanece in&eacute;dita. Asimismo en el  2006 le fue concedida por la Fundaci&oacute;n Carolina (Madrid, Espa&ntilde;a) una beca para investigar la representaci&oacute;n de la emigraci&oacute;n espa&ntilde;ola en el cine cubano. Por otro lado, en el 2011 su blog &ldquo;Cine cubano, la pupila insomne&rdquo; obtuvo el auspicio acad&eacute;mico de "Cuban and Caribbean Studies Institute&rdquo; y el &ldquo;Stone Center for Latin American Studies&rdquo; de la Universidad de Tulane (Nueva Orleans).
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

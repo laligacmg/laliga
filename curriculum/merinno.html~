@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/lidia.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Lidia Meri&ntilde;o
+                    <br>
+                    <small>(Pinar del R&iacute;o, 1968)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Poetisa y narradora. Miembro de la Uni&oacute;n de Escritores y Artistas de  Cuba (Uneac). Graduada de Licenciatura en Espa&ntilde;ol y Literatura por la Universidad Pedag&oacute;gica de Pinar del R&iacute;o (1990). Aparece en el Diccionario de Autores de la Literatura Infantil Cubana y en la compilaci&oacute;n de entrevistas realizada por Enrique P&eacute;rez D&iacute;az <em>Los que escriben para ni&ntilde;os se confiesan</em>. Es miembro del Consejo Editorial de la revista de literatura para ni&ntilde;os y j&oacute;venes <em>Chinchila</em>.
+                </p>
+                <p class="text-normal text-white">
+                    Realiza varios proyectos de promoci&oacute;n de la lectura, y de apreciaci&oacute;n y creaci&oacute;n literaria con ni&ntilde;os y adolescentes. Varios de sus poemas para ni&ntilde;os han sido musicalizados y aparecen en los discos de la EGREM <em>Ra&iacute;ces y Luceros</em> (Vol. II) y <em>Sonrisa azul</em> (Vol. I) y en el programa de la TV Cubana <em>La sombrilla amarilla</em>. Asimismo su libro <em>Villa Lomita</em> ha sido adaptado para el programa de la TV Cubana <em>Claro Clarita</em>. Sus cuentos <em>Cuando el tiempo sali&oacute; a paseo</em> y <em>Sapoflaco</em> han sido adaptados para la radio. &Uacute;ltimos t&iacute;tulos publicados: <em>Esto no es un libro</em>, Ediciones Loynaz, 2017; <em>Lloviendo</em>, Editorial Gente Nueva, 2017 y <em>Ciertos nombres de amor&hellip; y otros versos desesperados</em>, Publicaciones Entre L&iacute;neas, Miami, USA, 2017. Ha obtenido los premios Regino Boti, Alcorta, Fundaci&oacute;n de la Ciudad de Santa Clara y  Hermanos Loynaz.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

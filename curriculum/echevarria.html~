@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/ahmel.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Ahmel Echevarr&iacute;a Per&eacute;z
+                    <br>
+                    <small>(La Habana, 1974)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Narrador. Ingeniero Mec&aacute;nico. Miembro de la Uni&oacute;n Nacional de Escritores y Artistas de Cuba (UNEAC)
+                    y de Latin American Studies Association (LASA). Obtuvo el Premio David 2004 en el g&eacute;nero cuento con el libro
+                    Inventario (UNION, 2007); el Premio Pinos Nuevos 2005 con la noveleta Esquirlas (Letras Cubanas, 2006); Beca
+                    Fronesis de creaci&oacute;n novel&iacute;stica 2007, menci&oacute;n en el Premio UNEAC Cirilo Villaverde de
+                    novela 2008 y Premio Franz Kafka de Novelas de Gaveta 2010 por la obra D&iacute;as de entrenamiento (FRA,
+                    Rep&uacute;blica Checa, 2012); Beca de creaci&oacute;n Raz&oacute;n de ser 2008 por el proyecto de libro de cuentos
+                    Las espirales del tiempo. En el 2010 obtuvo el acc&eacute;sit en el Premio de Cuento convocado por la revista La
+                    Gaceta de Cuba, y la Beca Dador por la obra Pastel para pit bulls. En el 2011 obtuvo el acc&eacute;sit en el Premio
+                    de Cuento convocado por la revista La Gaceta de Cuba. En el 2012 obtuvo el Premio Jos&eacute; Soler Puig de Novela
+                    con el libro B&uacute;falos camino al matadero (Oriente, 2013) y el Premio de Novela &Iacute;talo Calvino con la
+                    obra La noria (UNION, 2013). En el 2013 obtuvo la Beca Dador por la obra Caballo con arzones. Sus cuentos aparecen
+                    publicados en las antolog&iacute;as Historias so&ntilde;adas y otros minicuentos (Luminaria, 2003), Los que cuentan
+                    &mdash;Una antolog&iacute;a&mdash; (Cajachina, 2007), La &iacute;nsula fabulante &mdash;El cuento cubano en la
+                    Revoluci&oacute;n&mdash; (1959-2008) (Letras Cubanas, 2008), La fiamma in bocca &mdash;Giovanni narratori cubani&mdash;
+                    (Voland, 2009), Todo un cortejo caprichoso -Cien narradores cubanos- (La Luz, 2011), Ni + ni &ndash; gordas (Extramuros,
+                    2011), El martillo y la hoz (Isliada, 2011), He visto pasar los trenes (Letras Cubanas, 2012) e Isla en negro
+                    Historias de crimen y enigma (Abril, 2013). Miembro del staff del e-zine de escritura irregular The Revolution Evening
+                    Post. Columnista del sitio web de la revista Cuba Contempor&aacute;nea (www.cubacontemporanea.com). Actualmente trabaja
+                    como editor del sitio web Centronelio (www.centronelio.cult.cu) y Vercuba (www.vercuba.com).
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                    <br>
+                    <small>boomerang1830@gmail.com</small>
+                    <br>
+                    <small>ahmel@centro-onelio.cult.cu</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

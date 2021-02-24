@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr>
+        <td colspan="4">
+            <a href="index.html">
+                <img src="assets/images/banner.jpg"/>
+            </a>
+        </td>
+    </tr>
+    <tr class="menu bg-grey">
+        <td class="menu-credit">
+            <a href="creditos.html">
+                <p>&nbsp;</p>
+            </a>
+        </td>
+        <td colspan="2" align="center">
+            <p class="text-white fecha"></p>
+        </td>
+        <td class="menu-email">
+            <a href="javascript:void(0);"></a>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td valign="top">
+            <table cellspacing="1" class="menu-left full-width bg-dark">
+                <tr>
+                    <td class="menu-summary">
+                        <a href="sumario.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-editorial">
+                        <a href="editorial.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-sable">
+                        <a href="sable.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-leaf">
+                        <a href="hojasalviento.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-hive">
+                        <a href="lacolmena.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-laberinto">
+                        <a href="ellaberinto.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-lectura">
+                        <a href="lectura.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-dia">
+                        <a href="dia.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-facebook">
+                        <a href="facebook.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="menu-hornilla">
+                        <a href="lahornilla.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-celosia">
+                        <a href="lacelosia.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="menu-paleta">
+                        <a href="paleta.html"><p>&nbsp;</p></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+
+        <td class="bg-dark" colspan="3">
+            <table cellspacing="0" class="content bg-ligthgrey">
+                <tr>
+                    <td>
+                        <div class="cell-title" id="home">
+                            <p class="title">
+                               La casa es una piel
+                            </p>
+                        </div>
+                        <div class="cell-autor">
+                            <p>
+                                <span>Por: </span>
+                                <a class="autor" href="curriculum/desiderio.html" target="_blank">Desiderio Borroto Fernández</a>
+                            </p>
+                        </div>
+                    </td>
+                    <td class="cell-logo">
+                        <img src="assets/images/logo_lectura.png"/>
+                    </td>
+                </tr>
+                <tr>
+                    
+                </tr>
+                <tr>
+                    <td colspan="2" >
+                        
+                        <br>
+                        <div class="text-center">
+                            <figure>
+                                <img src="assets/images/article/24/10.jpg" class="img-landscape" alt="Maria E Molinet">
+                            </figure>
+                        </div>
+                       <div class="content-body">
+                            
+                               “Tú eres el de Guáimaro, qué eventualidad, hoy no podremos encontrarnos, estoy de salida, te estaba esperando para ponernos de acuerdo, voy para una reunión de preparación del Congreso de la UNEAC <sup class="footnotes"><a href="#notapie1" id="nota1" 
+title=" María Elena Molinet estuvo entre las fundadoras de UNEAC e integró su ejecutivo nacional y en ese momento se estaba preparando un Congreso de la Organización y ella estaba en su comisión organizadora.">1</a></sup>
+nos vemos mañana a las diez, mucho gusto” y con un gesto me invitó a salir hasta la acera donde la esperaba un Lada que se la llevó precipitadamente ante mis ojos. Ella: María Elena Molinet de la Peña, diseñadora de vestuario, actriz ocasional, estudiosa de la moda, pedagoga, mujer audaz, hija de un general mambí.
+                            </p>
+                            
+                            <p class="text-normal">
+                               Como no tenía otra alternativa, merodeé un rato con la mente fija en una idea, lo difícil que sería la entrevista con aquella mujer rampante que no me dejó pronunciar palabra alguna. Al día siguiente puntualmente toqué a su puerta, ella me recibió y en pocos minutos borró la impresión anterior, la empatía nos cubrió a ambos, la primera pregunta de nuestra conversación la hizo ella:
+                            </p>
+                            <p class="question">
+                               MEM: ¿Un cafecito? 
+                            </p>
+                            <p class="text-normal">
+                             DBF: Sí.
+                            </p>
+                          
+                            <p class="text-normal">
+                               Después del café, todo estaba prevenido en un espacio aparte de su casa de la Calle 27 en el Vedado,<sup class="footnotes"><a href="#notapie2" id="nota2" title="La casa de María Elena Molinet: calle 27 No 762 entre A y Paseo en el Vedado, La Habana. ">2</a></sup>
+ sobre una mesa, gran cantidad de documentos, fotos, publicaciones, diseños, catálogos, lo que denotaba, a manera de revelación, que me estaba esperando en serio y con disposición abierta; ella me invitó a ir hasta la mesa preparada y se sentó elegantemente: “Empecemos”, espetó.
+                            </p>
+                            
+                            <p class="text-normal">
+                              DBF: Hay abolengos sociales y también históricos…
+                            </p>
+                            <p class="text-normal">
+                               MEM: Yo tengo de los dos, son en mí una herencia, después te explico.
+                            </p>
+                            <p class="text-normal">
+                              DBF: Uno de esos abolengos, el histórico le viene por ser hija de un general mambí ¿Qué se siente cuando se es hija de un independentista y general de esas contiendas?
+                            </p>
+                            <p class="text-normal">
+                              MEM: Papá fue Brigadier, sí, general, nació en Guáimaro, ¿tú sabes?, lo ascendieron a coronel también en Guáimaro, lo ascendió Calixto García cuando tomaron aquella plaza, después te cuento la anécdota del piano de Primelles, un ayudante de Papá en esos días.
+                            </p>
+                            <p class="text-normal">
+                               Es la primera vez que me preguntan por mi ascendencia mambisa y especialmente sobre Papá: Eugenio Molinet Amorós <sup class="footnotes"><a href="#notapie3" id="nota3" title="Eugenio Molinet Amorós nació en Guáimaro el 29 de marzo del año 1861 y fue bautizado en la Iglesia La Concepción de Guáimaro el 1ro de mayo de ese año. Falleció en La Habana en marzo de 1959. Médico y general mambí.">3</a></sup>.
+Lo primero es que eso me ha hecho sentir orgullosa y honrada toda la vida y he sido consecuente con esa condición aunque no ha sido así con todos sus hijos pero eso es harina de otro costal. Con Papá creo que se han cometido varias injusticias, una es esta, en la academia de medicina están los retratos de muchos médicos y Papá no está, yo pregunté y me dijeron que porque él no había sido académico pero que sería un honor para ellos tener un retrato del médico–general y me pidieron un retrato rosadito y realista de Papá; nunca lo hice, eso me mortificó mucho. Papá fue médico, colaborador en un tiempo de Finlay, llegó a ser jefe del Cuerpo de Sanidad del Ejército Libertador y escribió una cartilla de sanidad mambisa y otra de las injusticias es que por ahí tengo un librito que se titula “Generales camagüeyanos” y Papá no aparece y Guáimaro es de Camagüey, ¿no?
+                            </p>
+                            
+                            <p class="text-normal">
+                            Sabes nunca he estado en Guáimaro, solo de pasada en viajes a Holguín o cuando muy niña a Chaparra y Delicia, me gustaría ir porque es parte de la tierra de mis mayores, como Bayamo, que es de donde me viene mi otro abolengo de los Ramírez de Villega, gente de alcurnia; mi abuela me contaba del incendio de Bayamo y que a su familia no le había hecho mucha gracia, pero ella me narraba con devoción el episodio, ellos eran gente muy pudiente en la zona de Bayamo–Manzanillo; a pesar de eso, ella fue mambisa en la Guerra Grande. Papá decía que por sus venas corría la sangre democrática de  los Molinet y por la de Mamá la aristocrática de los Ramírez de Villega, por eso
+                            digo que tengo de los dos abolengos. Aunque siempre he creído como Zaratustra que “Vuestro honor no lo constituirá vuestro origen, sino vuestro fin”<sup class="footnotes"><a href="#notapie4" id="nota4" title="Este es uno de los  aforismo  del libro Así habló Zaratustra de Federico Nietzsche.">4</a></sup>.
+
+                            </p>
+                            <div class="text-center">
+                            <figure>
+                                <img src="assets/images/article/24/11.jpg" class="img-landscape" alt="María Elena con su hermano carlos foto de Joaquín Blez">
+                            </figure>
+                            </div>
+                            <p class="text-normal">
+                             DBF: Su niñez trascurrió casi toda en La Habana, ¿dónde estudió?
+                            </p>
+                            <p class="text-normal">
+                             MEM: El recuerdo más claro, más nítido que tengo es el del colegio de las monjas donde me llevó Mamá en contra de la voluntad de Papá, ya para entonces estaban separados y yo me negaba a estar en aquel colegio tan rígido y modelado con horarios estrictos para misa, rezar… no encajaba en aquel colegio, simplemente no encajaba pero siempre estuve un tiempo allí, me inculcaban una obediencia y Papá me enseñaba otra, perdona que recurra a él, pero influyó bastante en mí y en mi hermano Carlos, él me decía que la mujer debe ser independiente, trabajar y luego casarse porque la casa es una piel. 
+                            </p>
+                            <p class="text-normal">
+                             DBF: ¿En qué lugar empezó a trabajar María Elena Molinet de la Peña?
+                            </p>
+                            <p class="text-normal">
+                             MEM: No era fácil para una muchacha trabajar en esa época pero logré un puesto, no una botella, en el Gobierno Provincial de La Habana, no era un trabajo de placer pero me daba el sustento y la libertad que necesitaba respirar. Mientras trabajaba en ese lugar pasó la Segunda Guerra Mundial, por esos años me interesaban ya el diseño, la moda, la propaganda gráfica y la vestimenta en general, de la moda acá llegaban copias francesas y norteamericanas, desde entonces empecé con la cosquillita de investigar sobre la vestimenta.
+                            </p>
+                            <p class="text-normal">
+                             DBF: ¿Tuvo algún referente en su inclinación hacia el diseño de vestuario o la moda?
+                            </p>
+                            <p class="text-normal">
+                             MEM: ¿Cubano o extranjero?
+                            </p>
+                            <p class="text-normal">
+                             DBF: Los referentes, no importan las fronteras.
+                            </p>
+                            <p class="text-normal">
+                             MEM: Mira, en 1942 un tipo excepcional llamado Rogelio Dalmau hizo una exposición en el Piso de la Moda del Encanto, allí trabajaba una prima mía, Sofi Torres<sup class="footnotes"><a href="#notapie5" id="nota5" title=" Sofi Torres, prima de María Elena, sostuvo durante años una fluida correspondencia con el general Molinet de la que se pueden sacar experiencias importantes sobre el pensamiento del general mambí sobre la mujer. El autor de esta entrevista conserva algunas copias de esa correspondencia.">5</a></sup>
+ y yo asistí, aquello me impresionó, sus figurines tenían otro aire, era lo que entonces llamaban Decó. Este Dalmau<sup class="footnotes"><a href="#notapie6" id="nota6" title="Rogelio Dalmau fue diseñador de vestuario y dibujante escenográfico, desde muy joven colaboró con la revista Social. Dalmau realizó en París diseños para cabarets importantes de la capital gala como Follies Berguere y Moulin Rouge. También recibió contratos de la revista norteamericana Harper's Bazar.">6</a></sup>
+ se convirtió en una figura representativa del diseño, hasta compartió en París y recibió guiños en Nueva York, creo que todavía se le debe un reconocimiento acá en la Isla.
+                            </p>
+                            <p class="text-normal">
+                             DBF: ¿Y usted cuando debutó?
+                            </p>
+                            <p class="text-normal">
+                             	MEM: Mi debut fue ese mismo año de 1942 cuando publiqué diseños y algunas ilustraciones en la revista Atlética Femenina que no era de las que marcaban pautas pero era a la que tenía acceso, además todavía me faltaba entrenamiento, me preocupaba mucho la vestimenta y su historia sobre todo en Cuba, eran bichitos que me picaban.
+                            </p>
+                            <p class="text-normal">
+                             DBF: En Cuba se tenía al diseño de figurines de moda e incluso a las ilustraciones como oficio menor y eran escasas las posibilidades de superación profesional ¿Cómo logró dominar el oficio con tantas adversidades a su alrededor?
+                            </p>
+                            <p class="text-normal">
+                             MEM: Fácil no fue, te cuento: aquí en La Habana funcionaba una academia de dibujo comercial, yo estudié en ella y me gradué en 1949 pero seguía sintiendo que me faltaba oficio y matriculé pintura y grabado en San Alejandro, por esa época mucha gente criticaba a la Academia y otros iban a sus aulas a buscar solo lo que les interesaba o les hacía falta, esa era una opción que yo entendía bien. En mi caso lo necesitaba todo, quería lanzarme a la moda, al diseño de escenografías, de vestuario, todo, me inquietaba lo más mínimo y trataba de observar con ojo crítico lo que estaba pasando a mi alrededor.
+                            </p>
+									 <p class="text-normal">
+                             DBF: ¿Y qué estaba pasando?
+                            </p>
+                            <p class="text-normal">
+                             MEM: Estaba pasando algo muy interesante, Cuba se convertía en un sitio de referencia en el diseño de moda, en el ambiente del diseño en general y las ilustraciones, estábamos tocando el violín, eso quiere decir que estábamos logrando la síntesis que necesita lo nacional en cualquier ámbito, ya habíamos sobrepasado al figurín pintado o más bien adosado a un paisaje urbano habanero. La creación original en estos campos necesita tiempo de cocina en el que la gente de aquí miró hacia París o Nueva York pero estaban sentados en el Malecón. Ya te hablé de Dalmau pero no fue el único, no se pueden olvidar nombres como los de Valls, Massaguer, ni a Enrique García, aquí estuvo trabajando un mexicano que hacía unas acuarelas monísimas,<sup class="footnotes"><a href="#notapie7" id="nota7" title=" Se presupone que se refiera al mexicano Carlos Sánchez un artista de ese país que vivió en Cuba y se dedicaba al diseño de figurines  con un gran domino del oficio">7</a></sup> 
+                             
+ Andrés,<sup class="footnotes"><a href="#notapie8" id="nota8" title="Se refiere al diseñador de vestuario Andrés García  que trabajó para las revistas de moda cubanas de la época (1936 -1959)">8</a></sup>
+ que tampoco era cubano, era, era… español, hace poco estuve en España y me topé con Severito,<sup class="footnotes"><a href="#notapie9" id="nota9" title="Severo Sarduy  importante escritor cubano, guía de toda una generación de escritores e intelectuales de la Isla.">9</a></sup>
+ él siempre me ha caído muy bien, me gustan sus cosas ¡qué lástima que se haya ido! Bueno no voy a desviar ¡fíjate! Tú me corriges porque me voy del tema con mucha facilidad.
+                            </p>
+                            <p class="text-normal">
+                             DBF: ¿Entonces?
+                            </p>
+                            <p class="text-normal">
+                             MEM: Seguimos, ya en los 50 te puedo asegurar que nuestros diseñadores e ilustradores habían sentado cátedra, el diseño de vestuario para el mundo del espectáculo, el teatro y el cine habían ganado profesionalmente y estaban las mujeres en un plano favorable.
+                            </p>
+                            <p class="text-normal">
+                             DBF: En ese ámbito del diseño de moda, ilustraciones así como en los diseños de vestuarios teatrales, danzarios y otros en Cuba se destacaron mujeres ¿qué opinión le merecen esas incursiones en un arte y oficio sin mucha jerarquía por aquel entonces?
+                            </p>
+                            <p class="text-normal">
+                             MEM: Esto es muy arriesgado pero creo que es un factor o una condición a tener en cuenta, diseño de vestuario, moda e ilustraciones comerciales eran poco considerados, tenidos a menos, recuerdo que a Gattorno, este otro muchacho que murió joven, Pérez Cisneros, el crítico, lo fustigó por asomarse a estas labores, entonces sí era una actividad menor, ¿por qué no dejar que las mujeres —tenidas a menos también en esa sociedad discriminatoria— fuesen diseñadoras? Eso me revienta pero creo que algo de eso funcionó en el caso nuestro, sin embargo y a pesar de eso ahí están los nombres, sus obras y los reconocimientos de las cubanas dedicadas al difícil y exigente arte del diseño en todas sus dimensiones y variantes.
+                            </p>
+                            <p class="text-normal">
+                             Te puedo mencionar a mujeres comoEsperanza Durruty,<sup class="footnotes"><a href="#notapie10" id="nota10" title="Esperanza Durrity: dibujante y diseñadora cubana que realizaba sus dibujos desde Paris.">10</a></sup>
+ un poco afrancesada pero excelente; ¡ah! Lily del Barrio,<sup class="footnotes"><a href="#notapie11" id="nota11" title="Lily del Barrio: diseñadora de moda cubana que trabajó en Hollywood en la compañía Paramout, de regreso a la Isla fundó una academia que estuvo activa por mucho tiempo y allí se enseñaba con pautas de amplia sofisticación.">11</a></sup>
+ ella creó incluso una academia, sus patrones seguían un glamour, ¡vaya!, a mí me gustaban y, fíjate, a lo mejor esto no lo sabe mucha gente: Lily del Barrio trabajó para una compañía en Hollywood, la meca del cine, donde no todo el mundo podía filtrarse y menos si eras una mujer latina, te digo, lo que más me gustaba de ella era su glamour.
+                            </p>
+                            <p class="text-normal">
+                             Salía una revista llamada Ellas, en sus páginas trabajó una diseñadora que a mí me parece que dejó su huella, quizás por contraste con la línea que llevaba en sus páginas de moda donde había impuesto su sello Antonio Aguilar, él tenía una influencia claramente cubista, porque hay que ver, y eso no lo tenemos en cuenta aquí, y son las influencias de las tendencias estéticas del arte en los diseñadores, quienes a veces están muy atentos a ellas o se involucran en las mismas como ocurrió con Aguilar y sus figurines cubistas. Regreso: al entrar a la revista Ellas, Silvia Lillo mueve la mano hacia las influencias norteamericanas y sus figurines están apegados a ese estilo aunque Silvia Lillo le pone su toque.
+                            </p>
+                            <p class="text-normal">
+                             Es abultada la lista de mujeres diseñadoras e ilustradoras si la comparamos con el resto de las artes visuales, por ejemplo, aquí se editaba la revista Vanidades, en esa revista —ahora hay una por ahí muy mona, toda llena de fotos y chismecitos—, en la que se publicaba acá trabajaron diseñadoras como Olivia Robián —cuando empezaron a salir sus figurines todavía yo trabajaba en el Gobierno de la Habana—, también estaba otra muchacha, Julia Sánchez, mira, a los figurines de ella yo les notaba algo imperfecto pero bueno de lo que se trata ahora es de recordar a esas mujeres que le dieron realce a este arte y oficio.
+                            </p>
+                            <p class="text-normal">
+                             Más para acá recuerdo a Irene Rubio, Ana Cardet. De esta la gente comentó que nunca llegaría a donde Andrés, se equivocaron porque ella lo sustituyó y puso su talento y destreza en función de la moda así como su espíritu, en cualquier momento habrá que hacer un alto y estudiar sus aportes, a Ana Cardet yo la menciono en mis clases y conferencias, hablé de ella hace poco en España; no, no, no fue en España, fue en Venezuela.
+                            </p>
+                            <p class="text-normal">
+                             DBF: ¿Cómo encaja María Elena Molinet en todo este movimiento que me ha descrito?
+                            </p>
+                            <p class="text-normal">
+                             MEM: En todo ese movimiento que buscaba en alguna medida una sustancia nacional para las zonas del diseño, la moda, el vestuario, el diseño escénico etc., en ese movimiento faltaba una cosa muy importante, cardinal: la especialización, eso lo demuestra la movilidad de muchos diseñadores, que lo mismo diseñaban figurines, que ilustraban libros o revistas, anuncios publicitarios, diseños escenográficos y de vestuario de teatro o de cine. Faltaba especialización y cuando salgo de San Alejandro me digo “María Elena, lo tuyo es el diseño para la escena, especialmente de la vestimenta teatral” y a eso me dediqué por completo.
+                            </p>
+                            <p class="text-normal">
+                             Fue casi un año después de abandonar San Alejandro que comienzo mi carrera como diseñadora de vestuario, de allá hasta acá, ¡cómo ha llovido!, he trabajado en unas cien o más piezas de todo tipo dentro de las artes escénicas y también en el cine.
+                            </p>
+                            <p class="text-normal">
+                             DBF: Antes de pasar a su labor en el cine quisiera que me dé su opinión sobre el desenlace de ese movimiento que estaba acercando a Cuba a la primera línea en esas zonas tan amplias del diseño.
+                            </p>
+                            <p class="text-normal">
+                             MEM: Te explico, y es mi parecer, el que coincide o quizás yo sea la que coincida con muchos y es que al triunfar la Revolución se le presta poca atención a la moda, el diseño y al dibujo comercial y otras áreas afines, la zona de prioridad se movió a lo social casi exclusivamente pero el cartel se enrumbó por esos perfiles donde también alcanzamos cúspides a la altura del cartel polaco o de las renovaciones checas, sin dejar de mencionar a Occidente. Diseño gráfico y fotografía subieron la parada en los sesenta cuando el asunto de la vestimenta, la moda y la propaganda comercial prácticamente languidecieron, en algunos ministerios e institutos quedaron pequeños talleres de diseño ¡qué lástima! Hubiéramos llegado mucho más lejos. Pero bueno eso ya pasó, solo resta historiar o como dicen ahora por ahí “hacerle la autopsia al muerto”.
+                            </p>
+                            <p class="text-normal">
+                             DBF: Ahora mismo le acaban de otorgar el Oscar en mejor vestuario a la película Shakespeare enamorado,<sup class="footnotes"><a href="#notapie12" id="nota12" title="Shakespeare enamorado fue un filme multipremiado en los Oscar entregado en 1998, por los días de la entrevista todavía era un comentario general esa película por esa razón de actualidad en aquel momento se tomó como referente al filme mencionado y a su diseñador de vestuario.">12</a></sup>
+ que fue diseñado por Sandy Powell, acá en Cuba en las fichas técnicas que promocionan los filmes nacionales ni siquiera se hace alusión a los diseños de vestuario y mucho menos se premia en esa categoría ¿Qué cree de esa situación para el entramado de esa profesión artística?
+                            </p>
+                            <p class="text-normal">
+                             MEM: Me satisface que tú creas que es una profesión artística y por lo tanto un arte, imagínate una pieza ambientada en el renacimiento con la protagonista en minifaldas o una obra actual con túnicas romanas, eso es anacronismo y en la escena los anacronismos le restan verismo al suceso escénico, la vestimenta hace un gran porcentaje de esa función verista en el teatro y otras manifestaciones escénicas, esa es una parte de la realidad; la otra, y regreso a lo que te he dicho, el diseño de vestuario, los enganches de la moda o la propaganda comercial son tenidos a menos y es cuando yo pienso en el pop art y el linaje a que ha llegado, entonces me rio a carcajadas de la falta de horizontes pero a la vez me sobrecojo porque esta es mi profesión, mi vida.
+                            </p>
+                            <p class="text-normal">
+                             Por eso dedico mucho tiempo a investigar sobre la vestimenta y la imagen del hombre, porque a través de la vestimenta se detectan razones conformadoras de la nación y la identidad, la vestimenta evoluciona con el hombre y le impone sellos a las épocas, entonces socioculturalmente es un elemento que compone las esencias. ¿Por qué tú crees que un sabio como Ronald Barthes le dedicó uno de sus libros técnicos, Système de la mode?<sup class="footnotes"><a href="#notapie13" id="nota13" title="Aunque éste texto de Ronald Barthes es de los 60 del siglo pasado, el autor de la entrevista solo ha podido consultar la edición en español del 2007 publicada por la Editorial Gustavo Gili en Barcelona.">13</a></sup>
+ Este científico pone las cosas en su lugar y al menos a mí me sirvió de alivio para saber que teóricamente no estaba equivocada.
+                            </p>
+                            <p class="text-normal">
+                             Tú sabes, esas ideas convertidas en conceptos de Ronald Barthes sobre las distinciones de la moda yo las trasmito a mis alumnos del Instituto de Diseño, en el ISA o en Artes y Letras de la Universidad de La Habana también cuando salgo al extranjero.
+                            </p>
+                            <p class="text-normal">
+                             DBF: ¿Podrías esclarecerme esas distinciones de la moda en sus letras iniciales?
+                            </p>
+                            <p class="text-normal">
+                             MEM: ¡Claro! La moda que se puede escribir con la m minúscula es pasajera tiene que ver con lo que prevalece en el gusto de la vestimenta en un tiempo determinado, también a esta se le considera social que no es lo mismo que vestimenta escénica y hay más porque la moda es un hecho económico que influye en el ámbito del vestir, esa es Moda con M mayúscula. ¿Entendiste?
+                            </p>
+                       		 <div class="text-center">
+                            <figure>
+                                <img src="assets/images/article/24/12.jpg" class="img-landscape" alt="MARIA Elena en la década de los 50-foto Joaquín Blez">
+                            </figure>
+                            </div>
+                            <p class="text-normal">
+                             DBF: Ya que tocamos lo de impartir clases, usted es ya una pedagoga consagrada en el área del teatro y el diseño de la vestimenta escénica y otras disciplinas. Cuéntame desde el principio.
+                            </p>
+                            <p class="text-normal">
+                             MEM: Estamos en 1998 así que contando con los dedos… veinte, treinta, exactamente treintaisiete años de maestra y profesora. Estuve un tiempo en Venezuela porque aquí no tenía trabajo y expuse allá y todo; cuando regresé se estaban creando las escuelas de arte e instructores de arte, lo primero que hice fue impartir un cursillo para instructores de arte de teatro y lo impartimos en el Hotel Habana Libre, en la ENA trabajé como diez años para la cátedra de vestuario y diseño también he sido profesora en el Departamento de Arte de la Universidad de La Habana, en el Instituto de Diseño y por el mundo. ¡Ah!, y antes de que se pase, impartí seminarios en la escuela Internacional de Cine de San Antonio de los Baños.
+                            </p>
+                            <p class="text-normal">
+                             Unas de las clases que más me gustan, que más aprecio son las que les imparto a los realizadores de vestuario escénico, a los maquillistas, guardarropía, asistentes y anotadores que son gentes del mundo teatral insoslayables, insoslayables pero invisibles, y ellos son los que redondean las ideas estéticas del autor o el director, son la plebe del teatro pero como toda plebe son la base de la estructura porque no siempre funciona la tesis minimalista de Grotowsky<sup class="footnotes"><a href="#notapie14" id="nota14" title="Jerzy Grotowsky (1933-1999): teatrista polaco impulsor y teórico del llamado teatro de la pobreza.">14</a></sup>
+ del teatro de la pobreza donde están enfrentados el público y el actor exclusivamente.
+                            </p>
+                            <p class="text-normal">
+                             DBF: ¿Qué le dicen estos nombres: Vicente Revuelta, Andrés Castro, Abelardo Estorino, Rolando Ferrer y Roberto Blanco?
+                            </p>
+                             <p class="text-normal">
+                             MEM: Teatro cubano o parte de la médula del teatro cubano y su escena en éste último medio siglo. He trabajado con todos en el diseño de vestuario o escenográfico, son excelentes directores y algunos de ellos insuperables actores, trabajar con los directores del teatro cubano es la experiencia de mi vida porque en teatro no todos los caminos conducen a Roma, entonces uno aprende de cada camino que emprende en la búsqueda de Roma y se alcanza también la Roma íntima, de uno mismo, la que nos coloca en el imperio del saber.
+                            </p>
+                             <p class="text-normal">
+                             Algunos de los diseños realizados para piezas con estos directores los he presentado en eventos en Cuba y el extranjero, por ejemplo, en Chile, Yugoslavia, México, Checoslovaquia…
+                            </p>
+                             <p class="text-normal">
+                             DBF: De esos eventos me interesan detalles de la cuatrienal PQ de Praga, especialmente la primera en que Cuba participó con un stand en la categoría de muestra nacional en 1987.
+                            </p>
+                             <p class="text-normal">
+                             MEM: Como muestra nacional quizás sí, pero los diseñadores cubanos ya habíamos participado antes, yo misma en ese momento asistía por cuarta vez, a esa llevé los diseños de María Antonia trabajada para Teatro Irrumpe, eso fue en el 1987 y hasta ahora no he participado más. El diseño del stand general de la muestra cubana lo hizo Leandro Soto: tuvo una idea brillante, armar el stand como un gran comic pero no todo salió bien debido a que Leandro Soto llegó tarde al montaje en Praga y no pudo hacerse cargo él personalmente del montaje del stand de la Isla.
+                            </p>
+                             <div class="text-center">
+                            <figure>
+                                <img src="assets/images/article/24/13.jpg" class="img-landscape" alt="Maria E y su hermano carlos con su madre Caridad foto de Joaquín Blez">
+                            </figure>
+                            </div>
+                             <p class="text-normal">
+                             DBF: Las exposiciones de los diseños de figurines de moda o escénicos no son muy comunes y casi siempre se realizan como colaterales de otros eventos. Hasta ahora yo he revisado documentos de unas diez exposiciones donde usted ha participado entre colectivas y personales. ¿Cómo asume María Elena Molinet las exposiciones de sus diseños?
+                            </p>
+                             <p class="text-normal">
+                             MEM: Primero como un acto de liberación profesional. Una exposición es el contacto tibio de la obra del artista con el público y un poco con la crítica, nunca he sido remisa a las exposiciones porque en el caso del diseño de la vestimenta teatral devela el trabajo creador de los diseñadores, su estética, se pueden apreciar sus ventajas y sus fisuras además uno lo enfrenta a otros ojos, en la galería la mirada no es la misma que en las tablas.
+                            </p>
+                             <p class="text-normal">
+                             Si no recuerdo mal, la primera vez que expuse fue en el Museo de Arte Moderno de Caracas, por esa época en Venezuela se expandía un movimiento de las artes visuales importante que incluyó el diseño teatral y de vestimenta, la exposición en que participé se tituló Modas y fue en 1958, te dije estuve un periodo en Venezuela porque acá no tenía trabajo, regresé con la enfermedad de Papá y volví allá de donde vine definitivamente en 1961.
+                            </p>
+                             <p class="text-normal">
+                             Después la UNEAC organizó una exposición “Retrospectiva del teatro en Cuba”, luego participé en una exposición en la Casa de la Paz de México, allí fuimos nueve escenógrafos cubanos y así mismo se tituló la muestra también he estado en las cuatrienales de Praga y en la trienal Yugoslavia.
+                            </p>
+                             <p class="text-normal">
+                             Hace dos años y algo hice una exposición personal o más bien una retrospectiva personal con diseños míos de todas las épocas, la organicé con Seone<sup class="footnotes"><a href="#notapie15" id="nota15" title="Antonio Seone por esa época era Director de la Galería Domingo Ravenet ubicada en La Lisa, este crítico y curador realizó una importante labor al frente de esa institución cultural, especialmente durante el II Salón de Arte Contemporáneo.">15</a></sup>
+ que por entonces era el director de la galería Domingo Ravenet en La Lisa, la titulamos “Con los dedos del amor” esa es la última que he hecho ¡ojalá pueda hacer más!.
+                            </p>
+                             <p class="text-normal">
+                             DBF: La entrada en el cine la hemos ido posponiendo pero ya va comenzar la proyección. ¿En qué circunstancia entró usted a trabajar para el cine?
+                            </p>
+                             <p class="text-normal">
+                             MEM: Llegué al Icaic ni recuerdo en qué circunstancias pero sí el año, fue en 1967, el cine cubano producido por el Icaic estaba dando de qué hablar en América Latina y es uno de los soplos renovadores que desembocaron en una nueva manera de asumir el cine que han llamado Nuevo Cine Latinoamericano, era seductor trabajar para una productora como el ICAIC y si además allí estaban directores como Titón, Manuel Octavio Gómez, José Massip o Humberto Solás entonces se multiplica la seducción.
+                            </p>
+                             <p class="text-normal">
+                             DBF: Si entró en el año 1967, se puede sacar por asociación que sus primeros diseños fueron para el filme Tulipa de Manuel Octavio Gómez.
+                            </p>
+                            <p class="text-normal">
+                             MEM: Pues mira que sí, fue Tulipa de Manuel Octavio Gómez, era una película que se movía en los avatares de una mujer que ya pasó sus años mozos, ella una stripper que trabajaba para un circo, primero me estudié la pieza de teatro de Manuel Reguera Saumell, mira tú que coincidencia los dos se llaman Manuel, me encantó la obra pero tenía el reto de lograr un ambiente circense y la historia a la vez para diseñar el vestuario apropiado, la película no es de las más señaladas pero está hecha profesionalmente, con el mismo director Manuel Octavio Gómez hice una película fabulosa, en ella se me filtró el mambisado que me corre por las venas, soñé junto con Papá en el recuerdo. La película en cuestión es La primera carga al machete, esa sí es considerada un clásico del cine cubano.
+                            </p>
+                            <p class="text-normal">
+                             Soy una mujer y una diseñadora afortunada porque de pronto me llama a trabajar en el diseño de vestuario Humberto Solás, nada más y nada menos que para el filme Lucía…
+                            </p>
+                            <p class="text-normal">
+                             DBF: Pero en Lucía formaste parte no solo del equipo técnico sino también del elenco actoral ¿Cómo sucedió eso?
+                            </p>
+                            <p class="text-normal">
+                             MEM: Eso fue una eventualidad muy graciosa y tú sabes, tiene que ver con eso que me dijiste  al principio de los abolengos, actué como madre de la segunda Lucía, la ambientada en Cienfuegos en la época de la lucha contra Machado. Yo estaba como parte del equipo técnico y la actriz que debía encarnar el personaje no lograba actuar con el glamour que se exigía en la mesa, los cubiertos, las copas… La asesoré y asesoré y nada, finalmente optó Solás por pedirme que asumiera el papel y ya está, lo hice, nadie se imaginaba mientras filmábamos que Lucía sería un verdadero clásico, una revelación de la estética del nuevo cine latinoamericano, ¿qué te parece? Esa fue una eventualidad reconfortante que crece mientras pasa el tiempo. 
+                            </p>
+                            <p class="text-normal">
+                             DBF: Pero seguiste colaborando con el ICAIC y también con el cine de otros países.
+                            </p>
+                            <p class="text-normal">
+                             MEM: Eso del cine de otros países, parece como si yo fuera toda una figura internacional…
+                            </p>
+                            <p class="text-normal">
+                             DBF: Bueno, si usted lo dice, corrobora lo que pienso yo.
+                            </p>
+                            <p class="text-normal">
+                             MEM: Dejemos esa parte ahí, con el ICAIC trabajé en otros filmes como El Siglo de las Luces de Solás, una soberana película y muy exigente en la vestimenta porque representaba una época de transición y la imagen del hombre iba cambiando, había que atrapar esas sutilezas. Con Massip hice Baraguá, otro filme de significación en la cinematografía cubana. Al cine cubano le falta penetrar más en nuestra épica mambisa.
+                            </p>
+                            <p class="text-normal">
+                             DBF: La danza, el ballet y el folclor también han contado con sus diseños de vestimenta, ¿cuál tiene mayor peso específico en su obra, el teatro o la danza?
+                            </p>
+                            <p class="text-normal">
+                             MEM: He tenido menos oportunidades de trabajar para danza en general pero en cuanto  a jerarquía para mí están en equilibrio aunque cuantitativamente el teatro es peso pesado, te digo asumo la danza igual, por ejemplo, tengo diseños para el Conjunto Folklórico Nacional o para piezas de ballet, colaboré con Wladeen<sup class="footnotes"><a href="#notapie16" id="nota16" title="Waldeen von Falkenstein Brooke de Zatz (1913 .1993) bailarina  y maestra norteamericana de ballet y danza que vivió una temporada en Cuba y con la cual María Elena Molinet trabajo en más de una oportunidad">16</a></sup>
+ y con Evelina Berestain, fueron trabajos que te llevan a la resurrección.
+                            </p>
+                             <p class="text-normal">
+                             Estábamos terminando casi nuestras conversaciones, era la tarde del 18 de junio de 1998. Yo le obsequié mi libro Abrazado sobre la tierra, y ella el suyo La piel prohibida. María Elena Molinet lee con detenimiento mi dedicatoria, su mirada se vuelve sosegada pero de pronto cambia bruscamente y su mirada destella una picardía extrema y es ella quien pregunta:
+                            </p>
+                             <p class="text-normal">
+                             MEM: ¿Tú sabes cómo en otras épocas combatían a la moda?
+                            </p>
+                             <p class="text-normal">
+                             DBF: No tengo idea.
+                            </p>
+                             <div class="text-center">
+                            <figure>
+                                <img src="assets/images/article/24/14.jpg" class="img-landscape" alt="Maria Elena con sus diseños">
+                            </figure>
+                            </div>
+                             <p class="text-normal">
+                             MEM: Cuando alguna prenda o conjunto de ellas se ponía de moda, los censuradores de la moda que casi siempre también ostentan el poder, vestían al verdugo a la moda y como a nadie le gusta estar vestido como el verdugo, la moda en cuestión languidecía. ¿Qué te parece?
+                            </p>
+                             <p class="text-normal">
+                             DBF: Me parece que hemos olvidado la anécdota de Primelles, el ayudante de su Papá, el general Molinet y el piano en Guáimaro cuando esa villa fue tomada por las fuerzas de Calixto García en 1896.
+                            </p>
+                             <p class="text-normal">
+                             MEM: Bueno, el ayudante de papá era el teniente Eduardo Primelles, un principeño de aquellas familias patricias y de gran cultura del Camagüey, él llevaba ya mucho tiempo en la manigua. A Guáimaro, me contaba Papá, lo tomaron a cañonazos, machete y fuego, el pueblo por los días de  batalla había quedado semidestruido y muchas casas en llamas o humeantes. A Papá le dan la misión de entregar a los heridos españoles y empieza a buscar a Primelles y nada, no aparecía, escucha un piano tocado con fervor, la música salía de una de las casas humeantes y sin techo donde milagrosamente se había salvado un piano y sentado frente al piano en medio del humo Primelles tocaba entusiasmado. Papá ya muy viejecito y con segmentos de demencia senil se sentaba como sorprendido en la cama y me decía: “escuchas, escuchas, ese es Primelles tocando el piano”. La imagen es surrealista pero bella y conmovedora, así fueron nuestros fundadores.
+                            </p>
+                             <p class="text-normal">
+                             DBF: Muchas gracias.
+                            </p>
+                            <p class="text-normal">
+                             MEM: Bueno ya, terminamos.
+                            </p>
+                            <br>
+                            <br>
+                            </div>
+                       <div align="center">
+                            <img src="assets/images/divider.png"/>
+                        </div>
+                        <br>
+                        <br>
+                        <p class="footnotes-section">
+								<a href="#nota1" id="notapie1"><sup>1</sup>María Elena Molinet estuvo entre las fundadoras de UNEAC e integró su ejecutivo nacional y en ese momento se estaba preparando un Congreso de la Organización y ella estaba en su comisión organizadora.</a>
+								<br>
+								<br>
+								<a href="#nota2" id="notapie2"><sup>2</sup>La casa de María Elena Molinet: calle 27 No 762 entre A y Paseo en el Vedado, La Habana. </a>
+								<br>
+								<br>
+								<a href="#nota3" id="notapie3"><sup>3</sup>Eugenio Molinet Amorós nació en Guáimaro el 29 de marzo del año 1861 y fue bautizado en la Iglesia La Concepción de Guáimaro el 1ro de mayo de ese año. Falleció en La Habana en marzo de 1959. Médico y general mambí.</a>
+								<br>
+								<br>
+								<a href="#nota4" id="notapie4"><sup>4</sup>Este es uno de los  aforismo  del libro Así habló Zaratustra de Federico Nietzsche.</a>
+								<br>
+								<br>
+								<a href="#nota5" id="notapie5"><sup>5</sup> Sofi Torres, prima de María Elena, sostuvo durante años una fluida correspondencia con el general Molinet de la que se pueden sacar experiencias importantes sobre el pensamiento del general mambí sobre la mujer. El autor de esta entrevista conserva algunas copias de esa correspondencia.</a>
+								<br>
+								<br>
+								<a href="#nota6" id="notapie6"><sup>6</sup>Rogelio Dalmau fue diseñador de vestuario y dibujante escenográfico, desde muy joven colaboró con la revista <em>Social</em>. Dalmau realizó en París diseños para cabarets importantes de la capital gala como <i>Follies Berguere</i> y <i>Moulin Rouge</i>. También recibió contratos de la revista norteamericana <i>Harper's Bazar</i>.</a>
+								<br>
+								<br>
+								<a href="#nota7" id="notapie7"><sup>7</sup> Se presupone que se refiera al mexicano Carlos Sánchez un artista de ese país que vivió en Cuba y se dedicaba al diseño de figurines  con un gran domino del oficio.</a>
+								<br>
+								<br>
+								<a href="#nota8" id="notapie8"><sup>8</sup>Se refiere al diseñador de vestuario Andrés García  que trabajó para las revistas de moda cubanas de la época (1936 -1959).</a>
+								<br>
+								<br>
+								<a href="#nota9" id="notapie9"><sup>9</sup> Severo Sarduy  importante escritor cubano, guía de toda una generación de escritores e intelectuales de la Isla.</a>
+								<br>
+								<br>
+								<a href="#nota10" id="notapie10"><sup>10</sup>Esperanza Durrity: dibujante y diseñadora cubana que realizaba sus dibujos desde París.</a>
+								<br>
+								<br>
+								<a href="#nota11" id="notapie11"><sup>11</sup>Lily del Barrio: diseñadora de moda cubana que trabajó en Hollywood en la compañía Paramout, de regreso a la Isla fundó una academia que estuvo activa por mucho tiempo y allí se enseñaba con pautas de amplia sofisticación.</a>
+								<br>
+								<br>
+								<a href="#nota12" id="notapie12"><sup>12</sup> Shakespeare enamorado fue un filme multipremiado en los Oscar entregado en 1998, por los días de la entrevista todavía era un comentario general esa película por esa razón de actualidad en aquel momento se tomó como referente al filme mencionado y a su diseñador de vestuario.</a>
+								<br>
+								<br>
+								<a href="#nota13" id="notapie13"><sup>13</sup>Aunque este texto de Ronald Barthes es de los 60 del siglo pasado, el autor de la entrevista solo ha podido consultar la edición en español del 2007 publicada por la Editorial Gustavo Gili en Barcelona.</a>
+								<br>
+								<br>
+								<a href="#nota14" id="notapie14"><sup>14</sup>Jerzy Grotowsky (1933-1999): teatrista polaco impulsor y teórico del llamado teatro de la pobreza.</a>
+								<br>
+								<br>
+								<a href="#nota15" id="notapie15"><sup>15</sup>Antonio Seone por esa época era Director de la Galería Domingo Ravenet ubicada en La Lisa, este crítico y curador realizó una importante labor al frente de esa institución cultural, especialmente durante el II Salón de Arte Contemporáneo.</a>
+								<br>
+								<br>
+								<a href="#nota16" id="notapie16"><sup>16</sup>Waldeen von Falkenstein Brooke de Zatz (1913 .1993) bailarina  y maestra norteamericana de ballet y danza que vivió una temporada en Cuba y con la cual María Elena Molinet trabajo en más de una oportunidad</a>
+								</p>
+                  
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right" colspan="2">
+                        <div class="pb-md pt-md" style="padding-right: 1rem; font-weight: bolder;">
+                            <!--<a class="text-black pr-sm" href="lectura1.html">siguiente</a> |-->
+                            <a class="text-black pr-sm" href="index.html">inicio</a> |
+                            <a class="text-black pl-sm" href="javascript:void(0);" id="scroll">arriba</a>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+
+    <tr class="menu bg-grey">
+        <td class="menu-life">
+            <a href="vidapublica.html"><p>&nbsp;</p></a>
+        </td>
+        <td class="menu-last">
+            <a href="lastnumbers.html"><p>&nbsp;</p></a>
+        </td>
+        <td class="menu-writers">
+            <a href="escritoresahs.html"><p>&nbsp;</p></a>
+        </td>
+        <td class="menu-link">
+            <a href="javascript:void(0);"></a>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="4">
+            <div class="footer">
+                <p class="text-white">
+                  &copy; Centro Provincial del Libro y la Literatura.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+
+<!-- The Modal -->
+<div class="modal" align="center">
+    <div class="modal-body">
+        <div class="modal-header">
+            <div align="right">
+                <h1 class="close">&times;</h1>
+            </div>
+            <p class="figcaption" style="padding-bottom: 1.5rem;"></p>
+        </div>
+        <div class="modal-content" align="center">
+            <img class="" src="">
+        </div>
+    </div>
+</div>
+
+</body>
+<!-- Scripts section -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="data.js"></script>
+<script src="assets/js/league.js"></script>
+</html>

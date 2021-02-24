@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/yanira.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Yanira Marim&oacute;n Rodr&iacute;guez
+                    <br>
+                    <small>(Matanzas, 1971)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Poetisa, narradora y editora. Premio Nacional La Rosa Blanca al mejor texto de literatura infantil publicado en 2006. Premio Nacional de la Cr&iacute;tica Literaria en 2009 por el poemario <em>Contemplaci&oacute;n Vs. Acto</em>.
+                </p>
+                <p class="text-normal text-white">
+                    Ha publicado los libros: <em>La sombra infinita de los vencidos</em> (Poes&iacute;a), Ediciones Aldab&oacute;n, 2005, <em>Donde van a morir las mariposas</em> (Novela Infantil), Editorial Abril, 2005, <em>Poetas en Matanzas VI</em>, Ediciones Matanzas, 2006, <em>Contemplaci&oacute;n Vs. Acto</em> (Poes&iacute;a), Ediciones Matanzas, 2009, <em>Tocar las puertas del cielo</em> (Novela juvenil), Ediciones Matanzas, 2015 y <em>Poetas en Matanzas VII</em>, Ediciones Matanzas, 2015.
+                </p>
+                <p class="text-normal text-white">
+                    Su obra ha obtenido adem&aacute;s los siguientes reconocimientos: menci&oacute;n especial en el Concurso Internacional de Poes&iacute;a Nosside Caribe, 2003; premio de poes&iacute;a en los concursos &ldquo;Bonifacio Byrne&rdquo;, &ldquo;Delia Carrera&rdquo;, &ldquo;Dulce Mar&iacute;a Loynaz&rdquo; y &ldquo;Manuel Navarro Luna&rdquo;,  2003; Premio Calendario de la Asociaci&oacute;n Hermanos Sa&iacute;z en 2004; Premio Primer Taller Nacional de la Poes&iacute;a Joven, Camag&uuml;ey, Cuba, 2004, Premio Internacional de Cartas de amor de la Escriban&iacute;a Dollz, Sancti Sp&iacute;ritus, Cuba, 2004; Menci&oacute;n Beca de Creaci&oacute;n Dador, 2005; Premio Juegos Florales de Matanzas, 2005; finalista y menci&oacute;n del Premio de Poes&iacute;a <em>La Gaceta de Cuba</em> en 2004 y 2006; Premio de poes&iacute;a Jos&eacute; Jacinto Milan&eacute;s, 2008 y Premio en el Concurso Extraordinario de Poes&iacute;a por el bicentenario de Pl&aacute;cido, 2009. Su novela <em>Tocar las puertas del cielo</em> obtuvo la beca de creaci&oacute;n Juan Francisco Manzano de la UNEAC, en 2011. Fue finalista del I Concurso Internacional de Microrrelatos Manuel J. Pel&aacute;ez, Madrid, 2013, y obtuvo la primera menci&oacute;n en el  Concurso Debate por el bicentenario de Jos&eacute; Jacinto Milan&eacute;s, 2014
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

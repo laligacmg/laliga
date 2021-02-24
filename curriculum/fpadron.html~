@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/frankpadron.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Frank Padr&oacute;n Nodarse
+                    <br>
+                    <small>(Pinar del R&iacute;o, 1958)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Fil&oacute;logo,&nbsp; escritor, ensayista, cr&iacute;tico de artes y  comunicador audiovisual. Se especializa en cine iberoamericano, asignatura que  ejerci&oacute; durante varios a&ntilde;os en la   EICTV (Escuela Internacional de Cine y TV) de San Antonio de  los Ba&ntilde;os. Conduce y escribe, desde su fundaci&oacute;n hace diez a&ntilde;os, el popular  espacio de TV cubana De Nuestra Am&eacute;rica. Es miembro de la UNEAC (Uni&oacute;n de Escritores y  Artistas de Cuba) desde 1987, de la   UPEC (Uni&oacute;n de Periodistas de Cuba) desde 1990 y&nbsp; fundador de la Asociaci&oacute;n Cubana  de la Prensa   Cinematogr&aacute;fica, afiliada a la FIPRESCI (Federaci&oacute;n  Internacional de la   Prensa Cinematogr&aacute;fica), organismo por el cual ha  representado a su pa&iacute;s en varios festivales y eventos internacionales. Entre sus  libros: <em>M&aacute;s all&aacute; de la linterna</em> (2000, ensayos, Ed. Oriente), <em>Eros-iones</em>&nbsp; (2001, cuentos, Ed. UNI&Oacute;N), <em>Pura semejanza</em> (2004, poes&iacute;a. Ed. Hnos  Loynaz), <em>La profesi&oacute;n maldita</em> (ED.  Oriente, 2005), <em>Las celadas de Narciso</em> (2006, cuentos, Ed. Extramuros) y <em>Conversaci&oacute;n  en la luz</em> (2006, poes&iacute;a, Ed. Holgu&iacute;n) y <em>Sinfon&iacute;a  inconclusa para cine cubano</em> (ensayo) y Los latidos del espejo (poes&iacute;a).  Actualmente prepara su doctorado en cine&nbsp;  latinoamericano.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

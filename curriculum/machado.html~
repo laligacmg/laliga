@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/diusmel.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Diusmel Machado Estrada
+                    <br>
+                    <small>(Camag&uuml;ey, 1975)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Poeta y narrador. Profesor-instructor  de Literatura en la Casa  de Cultura &ldquo;Luz
+                    Palomares Garc&iacute;a&rdquo; de Gu&aacute;imaro. Sus obras han obtenido diversos
+                    premios en cert&aacute;menes literarios en Cuba y Espa&ntilde;a, entre ellos: Premio
+                    Nacional  D&eacute;cima Joven de Cuba 2002 (Casa Iberoamericana de la D&eacute;cima,
+                    Las Tunas). Premio  Extraordinario de Poes&iacute;a Centenario del Natalicio de
+                    Nicol&aacute;s Guill&eacute;n (UNEAC de  Camag&uuml;ey, 2002). Segundo Premio en el III
+                    Concurso Nacional &ldquo;Ala D&eacute;cima&rdquo; (Grupo  Ala D&eacute;cima, C. Habana, 2003).
+                    Premio de Poes&iacute;a en el Concurso Literario &ldquo;490  Aniversario de la Fundaci&oacute;n
+                    de la Villa&rdquo;  (UNEAC Camag&uuml;ey, 2004). Primer Premio en el Concurso Provincial de
+                    Poes&iacute;a  &ldquo;Riesgo de decir&rdquo; (Florida, Camag&uuml;ey, 2004). Primer Premio en el
+                    Concurso  Provincial de Poes&iacute;a Er&oacute;tica (Camag&uuml;ey, 2005). Menci&oacute;n
+                    Honor&iacute;fica en el  Certamen Internacional de Poes&iacute;a &ldquo;Azahar&rdquo;
+                    (Espa&ntilde;a, 2005). Ha sido antologado en <em>Que ca&iacute; bajo la noche</em> (panorama
+                    de la d&eacute;cima er&oacute;tica en Cuba, por Waldo  Gonz&aacute;lez L&oacute;pez, Ediciones
+                    &Aacute;vila, 2004), <em>Silvio: te debo esta canci&oacute;n</em> (antolog&iacute;a po&eacute;tica,
+                    Ediciones Santiago, Santiago de Cuba, 2005) y <em>La ventana  maravillosa</em> (compilaci&oacute;n
+                    de textos para ni&ntilde;os, Editorial &Aacute;cana, Camag&uuml;ey,  2006), entre otros. Ha
+                    publicado los siguientes libros: <em>Casa Primera</em> (poes&iacute;a, Editorial &Aacute;cana,
+                    2001). <em>Libro de Titi y Mamita </em>(poes&iacute;a para  ni&ntilde;os, en coautor&iacute;a
+                    con Mirian Estrada, Editorial &Aacute;cana, 2003).&nbsp; <em>Ca&iacute;da del &aacute;ngel a la
+                    gloria</em> (poes&iacute;a,  Editorial Sanlope, 2004). <em>Nuestros amigos del Caron&iacute; </em>
+                    (poes&iacute;a para ni&ntilde;os,  en coautor&iacute;a con Mirian Estrada; EDELCA, Venezuela.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

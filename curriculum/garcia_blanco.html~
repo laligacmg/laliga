@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/rey.JPG" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Reynaldo Garc&iacute;a Blanco
+                    <br>
+                    <small>(1962)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Coordina el Taller Literario <em>Aula de Poes&iacute;a</em>. Escribe para espacios radiales.
+                </p>
+                <p class="text-normal text-white">
+                    Ha publicado entre otros: <em>Perros blancos de la aurora</em> (Editorial Oriente,1994); <em>Abaixar las velas</em> (Editorial Oriente,1994);
+                    <em>Adi&oacute;s naves de Tarsis</em> (Ediciones Vig&iacute;a, 1995);  <em>Reverso de foto & Dossier</em> (Casa Editora Abril);
+                    <em>Artefactos</em> (Oficina del Conservador de la Ciudad, 2001); <em>Instrucciones para matar a un colibr&iacute;</em>, Ediciones Santiago,
+                    2002 y Espa&ntilde;a, Diputaci&oacute;n de C&oacute;rdoba-Ediciones Uni&oacute;n, 2004); <em>Acotaciones al libro de las horas muertas de Europa</em> (Atlanta,
+                    Estados Unidos, Ediciones Kair&oacute;s, 2003, con Rub&eacute;n Fern&aacute;ndo Alonso y Manuel Sosa); <em>Pa&iacute;s de hojaldre</em> (Editorial Letras Cubanas,
+                    2004); <em>Campos de belleza armada</em> (Ediciones Uni&oacute;n, 2007); <em>Opus ciudad</em> (Ediciones Vig&iacute;a, 2013).
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/esquivel.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Carlos Esquivel Guerra
+                    <br>
+                    <small>(Elia,  Las Tunas, 1968)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Es Miembro de la    UNEAC. En el a&ntilde;o 2005, obtuvo el premio  Iberoamericano de la D&eacute;cima  &ldquo;Cucalamb&eacute;&rdquo;. En el 2006 logr&oacute; el premio Jara Carrillo (Poes&iacute;a, Espa&ntilde;a) y  finalista del Casa de las Am&eacute;ricas (Cuba). Ha sido premiado adem&aacute;s por <em>La Gaceta de Cuba</em>, entre otros. Textos suyos  aparecen en revistas de varios pa&iacute;ses iberoamericanos y en antolog&iacute;as  realizadas en Canad&aacute;, Espa&ntilde;a, Italia, M&eacute;xico, Estados Unidos, Argentina, Puerto  Rico y Cuba. Algunos de sus libros: <em>Perros  ladr&aacute;ndole a Dios </em>(poes&iacute;a, 1999, Premio a la mejor &Oacute;pera Prima del a&ntilde;o); <em>Fuera del c&iacute;rculo</em> (poes&iacute;a, 2002); <em>Balada de los perros oscuros </em>(poes&iacute;a,  2001); <em>Una ventana al cielo</em> (cuento,  2002); <em>La Isla imposible y otras</em> <em>mujeres</em> (cuento, 2002); <em>Los hijos del kamikaze</em> (poes&iacute;a, 2008).
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/marcos.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Marcos Antonio Tamames Henderson
+                    <br>
+                    <small></small>
+                </p>
+                <p class="text-normal text-white">
+                    Master en Historia del Arte, Universidad de La Habana, 2002.
+                    Master en Restauraci&oacute;n y Conservaci&oacute;n de Centros Hist&oacute;ricos, Universidad de Camag&uuml;ey, 2002.
+                    Diplomado en Historia, Cr&iacute;tica e Identidad en el Patrimonio Construido Latinoamericano en 1998, Universidad de Camag&uuml;ey.
+                    Licenciado en Historia del Arte en 1997, Universidad de Oriente, Santiago de Cuba,
+                    Ingeniero Pecuario en 1985, Instituto Superior de Ciencias Agropecuarias, Bayamo.
+                </p>
+                <p class="text-normal text-white">
+                    <b>EVENTOS</b>
+                    <br>
+                    2004. - III Encuentro de Historia Regional y Local, OHCC, Camag&uuml;ey, noviembre del 2004. (Ponente).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- V Encuentro Nacional de Historia Iglesia Cat&oacute;lica y Nacionalidad cubana: Iglesia Cat&oacute;lica y familia en Cuba (Siglo XVI a 1960), Camag&uuml;ey, 2-5 de junio.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- IV Taller Internacional &ldquo;problemas te&oacute;ricos y pr&aacute;cticos de la Historia Regional y Local: Globalizaciones, Naciones y Regiones&rdquo;, Instituto de Historia de Cuba, La Habana, 25 de abril, (Ponente y tribunal).
+                    <br>
+                    2003. - I Congreso Internacional de ciudades hist&oacute;ricas, Universidad de	Camag&uuml;ey, 6-9 de octubre del 2003.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- VI Conferencia Internacional de Conservaci&oacute;n del Patrimonio Edificado en Camag&uuml;ey, Universidad de Camag&uuml;ey, 6-9 de octubre, (Ponente).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Congreso Nacional de Historia, Cienfuegos, 2003, (Ponente)
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Pre Congreso Nacional de Historia, Camag&uuml;ey 14 de mayo (Ponente).
+                    <br>
+                    <br>
+                    2002. - Simposio Nacional por el Centenario de Nicol&aacute;s Guill&eacute;n, Camag&uuml;ey, Septiembre 2002, (Ponente).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- II Encuentro de Historia Regional y Local, OHCC, Noviembre 2002, (Ponente).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- V Taller internacional &ldquo;Problemas te&oacute;ricos y pr&aacute;cticos de la  historia regional y local&rdquo;, La Habana, 22 al 24 de abril (Ponente).
+                    <br>
+                    2001. - XVI Congreso Nacional de Historia, 27-30 de noviembre, Santiago de Cuba. (Ponente).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- VIII Edici&oacute;n del Crisol de la Nacionalidad Cubana, 21-23 de octubre, Bayamo. (Ponente).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 5to Congreso Internacional Patrimonio Cultural Contexto y Conservaci&oacute;n, 9-13 de abril, La Habana (Ponente).
+                    <br>
+                    2000. - IV Taller Internacional Historia regional y Local &ldquo;Problemas Te&oacute;ricos y Pr&aacute;cticos&rdquo;. La Habana, Cuba,(Ponente).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I Encuentro Nacional de Historia Regional y Local. Camag&uuml;ey, (Ponente).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- VII Encuentro de Investigadores del Patrimonio Cultural. Camag&uuml;ey. 23 de diciembre (Ponente).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Jornada Nacional de oralidad y familia. Centro de Investigaci&oacute;n y Desarrollo de la Cultura Cubana. &ldquo;Juan Marinello&rdquo;, La Habana. (Ponente)
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- XVII Encuentro de Historiadores Locales. Santiago de Cuba. Noviembre,(Ponente).
+                    <br>
+                    1999. - II Congreso Internacional de Historiadores Latinoamericanistas: &ldquo;La historia de Am&eacute;rica Latina ante los desaf&iacute;os del siglo XXI&rdquo;. La habana, Cuba. (Ponente).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- X Conferencia Cient&iacute;fica del ISA. Instituto Superior de Arte. C. Habana. (Ponente).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- XV Congreso Nacional de Historia. Sancti Sp&iacute;ritus. (Ponente).
+                    <br>
+                    1998. - III Taller Internacional Asentamientos Ib&eacute;ricos en Am&eacute;rica &ldquo;Historia, patrimonio y turismo&rdquo;. Trinidad, Cuba. (Presidente de comisi&oacute;n y Ponente).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- II Coloquio Internacional &ldquo;La ciudad iberoamericana del siglo XIX&rdquo;. Cienfuegos, Cuba. (Ponente).
+                    <br>
+                    1997. - IX Conferencia Internacional de Investigaciones Cient&iacute;ficas sobre el Arte y la Cultura. ISA. C. Habana.<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- VI Encuentro Provincial de Investigadores del Patrimonio Cultural. Camag&uuml;ey. (Ponente).
+                    <br>
+                    1996. - II Encuentro Nacional de Historiadores del Arte. Universidad de La Habana (Participante).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- I Coloquio Internacional &ldquo;El Patrimonio Cultural de la Ciudad Iberoamericana del siglo XIX&rdquo;. Cienfuegos. Cuba. (Ponente).
+                    <br>
+                    1995. - Taller Cultura y Desarrollo. Santiago de Cuba (Ponente).
+                    <br>
+                    1994. - I Taller Internacional de Primeros Asentamientos Ib&eacute;ricos en Am&eacute;rica. Trinidad. Cuba. (Ponente).
+                </p>
+                <p class="text-normal text-white">
+                    <b>PUBLICACIONES</b>
+                    <br>
+                    -<em> Tras las huellas del patrimonio</em>, Ed. &Aacute;cana, Camag&uuml;ey, 2004.
+                    <br>
+                    - <em>De la Plaza de Armas al Parque Agramonte. Iconograf&iacute;a, s&iacute;mbolos y significados</em>, 2da ed., Editorial &Aacute;cana, Camag&uuml;ey, 2003, 208 p.
+                    <br>
+                    - &ldquo;Ely&rdquo;, en Ramiro Fuentes &Aacute;lamo (Comp.): La huella infidente y alg&uacute;n sobresalto, (Selecci&oacute;n de cuentos), Ed. &Aacute;cana, Camag&uuml;ey, 2003, pp. 85-86.
+                    <br>
+                    - &ldquo;Patrimonio Cultural en la antigua Plaza de San Francisco deCamag&uuml;ey&rdquo;, en CD ROM Encuentro Iberoamericano Museos y Centros Hist&oacute;ricos: identidad cultural, Direcci&oacute;n de Patrimonio Cultural, La Habana, mayo 2003, comisi&oacute;n 4, ponencia 17.
+                    <br>
+                    - &ldquo;Imagen urbana de Puerto Pr&iacute;ncipe durante el siglo XVIII&rdquo;, en Elda Cento (comp.): Cuadernos de historia principe&ntilde;a, Ed. &Aacute;cana, Camag&uuml;ey, 2002, p. 10-29.
+                    <br>
+                    - &ldquo;Identidad en la Plaza de San Francisco&rdquo;, en Elda Cento (comp.):  Cuadernos de historia principe&ntilde;a, Ed. &Aacute;cana, Camag&uuml;ey, 2002, p.156-173.
+                    <br>
+                    - &ldquo;Fuentes para una Historia Urbana. El caso de Camaguey&rdquo;, en Hern&aacute;n Venegas Delgado y Jos&eacute; Alfredo Castellanos Su&aacute;rez (coordinadores): Memorias IV taller internacional de problemas te&oacute;ricos y pr&aacute;cticos  de la Historia Regional y Local, La Habana, Cuba, Departamento de Sociolog&iacute;a Rural, Chapingo, M&eacute;xico, 2002, pp. 60-70.
+                    <br>
+                    - <em>De la Plaza de Armas al Parque Agramonte. Iconograf&iacute;a, s&iacute;mbolos y significados</em>, Editorial &Aacute;cana, Camag&uuml;ey, 2001, 204 p.
+                    <br>
+                    - &ldquo;Camag&uuml;ey como patrimonio. El Historiador de la ciudad&rdquo;, en Elda Cento (Compiladora): Cuadernos de historia principe&ntilde;a: Patrimonio legado al siglo XXI, Editorial &Aacute;cana, Camag&uuml;ey, 2001, pp. 13-22.
+                    <br>
+                    - &ldquo;Toponimia urbana en el centro hist&oacute;rico de Camag&uuml;ey&rdquo;, en Elda Cento (Compiladora): Cuadernos de historia principe&ntilde;a: Patrimonio legado al siglo XXI, Editorial &Aacute;cana, Camag&uuml;ey, 2001, p. 76-84.
+                    <br>
+                    - Textos del CD. ROM Camag&uuml;ey: Para&iacute;so y Leyenda, G&eacute;nesis Multimedia, Divisi&oacute;n de Prensa Latina y la OHC, Camag&uuml;ey, Febrero 2001. (Coautor).
+                    <br>
+                    - Numerosos art&iacute;culos en revistas y boletines nacionales e internacionales.
+                </p>
+                <p class="text-normal text-white">
+                    <b>RECONOCIMIENTOS</b>
+                    <br>
+                    - PREMIO del VI Encuentro Cultura y Desarrollo &ldquo;Pensar el mundo desde la cultura&rdquo;&ldquo;Por la Paz, la verdad y la Emancipaci&oacute;n Humana&rdquo;, Camag&uuml;ey, 21 al 22 de diciembre del 2004.
+                    <br>
+                    - PREMIO II Taller &ldquo;Ignacio Agramonte: Pensamiento, Acci&oacute;n y Vigencia&rdquo;. Direcci&oacute;n Provincial del Patrimonio Cultural, Camag&uuml;ey 2004.
+                    <br>
+                    - DISTINCI&Oacute;N 490 Aniversario Fundaci&oacute;n de la Villa Santa Mar&iacute;a del Puerto del Pr&iacute;ncipe, Asamblea Municipal del Poder Popular, 2004.
+                    <br>
+                    - PRIMER LUGAR (compartido), en el VIII Encuentro Provincial de Investigadores del Patrimonio Cultural, Museo Provincial Ignacio Agramonte, Camag&uuml;ey, 24 de diciembre 2003.
+                    <br>
+                    - PREMIO de Investigaci&oacute;n Hist&oacute;rica &ldquo;Jorge Enrique Mendoza&rdquo;, Oficina del Historiador de la Ciudad, Camag&uuml;ey, octubre 2003.
+                    <br>
+                    - MENCI&Oacute;N (Publicaciones), III Sal&oacute;n Nacional de Arquitectura Cubana, UNAICC, Santiago de Cuba, marzo del 2002.
+                    <br>
+                    - PREMIO ESPECIAL &ldquo;Roberto Balmaceda&rdquo;, en el marco del II Simposio Nacional &ldquo;Nicol&aacute;s Guill&eacute;n&rdquo;, UNEAC, Camag&uuml;ey 26 de septiembre del 2002.
+                    <br>
+                    - PREMIO &ldquo;Cultura y Patrimonio&rdquo;, Direcci&oacute;n Municipal de Cultura, Camag&uuml;ey, mayo 2002.
+                    <br>
+                    - PREMIO Evento te&oacute;rico Patrimonio y cultura, Casa Natal de El Mayor, Camag&uuml;ey.
+                    <br>
+                    - 2do. PREMIO VII Encuentro Provincial de Investigadores del Patrimonio Cultural, Direcci&oacute;n Provincial de Patrimonio, Camag&uuml;ey 2000.
+                    <br>
+                    - PREMIO. VI Encuentro Provincial de Investigadores del Patrimonio Cultural. Camag&uuml;ey 1997.
+                    <br>
+                    - MENCI&Oacute;N. VII Encuentro Nacional de Artes Pl&aacute;sticas &ldquo;Fernando Moreira&rdquo;. Sancti Sp&iacute;ritus 1996.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

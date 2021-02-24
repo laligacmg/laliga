@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/caridad.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Caridad Atencio
+                    <br>
+                    <small>(Sibanic&uacute;, Camag&uuml;ey, 1976)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Poeta, ensayista e investigadora. Licenciada en Filolog&iacute;a por la Universidad de la Habana en 1985. Trabaja como investigadora del Centro de Estudios
+                    Martianos desde 1989, donde ostenta la categor&iacute;a de investigadora auxiliar. Autora de los poemarios: Los viles aislamientos (1996), <em>Los poemas
+                    desnudos</em> (1995) M&eacute;rida, Venezuela y (1997) Cienfuegos, Umbr&iacute;as (1999), <em>Los cursos imantados</em> (2000), <em>Salinas para el potro</em> (2001),
+                    <em>La Sucesi&oacute;n</em> (2005), <em>Notas a unas notas para L.A.</em> (2005). Y de los libros de ensayo: <em>Recepci&oacute;n de Versos sencillos: poes&iacute;a del
+                    metatexto</em> (2000), <em>G&eacute;nesis de la poes&iacute;a de Jos&eacute; Mart&iacute;</em> (2005, Costa Rica), <em>Circulaciones al libro p&oacute;stumo</em> (2005), <em>De algunos poetas
+                    rom&aacute;nticos mexicanos en Mart&iacute;</em> (2005) Toluca, M&eacute;xico, <em>Un espacio de pugna est&eacute;tica. Matanzas</em> (2006). <em>La saga cr&iacute;tica de Ismaelillo.</em>
+                    (2008), <em>Los cuadernos de apuntes o la legitimaci&oacute;n de la escritura</em> (2012). Posee la Distinci&oacute;n por la Cultura Nacional.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

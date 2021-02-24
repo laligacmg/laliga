@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/uva.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Uva de Arag&oacute;n
+                    <br>
+                    <small>(La Habana, 1944)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Autora de m&aacute;s de una docena de libros, entre los que se destacan el poemario <em>Los nombres del amor</em> (1996), el ensayo <em>El caim&aacute;n ante el espejo</em> (1994), las colecciones de art&iacute;culos <em>Morir de exilio</em> (1996) y <em>Mi Cuba y el mundo en el Diario</em> (Ediciones Holgu&iacute;n, 2016), y las novelas <em>Memoria del silencio</em> (2002) y <em>El milagro de San L&aacute;zaro</em> (2016), ambas traducidas al ingl&eacute;s. Ha cultivado extensamente el periodismo. En Cuba ha publicado en <em>La Gaceta de Cuba</em> y en la revista <em>Uni&oacute;n</em>, entre otras. Hasta su jubilaci&oacute;n en 2011, fue Vice Directora del Instituto de Investigaciones Cubanas de la Universidad Internacional de la Florida, donde tambi&eacute;n ense&ntilde;aba. Graduada con un Ph.D. en literatura latinoamericana y espa&ntilde;ola de la Universidad de Miami. Mantiene el blog <em><a href="http://uvadearagon.wordpress.com/" class="text-white">Habanera soy</a></em>
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                    <br>
+                    <small></small>
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

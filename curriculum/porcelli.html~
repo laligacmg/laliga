@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/marina.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Marina Porcelli
+                    <br>
+                    <small>(Buenos Aires, 1978)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Marina Porcelli (Buenos Aires, 1978). Curs&oacute; estudios de Historia en la UBA, y actualmente se desempe&ntilde;a como editora. Colabora con el Suplemento &quot;Laberinto&quot; del diario <em>Milenio</em> de M&eacute;xico. Dirigi&oacute; la revista literaria <em>Lanzallamas</em>. Durante 2003; fue becaria del Centro Cultural de la Cooperaci&oacute;n; en marzo de 2008 particip&oacute;&nbsp;en el I Festival de Narradores J&oacute;venes realizado en La Habana, Cuba. T&iacute;tulos de sus libros: &quot;De la noche rota&quot; (cuentos, 2006); &quot;La conjetura de la realidad&quot; (cuentos, 2008); &quot;Th&agrave;lassa&quot; (nouvelle, 2008). A excepci&oacute;n de cr&iacute;ticas y ensayos, y de los cuentos galardonados en diferentes concursos, toda su obra permanece in&eacute;dita. Desde 2005, dicta talleres de lectura y escritura.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

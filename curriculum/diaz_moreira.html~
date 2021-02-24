@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/anonymous.png" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Osvaldo D&iacute;az Moreira
+                    <br>
+                    <small>(Florida, Camag&uuml;ey , 1970)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Miembro de la Uni&oacute;n Nacional de Escritores y Artistas de Cuba (UNEAC). Miembro de la Asociaci&oacute;n Hermanos Sa&iacute;z (AHS)
+                </p>
+                <p class="text-normal text-white">
+                    <b>ESTUDIOS</b>
+                    <br>
+                    2003. Instituto Superior de Arte (ISA) Arte de los Medios Audiovisuales (Direcci&oacute;n de Fotograf&iacute;a).
+                    <br>
+                    1989. Escuela Profesional de Arte Camag&uuml;ey.
+                    <br>
+                    1984. Escuela Vocacional de Arte &ldquo;Luis Casas Romero&rdquo;. Camag&uuml;ey.
+                    <br>
+                    1998. Beca de Creaci&oacute;n &ldquo;Antonia Eiris&rdquo;. Fundaci&oacute;n Ludwig de Cuba, ISA, AHS.
+                    <br>
+                    1994. Curso &ldquo;Comunicaci&oacute;n Publicitaria&rdquo;.
+                    <br>
+                    1993. Curso &ldquo;La Actual en Cuba&rdquo;.
+                </p>
+                <p class="text-normal text-white">
+                    <b>AUDIOVISUAL</b>
+                    <br>
+                    Un camino que no conduce a Roma, Documental (gui&oacute;n, fotograf&iacute;a y direcci&oacute;n)
+                    <br>
+                    Ha colaborado en asistencia de fotograf&iacute;a, direcci&oacute;n de arte, en video clips y documentales.
+                </p>
+                <p class="text-normal text-white">
+                    <b>EXPOSICIONES  PERSONALES</b>
+                    <br>
+                    2002. &ldquo;Intruso en memoria ajena&rdquo;. Museo &ldquo;Ignacio Agramonte&rdquo;. Camag&uuml;ey.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;New Melao&rdquo; (remake). Galer&iacute;a &ldquo;Habana&rdquo;. Ciudad de la Habana.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;New Melao&rdquo;. Centro Provincial de Artes Pl&aacute;sticas. Camag&uuml;ey.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;En Buena Lid&rdquo;. Galer&iacute;a &ldquo;Alejo Carpentier&rdquo;. Manzanillo, Granma.
+                </p>
+                <p class="text-normal text-white">
+                    <b>EXPOSICIONES  COLECTIVAS</b>
+                    <br>
+                    2006. &ldquo;Feria de Arte de Miami&rdquo;, Cernuda Arte, Florida, USA.
+                    <br>
+                    2005. Feria  &ldquo;Arte America&rdquo; , Cernuda Arte, Florida, USA.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feria  &ldquo;Art Santa Fe&rdquo;,  Cernuda Arte, Nuevo M&eacute;xico, USA.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feria &ldquo;Fuera de lo Acostumbrado&rdquo;, Cernuda Arte,  New York, USA.
+                    <br>
+                    2004. &ldquo;Nuevas rutas del arte cubano&rdquo;. Galeria Nacional de Arte de Malasia, Kuala Lumpur,  Malasia.
+                    <br>
+                    2002. &ldquo;Prestige de L’Art Cubain &ldquo;Galerie - L’ Affiche – Casino du Gosier, Guadalupe.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Im&aacute;genes de la Isla&rdquo; Centro Cultural &ldquo;Jorge Luis Borges&rdquo;. Buenos  Aires. Argentina.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11TH Daejon Int’l Cartoon Contest, &ldquo;Daejon Expo Science Park, Gallery. Seoul, Korea.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;My theme &rdquo;World Cartoon Gallery. Skopje, Macedonia.
+                    <br>
+                    2001. V Sal&oacute;n Nacional de Pintura, Escultura y Grabado. Casa de la Cultura Mexicana. &ldquo;Benito Juarez&rdquo;. Ciudad de la Habana.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10TH Daejon Int’l Cartoon Contest, &ldquo;Daejon Expo Science Park, Gallery. Seoul, Korea.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VII Sal&oacute;n Nacional de Premiados. Centro de Desarrollo de las ArtesVisuales, Ciudad de la Habana.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Tropical&iacute;simo&rdquo; Caracola Galery. Los Angeles. EE.UU.
+                    <br>
+                    1999. &ldquo;Babel la Torre Cubana&rdquo;. Muestra de Arte Cubano. Universidad Polit&eacute;cnica de Barcelona, Espa&ntilde;a.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Arte Cubano y Argentino&rdquo;. Galer&iacute;a CTA, Buenos Aires, Argentina.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Arte Contempor&aacute;neo Cubano en Argentina&rdquo;. Palacio de las Artes Belgrano, Buenos  Aires, Argentina.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Segunda Bienal Iberoamericana de Acuarela&rdquo;. Casino Municipal Vi&ntilde;a del Mar, Chile.
+                    <br>
+                    1998. II Sal&oacute;n Nacional de Pintura, Dibujo y Escultura Galer&iacute;a &ldquo;La Casona&rdquo;.  FCBC, Ciudad de la Habana.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;II Sal&oacute;n de Arte Cubano Contempor&aacute;neo. &ldquo;Ciudad, met&aacute;fora para un fin de siglo&rdquo;. Fototeca de Cuba, Ciudad de la Habana.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Sabor Tropical&rdquo;. Centro de desarrollo de las Artes Visuales, Ciudad de La Habana.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;I Concurso Nazionale di Pittura, Disegno e Incisione&rdquo;. Galer&iacute;a IILA  (Instituto Italolatinoamericano). Roma, Italia.
+                    <br>
+                    1997. &ldquo;I Concurso Nacional de Pintura, Dibujo y Grabado&rdquo;. Centro de Desarrollo de las Artes  Visuales, Ciudad de la Habana.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Cores de Cubanas Docas&rdquo;. Gare Mar&iacute;tima de Alc&aacute;ntara, Salao &ldquo;Almada Negreiros&rdquo;. Lisboa, Portugal.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Realidades Virtuales&rdquo;. Pabell&oacute;n Cuba, (Colateral VI Bienal de la Habana) Ciudad de la Habana.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Joven Pl&aacute;stica Cubana&rdquo;. Sociedade de Adbogados. Lisboa, Portugal.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;La Cruzada de San Jorge&rdquo;. Galer&iacute;a &ldquo;La Madriguera&rdquo;. Ciudad de la Habana.
+                    <br>
+                    1993. &ldquo;El Llanero Solitario&rdquo;. Galer&iacute;a  &ldquo;Habana&rdquo;. Ciudad de La Habana.
+                </p>
+                <p class="text-normal text-white">
+                    <b>RECONOCIMIENTOS</b>
+                    <br>
+                    2002. Gran Premio. &ldquo;XII Sal&oacute;n de la Ciudad&rdquo; Galer&iacute;a &ldquo;Alejo Carpentier&rdquo;. Camag&uuml;ey.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio UNEAC. &ldquo;XII Sal&oacute;n  de la Ciudad&rdquo; Galer&iacute;a, Alejo Carpentier. Camag&uuml;ey.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menci&oacute;n de Honor  11TH Daejon Int’l Cartoon Contest, Seoul, korea.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio V Sal&oacute;n Nacional de Pintura, Escultura y Grabado. Casa de la Cultura Mexicana. &ldquo;Benito Ju&aacute;rez&rdquo;. Ciudad de la Habana.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menci&oacute;n de Honor 10TH  Daejon Int’l Cartoon Contest,  Seoul, Korea.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio UNEAC XVII Sal&oacute;n Provincial de Artes Pl&aacute;sticas &ldquo;Fidelio Ponce de Le&oacute;n. Galer&iacute;a   &ldquo;Alejo Carpentier&rdquo;. Camag&uuml;ey.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio &ldquo;XI Sal&oacute;n de la Ciudad&rdquo; Galer&iacute;a &ldquo;Alejo Carpentier&rdquo;.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio &ldquo;XI Sal&oacute;n de la Ciudad&rdquo;  Galer&iacute;a &ldquo;Alejo Carpentier&rdquo;. Camag&uuml;ey.
+                    <br>
+                    2000. Premio XVI Sal&oacute;n Provincial de las Artes Pl&aacute;sticas &ldquo;Fidelio Ponce de Le&oacute;n&rdquo;.Galer&iacute;a &ldquo;Alejo Carpentier&rdquo;. Camag&uuml;ey.
+                    <br>
+                    1999. Premio AHS &ldquo;IX Sal&oacute;n de la Ciudad&rdquo;. Galer&iacute;a, Alejo Carpentier. Camag&uuml;ey.
+                    <br>
+                    1998. Premio XIV Sal&oacute;n Provincial de las Artes Pl&aacute;sticas &ldquo;Fidelio Ponce de Le&oacute;n&rdquo;. Centro Provincial de Artes Pl&aacute;sticas, Camag&uuml;ey.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio &ldquo;VIII Sal&oacute;n de la Ciudad&rdquo;. Galer&iacute;a &ldquo;Alejo Carpentier&rdquo; Camag&uuml;ey.
+                    <br>
+                    1997. Premio &ldquo;I Concurso Nacional de Pintura, Dibujo y Grabado&rdquo;. Centro de Desarrollo de las Artes Visuales. Ciudad de la Habana.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio XIII Sal&oacute;n Provincial de las Artes Pl&aacute;sticas &ldquo;Fidelio Ponce de Le&oacute;n&rdquo;. Centro
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Provincial de las Artes Pl&aacute;sticas. Camag&uuml;ey.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio &ldquo;VII  Sal&oacute;n de la Ciudad&rdquo;. Galer&iacute;a  &ldquo;Alejo Carpentier&rdquo;.Camag&uuml;ey.
+                    <br>
+                    1996. Premio &ldquo;Museo Casa Natal del Mayor&rdquo;.XII Sal&oacute;n Provincial de Artes Pl&aacute;sticas &ldquo;Fidelio Ponce de Le&oacute;n. Centro Provincial de Arte Pl&aacute;sticas. Camag&uuml;ey.
+                    <br>
+                    1995. Premio &ldquo;Museo Casa Natal del Mayor&rdquo;. XI Sal&oacute;n Provincial de Artes Pl&aacute;sticas. &ldquo;Fidelio Ponce de Le&oacute;n&rdquo; Centro Provincial de Artes Pl&aacute;stica. Camaguey.
+                    <br>
+                    1994. Menci&oacute;n X Sal&oacute;n Provincial de Artes Pl&aacute;sticas &ldquo;Fidelio Ponce de Le&oacute;n&rdquo;. Centro Provincial de Artes  Pl&aacute;sticas. Camag&uuml;ey.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Menci&oacute;n II Sal&oacute;n Provincial &ldquo;Arte Joven&rdquo;.Centro Provincial de Artes Pl&aacute;sticas. Camag&uuml;ey.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio &ldquo;IV Sal&oacute;n dee la Ciudad&rdquo;. Galer&iacute;a &ldquo;Alejo Carpentier&rdquo;. Camag&uuml;ey.
+                    <br>
+                    1993. Premio-Adquisici&oacute;n Museo Provincial &ldquo;Ignacio Agramonte&rdquo;. IX Sal&oacute;n  Provincial de Artes Pl&aacute;sticas &ldquo;Fidelio Ponce de Le&oacute;n&rdquo;. Centro Provincial de Artes Pl&aacute;sticas. Camag&uuml;ey.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio &ldquo;III Sal&oacute;n de la Ciudad&rdquo;. Galer&iacute;a &ldquo;Alejo Carpentier&rdquo;.Camag&uuml;ey.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

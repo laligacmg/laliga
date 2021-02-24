@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/osvaldo.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Osvaldo Gallardo Gonz&aacute;lez
+                    <br>
+                    <small>(Vertientes, Camag&uuml;ey, 1975)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Miembro de la AHS. Licenciado en  Espa&ntilde;ol-Literatura, ISP Jos&eacute; Mart&iacute;,
+                    1998.&nbsp;  Diplomado en Estudios Martianos, ISA, 2001. Editor-redactor y Editor  Principal
+                    de la Editorial  &Aacute;cana de Camag&uuml;ey entre los a&ntilde;os 2001 y 2007. Ha
+                    participado en la  edici&oacute;n y redacci&oacute;n de m&aacute;s de 60 t&iacute;tulos de
+                    diversos g&eacute;neros. Ha realizado el Programa  Te&oacute;rico Literario en varias de las
+                    ediciones de la Feria Internacional  del Libro en Camag&uuml;ey y mantiene, desde el 2002, el
+                    espacio de poes&iacute;a La Nave de los Locos.  Actualmente es el editor de la revista <em>Enfoque</em> y
+                    Secretario para la Cultura  de la Arquidi&oacute;cesis  de Camag&uuml;ey. Textos suyos han
+                    sido publicados en las selecciones <em>La huella infidente y alg&uacute;n sobresalto</em>
+                    (narrativa, &Aacute;cana, 2003) y <em>Poes&iacute;a  camag&uuml;eyana</em> (&Aacute;cana, 2002).
+                    Es compilador, en coautor&iacute;a con el Dr. Jos&eacute;  Emilio Hern&aacute;ndez, del libro <em>
+                    Espa&ntilde;ol,  texto y comunicaci&oacute;n</em> (Col. Ciencia y T&eacute;cnica,
+                    &Aacute;cana, 2005). Es colaborador  habitual de cr&iacute;tica literaria para la revista
+                    <em>Antenas</em> de Camag&uuml;ey y ha publicado en las revistas nacionales <em>La Gaceta
+                    de Cuba</em> y <em> La Letra  del Escriba</em>. Premio del Movimiento Juvenil Martiano en
+                    Evento Memoria  Nuestra, Romer&iacute;as de Mayo, Holgu&iacute;n, 2005, con la ponencia
+                    &ldquo;Indicios  humor&iacute;sticos en textos po&eacute;ticos de Jos&eacute; Mart&iacute;&rdquo;.
+                    Primera Menci&oacute;n en el Concurso  Literario 400 A&ntilde;os del Quijote; <em>Bolet&iacute;n
+                    Diocesano</em>, Camag&uuml;ey, 2006. Su poemario in&eacute;dito &ldquo;Di&aacute;logo sin
+                    luz&rdquo; fue  finalista del Premio de Poes&iacute;a de <em>La Gaceta de Cuba</em>, 2007 y
+                    obtuvo el Premio  Rolando Escardo, UNEAC, Camag&uuml;ey, 2007.
+                </p>
+                <p class="text-normal text-white">
+                    Obtuvo en la &uacute;ltima edici&oacute;n de la Feria del Libro el premio de poes&iacute;a
+                    Bustos Domecq de la AHS.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

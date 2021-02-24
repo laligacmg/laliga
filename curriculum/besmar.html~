@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/anonymous.png" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Joel R. Besmar Nieves
+                    <br>
+                    <small>(Camag&uuml;ey, 1968)</small>
+                </p>
+                <p class="text-normal text-white">
+                    <b>ESTUDIOS REALIZADOS</b>
+                    <br>
+                    1979 – 1982: Escuela Vocacional de Artes. Camag&uuml;ey, Cuba.
+                    <br>
+                    1982 – 1986: Escuela Nacional de Artes Pl&aacute;sticas. La Habana, Cuba. Especialidad: pintura y dibujo.
+                    <br>
+                    1988 – 1990: Instituto Superior de Arte. La Habana, Cuba. Especialidad: pintura.
+                </p>
+                <p class="text-normal text-white">
+                    Desde 1986 hasta el 2001 comparti&oacute; su actividad profesional como artista pl&aacute;stico con la docencia, impartiendo asignaturas te&oacute;ricas (Historia del Arte, etc.) y talleres (Pintura e Historia de las t&eacute;cnicas pict&oacute;ricas, dise&ntilde;o, ilustraci&oacute;n, etc.) en la Escuela Vocacional de Artes y en la Escuela Profesional de Artes Pl&aacute;sticas y Ballet, de Camag&uuml;ey. Aparte de su actividad profesional como artista pl&aacute;stico, ha realizado proyectos de dise&ntilde;o escenogr&aacute;fico para grupos teatrales, ilustraciones para libros de poes&iacute;a, conferencias y ensayos sobre cuestiones del arte y su propia obra. Actualmente reside en Camag&uuml;ey.
+                </p>
+                <p class="text-normal text-white">
+                    <b>EXPOSICIONES PERSONALES</b>
+                    <br>
+                    2002: &ldquo;Ascensus-Tree Spirit&rdquo; Museo McDonough, Youngstown, Ohio,  EEUU
+                    <br>
+                    2000: "Ascensiones" Centro de Desarrollo de las  Artes Visuales La  Habana
+                    <br>
+                    1999: "Ubique  Pictura" Taller  del Artista Camag&uuml;ey
+                    <br>
+                    1997: - "La Piedra  Despertada"  (Colateral a la VI Bienal de La Habana) Galer&iacute;a  Fayad Jamis, La Habana
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "La Mirada Vertical" (II) Galer&iacute;a  Casa del Joven Creador Camag&uuml;ey
+                    <br>
+                    1996: - "La Mirada  Vertical" (I) Galer&iacute;a  La Oveja Negra Camag&uuml;ey
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "La Monta&ntilde;a Negra - La Monta&ntilde;a Sagrada"
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- (Exposici&oacute;n retrospectiva: 1987-1996) Galer&iacute;a  del Centro Provincial de Artes Pl&aacute;sticas Camag&uuml;ey
+                    <br>
+                    1986: - "Halley"
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- (Exposici&oacute;n  del proyecto de grado) Galer&iacute;a  de la Escuela Nacional de Artes Pl&aacute;sticas La Habana
+                </p>
+                <p class="text-normal text-white">
+                    <b>EXPOSICIONES COLECTIVAS</b>
+                    <br>
+                    2005 - 1985: Sal&oacute;n "Fidelio Ponce de Le&oacute;n" (XXI, XVI, XI, X, VI, V, IV, II, I) Galer&iacute;a Alejo Carpentier, Camag&uuml;ey
+                    <br>
+                    2004: &ldquo;Of / from Cuba: The Island Without Borders&rdquo;, a Cuban and Cuban-American Culture Week at the Center of Latin American and Border Studies, New Mexico State University, Las Cruces, NM, del 8 al 12 de Nov/2004.
+                    <br>
+                    1999: "Artistas del Caribe Hispano" (Cuba-Rep. Dominicana) Inner Tropical Center of the Arts. Miami, EE.UU.
+                    <br>
+                    1998: - "Huellas de la Pintura Cubana de Hoy" Fausto Art Gallery, Santo Domingo, R. D.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Muestra de Artistas Camag&uuml;eyanos Galer&iacute;a del Centro Provincial de Artes Pl&aacute;sticas. Holgu&iacute;n, Cuba
+                    <br>
+                    1996: "La Oveja Negra" Galer&iacute;a La Oveja Negra, Camag&uuml;ey
+                    <br>
+                    1995: "M&iacute;rame despacio que tengo prisa" (exposici&oacute;n itinerante de artistas  cubanos) Galer&iacute;as regionales de todo el pa&iacute;s, Cuba
+                    <br>
+                    1993: - "El llanero Solitario"(Muestra de artistas camag&uuml;eyanos) Galer&iacute;a Habana, La Habana
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Sal&oacute;n de Dibujo "Ignacio Agramonte" Galer&iacute;a del Centro Provincial de Artes Pl&aacute;sticas, Camag&uuml;ey
+                    <br>
+                    1991 - 1999: Sal&oacute;n de la Ciudad (I – II – VI - IX). Galer&iacute;a de Arte Universal, Camag&uuml;ey
+                    <br>
+                    1989: - "Camag&uuml;ey Hoy" (Muestra de artistas camag&uuml;eyanos, colateral al IV Sal&oacute;n Nacional de Premiados)  Galer&iacute;a Habana, La Habana
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- II Sal&oacute;n Nacional de Peque&ntilde;o Formato. Galer&iacute;a de Arte Universal, Camag&uuml;ey
+                    <br>
+                    1985: - Exposici&oacute;n de Grabados y Pinturas (Alumnos de 3er. a&ntilde;o)
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Galer&iacute;a de la Escuela Nacional de Artes Pl&aacute;sticas. La Habana (Muestra Concurso de Dise&ntilde;o)
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Galer&iacute;a de la Escuela Nacional de Artes Pl&aacute;sticas, La Habana</p>
+                <p class="text-normal text-white">
+                    <b>PREMIOS</b>
+                    <br>
+                    2005: Premio del Sal&oacute;n; Premio del Fondo Cubano de Bienes Culturales; Premio de la UNEAC; Premio del Museo Provincial Ignacio Agramante. En: XXI Sal&oacute;n &ldquo;Fidelio Ponce de Le&oacute;n&rdquo;, Camag&uuml;ey.
+                    <br>
+                    2000: Premio de la Oficina del Historiador de la Ciudad de Camag&uuml;ey. En: XVI Sal&oacute;n "Fidelio Ponce de Le&oacute;n", Camag&uuml;ey
+                    <br>
+                    1995: - Gran Premio Especial por Centenario de Fidelio Ponce de Le&oacute;n. En: Sal&oacute;n "Fidelio Ponce de Le&oacute;n", Camag&uuml;ey
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Premio Pr&iacute;ncipe. (Premio anual otorgado por Televisi&oacute;n Camag&uuml;ey)
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Premio del Sal&oacute;n. En: Sal&oacute;n de Dibujo "Ignacio Agramonte", Camag&uuml;ey.
+                    <br>
+                    1994: Premio del Sal&oacute;n; Premio de la U.N.E.A.C. Premio del Museo Provincial de Camag&uuml;ey.  En: X Sal&oacute;n "Fidelio Ponce de Le&oacute;n", Camag&uuml;ey
+                    <br>
+                    1993: Premio del Fondo Cubano de Bienes Culturales. 2do. Premio del Sal&oacute;n.  En: Sal&oacute;n de Dibujo "Ignacio Agramonte", Camag&uuml;ey
+                    <br>
+                    1991: Premio del Sal&oacute;n; Premio de la U.N.E.A.C. Premio del Museo Provincial de Camag&uuml;ey.  En: I Sal&oacute;n de la Ciudad, Camag&uuml;ey
+                    <br>
+                    1990: Premio del Sal&oacute;n; Premio de la U.N.E.A.C.; Premio del Fondo Cubano de Bienes Culturales; Premio del Centro de Arte de Santiago de Cuba. En: Sal&oacute;n "Fidelio Ponce de Le&oacute;n", Camag&uuml;ey
+                    <br>
+                    1986: Premio al Proyecto de Grado. Escuela Nacional de Artes Pl&aacute;sticas, La Habana.
+                    <br>
+                    1985: Premio en Concurso de Dise&ntilde;o. Escuela Nacional de Artes Pl&aacute;sticas, La Habana
+                </p>
+                <p class="text-normal text-white">
+                    <b>CONFERENCIAS  Y TEXTOS</b>
+                    <br>
+                    - HISTORIA DE LAS T&Eacute;CNICAS PICT&Oacute;RICAS EN OCCIDENTE: Or&iacute;genes de una tradici&oacute;n. (Conferencia)  Viernes 23 de Septiembre de 1994  Escuela Profesional de Artes Pl&aacute;sticas, Camag&uuml;ey.
+                    <br>
+                    - LA MIRADA VERTICAL: (disertaci&oacute;n sobre las claves interpretativas de las  series &ldquo;La Mirada  Vertical &ldquo;y &ldquo;La Piedra Despertada&rdquo;)  Lunes 7 de Octubre de 1996  Galer&iacute;a del Centro Provincial de Artes Pl&aacute;sticas, Camag&uuml;ey.
+                    <br>
+                    -   LAS T&Eacute;CNICAS DE LA PINTURA ANTIGUA Y EL ARTE ACTUAL: En el taller del alquimista moderno.  (Conferencia) Viernes 18 abril de 1997 Escuela Profesional de Artes Pl&aacute;sticas, Camag&uuml;ey.
+                    <br>
+                    -   ASCENSUS: TREE SPIRIT: (conferencia sobre la serie hom&oacute;nima de colgantes)    Mi&eacute;rcoles 24 de abril de 2002  McDonough Museum of Art, Youngstown, Oh. EE.UU.
+                    <br>
+                    - LA MONTA&Ntilde;A NEGRA – LA MONTA&Ntilde;A SAGRADA:  Texto del cat&aacute;logo de la exposici&oacute;n personal retrospectiva del mismo nombre. Febrero de 1996.  Autor: Joel R. Besmar Nieves
+                    <br>
+                    -   LA PIEDRA DESPERTADA: Texto del cat&aacute;logo de la exposici&oacute;n personal del mismo nombre. Mayo de 1997.  Autor: Joel R. Besmar Nieves
+                    <br>
+                    - LA MIRADA EN EL ESPEJO: Ensayo sobre las claves sem&aacute;nticas de la serie &ldquo;La Mirada en el Espejo&rdquo;.  Septiembre de 1998. Autor: Joel R. Besmar Nieves
+                    <br>
+                    - ASCENSUS: TREE SPIRIT: (ensayo sobre la serie hom&oacute;nima de colgantes)  Enero - abril de 2002  Autor: Joel R. Besmar Nieves
+                </p>
+                <p class="text-normal text-white">
+                    <b>ENSAYOS Y TEXTOS SOBRE LA OBRA DEL ARTISTA</b>
+                    <br>
+                    - EL  HOMBRE FRENTE A LOS ELEMENTOS:&nbsp;  Palabras al cat&aacute;logo de la exposici&oacute;n personal &ldquo;<em>La Mirada Vertical II</em>&rdquo;&nbsp; Autor:  Oneyda Gonz&aacute;lez (escritora y cr&iacute;tico de arte)
+                    <br>
+                    - &nbsp;UBIQUE PICTURA&nbsp; Palabras al cat&aacute;logo de la exposici&oacute;n  personal hom&oacute;nima.
+                    <br>
+                    &nbsp;&nbsp;&nbsp; Autor: Rafael Almanza (poeta, narrador,  ensayista y cr&iacute;tico de arte)
+                    <br>
+                    - LA  PINTURA COMO ANTROPOFANIA: JOEL BESMAR&nbsp; Ensayo sobre la obra pict&oacute;rica completa (1984  – 1999)&nbsp; Autor: Rafael Almanza.
+                    <br>
+                    -  BESMAR: HIEROFANIAS Palabras al cat&aacute;logo de la exposici&oacute;n  personal &ldquo;Ascensiones<em>&rdquo;</em>
+                    <br>
+                    &nbsp;&nbsp;&nbsp; Autor: Rafael Almanza.
+                    <br>
+                    - JOEL&nbsp; BESMAR: EL PENSAMIENTO EN LA PINTURA Ensayo sobre la serie &ldquo;<em>Ascensiones</em>&rdquo; publicado en la revista de arte y literatura  <em>ANTENAS</em>&nbsp; (No.&nbsp; 3 – 4,&nbsp;septiembre 2000 / abril 2001) ,  dedicada en esa edici&oacute;n a la&nbsp;&nbsp;&nbsp; obra&nbsp; de este artista.
+                    <br>
+                    &nbsp;&nbsp;&nbsp; Autor: Eduardo Albert (Doctor en Ciencias  Filos&oacute;ficas, ensayista y profesor de&nbsp; est&eacute;tica)
+                    <br>
+                    - EL ARTE COMO ESTUDIO DEL HOMBRE:  Lectura de inauguraci&oacute;n de la exposici&oacute;n  personal &ldquo;<em>Ascensus: Tree Spirit</em> &ldquo; Autor:  Rafael Almanza
+                </p>
+                <p class="text-normal text-white">
+                    <b>ILUSTRACIONES DE TEXTOS</b>
+                    <br>
+                    - Dise&ntilde;o de portada y vi&ntilde;etas interiores para el libro de poemas: <em>Palabras en la Noche</em>, de Carlos Sotuyo  (poeta y cr&iacute;tico de arte), Editorial Homagno 2005.
+                    <br>
+                    - Ilustraci&oacute;n de portada e interiores para el libro de ensayos <em>Eliseo Diego: El Juego de Diez&rdquo;</em> sobre la  obra del poeta cubano Eliseo Diego, de Rafael Almanza (poeta, narrador, ensayista y cr&iacute;tico de arte)
+                    <br>
+                    - Ilustraci&oacute;n de portada para el libro de ensayos <em>Espejo de Vehemencia: Un Viaje  al Camag&uuml;ey Po&eacute;tico</em> sobre la obra de destacados poetas camag&uuml;eyanos, de Ivania Del Pozo (Doctora en Filosof&iacute;a y Letras, ensayista y mecenas art&iacute;stico, profesora de Literatura Hispanoamericana de la Youngstown State  University, Oh. EE.UU)  Editorial &Aacute;cana, Camag&uuml;ey, 2002.
+                </p>
+                <p class="text-normal text-white">
+                    <b>DISE&Ntilde;OS ESCENOGRAFICOS Y OTROS</b>
+                    <br>
+                    1988 – Dise&ntilde;o de escenograf&iacute;a, vestuario y luces para la obra <em>Espacio Interior</em>, del  grupo de teatro experimental Teatro del Espacio Interior. Direcci&oacute;n general: Mario Ra&uacute;l Junquera.
+                    <br>
+                    1989 – Dise&ntilde;o de escenograf&iacute;a, vestuario y luces para la obra <em>Escena para Actores</em>, del grupo de teatro experimental Teatro del Espacio Interior. Direcci&oacute;n general: Mario Ra&uacute;l Junquera.
+                    <br>
+                    1992 – Dise&ntilde;o de escenograf&iacute;a, vestuario y luces para la obra <em>Circus</em>, del grupo de  teatro experimental Teatro del Espacio Interior. Direcci&oacute;n general: Mario Ra&uacute;l Junquera.
+                    <br>
+                    1996 – Dise&ntilde;o de escenograf&iacute;a, vestuario y luces y realizaci&oacute;n de esculturas esc&eacute;nicas  para la obra <em>Rebis</em>, del grupo de teatro experimental Teatro del Espacio Interior.  Direcci&oacute;n general: Mario Ra&uacute;l Junquera. (Obra ganadora de Menci&oacute;n en la categor&iacute;a de dise&ntilde;o y Premio a la puesta en  escena en el Festival Nacional de Teatro de Camag&uuml;ey – 1996)
+                    <br>
+                    1998 – Dise&ntilde;o de escenograf&iacute;a, vestuario y luces para la obra <em>La Ciudad de las Cuatro Esquinas</em>, del grupo de teatro experimental Teatro del Espacio Interior. Direcci&oacute;n general: Mario Ra&uacute;l Junquera.
+                    <br>
+                    1998 – Dise&ntilde;o de escenograf&iacute;a y vestuario para la obra <em>Electra Circular</em>, del Conjunto Dram&aacute;tico de Camag&uuml;ey. Direcci&oacute;n general: Amado Jova.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

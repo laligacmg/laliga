@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/bejarano.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Agust&iacute;n Bejarano
+                    <br>
+                    <small>(Camag&uuml;ey, 1964)</small>
+                </p>
+                <p class="text-normal text-white">
+                    1976: Matricula en la Escuela Elemental  de Artes Pl&aacute;sticas &ldquo;Luis Casas Romero&rdquo;, en Camag&uuml;ey.<br />
+                    <br />
+                    1979:  Realiza su primera muestra personal en la Galer&iacute;a de Arte Universal &ldquo;Alejo Carpentier&rdquo;, Camag&uuml;ey.<br />
+                    <br />
+                    1980:  Culmina sus estudios elementales y comienza los de pintura en la Escuela Nacional  de Arte de La Habana,  ENA.
+                    <br/>
+                    1984: Finaliza los estudios de pintura en la ENA y comienza la especialidad de Grabado en el Instituto Superior de Arte de La Habana.
+                    <br/>
+                    1989:  Es Licenciado en Artes Pl&aacute;sticas con especializaci&oacute;n en Grabado del Instituto  Superior de Arte. La   Habana. Cuba.<br />
+                    <br />
+                    1989-1992:  Funda y dirige el Taller de Grabado de Camag&uuml;ey. Cuba.<br />
+                    <br />
+                    1993:  Comienza a impartir clases como profesor de grabado en la Escuela Nacional de  Arte y en la Academia  de San Alejandro, La Habana,  Cuba.<br />
+                    <br />
+                    1994:  Viaja a M&eacute;xico, imparte un curso en la Universidad de Monterrey. Se vincula a la Galer&iacute;a Nina Menocal de Ciudad  de M&eacute;xico.<br />
+                    <br />
+                    1997:  Obtiene el Gran Premio del Sal&oacute;n Nacional de Grabado 1997, La Habana, Cuba.<br />
+                    <br />
+                    1998:  Es homenajeado en&nbsp; Ciudad M&eacute;xico junto al  artista cubano Antonio Canet. Es incluido en la muestra <em>La belleza y la fuerza</em> en la Elkon Gallery, New  York, junto a Diego Rivera, Matta, Wifredo Lam, Rufino Tamayo, Fernando Botero,  entre otros. Su obra &ldquo;Im&aacute;genes en el tiempo III&rdquo; fue escogida como portada del  cat&aacute;logo de dicha muestra.<br />
+                    <br />
+                    2005:  Se le otorga la Distinci&oacute;n  por la Cultura   Nacional. La   Habana, Cuba. El Museo Nacional de Bellas Artes de La Habana y el Museo Ignacio Agramonte  de su ciudad natal organizan dos grandes exposiciones de su obra. Se presenta  su primer libro <em>Agust&iacute;n Bejarano, obras  1987&ndash;2005</em>, Museo Nacional de Bellas Artes. La Habana, Cuba. <br />
+                    <br />
+                    2007: Participa en IKF. <em>Latin American Art Auction 2007, Cisneros Fontanals Art Auction</em>, Fda. U.S.A. El Instituto Superior  de Arte le otorga Diploma al M&eacute;rito Art&iacute;stico, por su relevante obra creativa  en las Artes Pl&aacute;sticas. <br />
+                    <br />
+                    2008: Realiza una exposici&oacute;n en el <em>Art and Craft Museum</em>. Zagreb. Croacia. Integra  el Proyecto Madonnaris. Festival Bella V&iacute;a. Monterrey. N.L, M&eacute;xico. Reinaugura  el Taller de Grabado de Camag&uuml;ey, esta vez con el nombre de Harakiri, una de  sus m&aacute;s importantes obras en el g&eacute;nero. Mural colectivo, Sal&oacute;n Rojo del Hotel  Capri. Acci&oacute;n perform&iacute;stica con Gente de Zona. La Habana. Cuba.  Pinturas murales en el Hogar Materno de Jaimanitas. La Habana. Cuba.<br />
+                    <br />
+                    2009: Imparte curso de T&eacute;cnica de  Calcograf&iacute;a. Taller de Grabado Harakiri, Camag&uuml;ey. Cuba. <br />
+                    <br />
+                </p>
+                <p class="text-normal text-white">
+                    Realizaci&oacute;n de <em>La Puntilla</em>, Obra mural en  el Taller de Larios. Camag&uuml;ey, Cuba. Ha realizado m&aacute;s de 60 exposiciones  personales y m&aacute;s de 100 colectivas. Es Miembro de la Uni&oacute;n de Escritores y Artistas  de Cuba. Desde el a&ntilde;o 2006 viene participando en la macro exposici&oacute;n de Arte  Cubano contempor&aacute;neo <strong><em>Confluencias  inside&hellip;</em> </strong>esta ha sido exhibida en importantes espacios de M&eacute;xico: el Palacio Clavijero de Michoac&aacute;n,  el Museo Jos&eacute; Luis Cuevas en Ciudad de M&eacute;xico, el Museo de Arte Moderno en  Toluca, el Instituto Cultural de Le&oacute;n, Guanajuato, el Instituto Ju&aacute;rez de  Tabasco y el Museo de Arte de Zapopan. Actualmente se encuentra en Centro  Estatal de las Artes en Mexicali, capital del Estado de Baja California.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

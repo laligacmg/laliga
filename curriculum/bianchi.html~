@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/ciro.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Ciro Bianchi Ross
+                    <br>
+                    <small></small>
+                </p>
+                <p class="text-normal text-white">
+                    Es  profesor universitario y trabaj&oacute;, junto a Cintio Vitier, en la edici&oacute;n
+                    cr&iacute;tica  de <em>Paradiso</em> que auspici&oacute; la UNESCO.  Asimismo es compilador
+                    de <em>Imagen y  posibilidad</em>, de Lezama Lima, y el editor de los <em>Diarios</em> de
+                    ese grande de la literatura cubana. Tambi&eacute;n de Lezama dio  a conocer <em>Como las
+                    cartas no llegan</em>,  un compendio epistolario. En Cr&iacute;tica literaria antolog&oacute;
+                    los mejores textos de  Justo Lara. Ha publicado entre otros t&iacute;tulos: <em>Las palabras
+                    de otro</em> (1983), <em>Voces  de Am&eacute;rica Latina</em> (1988), <em>Un hombre  en la
+                    noticia </em>(1990), <em>Tras los pasos  de Hemingway</em> (1993), <em>Yo soy el chef</em>
+                    (1996), <em>Garc&iacute;a Lorca / Pasaje a La Habana</em> (1997), <em>La oreja de Dios</em>
+                    (1998), <em>Oficio de intruso</em> (1999), <em>As&iacute; como lo cuento</em> (2004) y
+                    <em>Memoria oculta de La Habana</em> (2005),  entre otros t&iacute;tulos. Obtuvo el premio
+                    latinoamericano de periodismo &ldquo;Jos&eacute; Mart&iacute;&rdquo;  y el premio nacional de
+                    periodismo cultural &ldquo;Jos&eacute; Antonio Fern&aacute;ndez Castro&rdquo; por  el conjunto
+                    de su obra. Sus libros han sido traducidos al japon&eacute;s, ingl&eacute;s y  portugu&eacute;s.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

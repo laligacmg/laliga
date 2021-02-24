@@ -1,0 +1,371 @@
+* {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin-top: 35px;
+    background-color: #000;
+}
+
+p {
+    font-size: 11px;
+    color: #999;
+    margin: 0;
+}
+
+a {
+    color: #999;
+    text-decoration: none;
+    font-size: 10px;
+    font-weight: bolder;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #999;
+}
+
+a:active {
+    color: #666;
+}
+
+table, tr, td {
+    border: 0;
+    padding: 0;
+}
+
+.a-table {
+    width: 756px;
+    height: 488px;
+}
+
+.va {
+    vertical-align: middle;
+}
+.logo-height {
+    height: 108px;
+}
+.menu-height {
+    height: 22px;
+}
+.width-3x {
+    width: 164px;
+}
+
+.piedefoto {
+    font-size: 10px;
+    font-weight: bolder;
+    color: #fff;
+    text-align: center;
+}
+
+.tituloObra {
+    font-size: 9px;
+    font-weight: normal;
+    color: #fff;
+}
+
+.fecha {
+    font-size: 11px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 0.3em;
+}
+
+a.enlaceSumario {
+    color: #fff;
+    text-align: center;
+}
+
+a.enlaceSumario:visited {
+    color: #fff;
+    text-align: center;
+}
+
+a.enlaceAutor {
+    color: #999;
+    text-align: center;
+}
+
+a.enlaceAutor:visited {
+    color: #999;
+    text-align: center;
+}
+
+.titulo {
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+    margin-left: 15px;
+}
+
+.autor {
+    font-size: 10px;
+    font-weight: bold;
+    color: #999;
+    margin-bottom: 10px;
+}
+
+.articulo {
+    font-size: 9px;
+    font-weight: normal;
+    color: #000;
+    margin-left: 15px;
+}
+
+.normal {
+    font-size: 12px;
+    font-weight: normal;
+    color: #000;
+    margin: 0;
+    text-align: justify;
+    letter-spacing: normal;
+}
+
+a.enlaceNormal {
+    font-size: 12px;
+    color: #000;
+}
+
+a.enlaceNormal:hover {
+    font-size: 12px;
+    color: #000;
+    text-decoration: underline;
+}
+
+a.enlaceControl {
+    color: #333;
+    text-align: center;
+}
+
+a.enlaceControl:hover {
+    color: #333;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.enlaceDisable {
+    font-size: 10px;
+    font-weight: bold;
+    color: #ccc;
+    text-align: center;
+}
+
+.nota {
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+    color: #000;
+    text-align: justify;
+    margin: 0px;
+}
+
+.pagina {
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+    color: #000;
+    margin: 15px;
+    text-align: right;
+}
+
+.notaCursiva {
+    font-size: 11px;
+    font-style: italic;
+    font-weight: normal;
+    color: #000;
+    margin: 0px;
+    text-align: justify;
+}
+
+.citapoema {
+    font-size: 11px;
+    font-weight: bolder;
+    color: #fff;
+    text-align: center;
+    font-style: normal;
+}
+
+.copyright {
+    font-size: 10px;
+    font-weight: normal;
+    color: #ccc;
+    font-style: normal;
+}
+
+.ahs {
+    font-size: 11px;
+    font-weight: bolder;
+    color: #fff;
+    text-align: center;
+    font-style: normal;
+}
+
+.aling-left {
+    text-align: left;
+}
+
+.normal_white{
+    font-size: 12px;
+    font-weight: normal;
+    color: #fff;
+    margin: 0;
+    text-align: justify;
+    letter-spacing: normal;
+}
+.aling-rigth {
+    float: right;
+}
+.width-50 {
+    width: 60%;
+}
+
+.tb {
+    color: black;
+}
+
+.link-a{
+    font-size: 11px;
+    color: black;
+    font-weight: bold;
+}
+.link-a:hover{
+    font-size: 11px;
+    color: black;
+    font-weight: bold;
+}
+.Estilo9{
+    color: #999;
+}
+.w50 {
+    width: 49%;
+}
+
+.image-portrait{
+    max-width: 400px;
+    max-height: 512px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin: 5px;
+}
+.image-landscape{
+    max-width: 512px;
+    max-height: 400px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin: 5px;
+}
+.image-portrait:hover, .image-landscape:hover, .thumb-portrait:hover, .thumb-landscape:hover,.image-card:hover, .image-postal:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption {
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
+
+.kanban {
+    width: 95%;
+    height: 350px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin: 5px;
+    text-align: center;
+    border: #666666 solid 1px;
+}
+.thumb-portrait {
+    max-width: 98px;
+    max-height: 112px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.thumb-landscape {
+    max-width: 112px;
+    max-height: 98px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.image-card {
+    max-width: 187px;
+    max-height: 250px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.image-postal {
+    max-width: 250px;
+    max-height: 187px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}

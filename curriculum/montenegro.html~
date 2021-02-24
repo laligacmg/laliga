@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/milho.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Milho Montenegro
+                    <br>
+                    <small>(La Habana, 1982)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Milho Montenegro es el nombre literario del escritor cubano Alain Santana L&oacute;pez, con el cual halla una manera de homenajear a dos grandes de las letras que siempre le han cautivado: al Premio Nobel de Literatura Czeslaw Milosz y al narrador, periodista y pol&iacute;tico cubano-espa&ntilde;ol Carlos Montenegro.
+                </p>
+                <p class="text-normal text-white">
+                    Poeta, narrador y periodista. Licenciado en Psicolog&iacute;a General por la Universidad de La Habana. Egresado del Centro de Formaci&oacute;n Literaria Onelio Jorge Cardoso. Miembro de la Asociaci&oacute;n Hermanos Sa&iacute;z (AHS). Ganador de diversos premios y reconocimientos nacionales e internacionales, entre los que destacan: Premio en el I Concurso Internacional de Cuento Breve Literatura Fant&aacute;stica (2016), Premio Nacional de Poes&iacute;a Pinos Nuevos (2017), Premio Beca de Creaci&oacute;n Prometeo en el XXII Premio de Poes&iacute;a La Gaceta de Cuba, Premio Nacional de Poes&iacute;a de Amor (2017), 2do Premio Internacional de Poes&iacute;a El mundo lleva alas 2017 (EE.UU), 1er Premio en el III Concurso Internacional de Haikus Ueshima Unitsura (2018), Toledo, Espa&ntilde;a. Entre los reconocimientos m&aacute;s importantes se encuentran: 1ra Menci&oacute;n en el Premio UNEAC de Poes&iacute;a David (2012), Menci&oacute;n en el Premio de Poes&iacute;a F&eacute;lix Pita Rodr&iacute;guez (2013), Menci&oacute;n Especial del Jurado en el II Certamen Internacional de Poes&iacute;a San Isidro Labrador (2016), Menci&oacute;n en el Premio Nacional de Poes&iacute;a Reina del Mar Editores (2016), Menci&oacute;n Honor&iacute;fica en el II Certamen Internacional de Poes&iacute;a Luis Cardoza y Arag&oacute;n, Guatemala, y Menci&oacute;n en el Premio Nacional de Poes&iacute;a Hermanos Loynaz (2017). Ha publicado los cuadernos <em>Rostros de ciudad</em> (poes&iacute;a, Editorial Montecallado, 2015), <em>Muchachas que llegan con la noche</em> (poes&iacute;a, Editorial Guantanamera, Espa&ntilde;a, 2017), <em>Muchachos que no merec&iacute;</em> (poes&iacute;a, Editorial Espiral Publishing, EE.UU, 2017) y <em>Erosiones</em> (poes&iacute;a, Editorial Letras Cubanas, 2018). Su obra po&eacute;tica y sus cuentos han sido recogidos en diversas antolog&iacute;as y revistas, en pa&iacute;ses como Estados Unidos, Uruguay, Italia, Guatemala, Espa&ntilde;a y Cuba, as&iacute; como traducida al ingl&eacute;s y al italiano. Colabora como entrevistador y rese&ntilde;ista en varias revistas dentro y fuera de Cuba.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

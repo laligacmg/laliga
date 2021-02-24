@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/veronica.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Ver&oacute;nica E. Fern&aacute;ndez D&iacute;az
+                    <br>
+                    <small>(Camag&uuml;ey, 1972)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Graduada  de Asignaturas Te&oacute;ricas de la M&uacute;sica de la Escuela Nacional  de Artes de La Habana en 1991. Realiz&oacute; estudios de licenciatura en Arte de los  Medios de Comunicaci&oacute;n Audiovisual en la especialidad de Sonorizaci&oacute;n  terminados en 2000 y de Maestr&iacute;a en Cultura Latinoamericana culminados en 2006. Ha publicado los  art&iacute;culos &nbsp;&ldquo;Investigar la m&uacute;sica de Puerto Pr&iacute;ncipe&rdquo; , en <em>Anuario Puerto Pr&iacute;ncipe </em>2006,  ISA y Centro de Estudios &ldquo;Nicol&aacute;s Guill&eacute;n&rdquo; &nbsp;y <em>Mendivel,  un m&uacute;sico trashumante</em> en la Revista <em>Videncia</em>  &nbsp;de la provincia de Ciego de &Aacute;vila. Ha  participado en diferentes eventos&nbsp; como  son el XV Taller Nacional de la Cr&iacute;tica Cinematogr&aacute;fica,&nbsp; III Encuentro de investigadores camag&uuml;eyanos,  IX &nbsp;Conferencia Internacional sobre Ense&ntilde;anza  y Pr&aacute;ctica Art&iacute;stica. La Habana ISA.,  IV Encuentro de Historia Regional y Local, Evento Te&oacute;rico&nbsp; Jornada Cient&iacute;fico-Pedag&oacute;gica. Festival  Cultural de Tamaulipas. M&eacute;xico y II Concurso de Direcci&oacute;n Coral de la AHS. En los que ha  recibido diferentes premios. El pasado a&ntilde;o obtuvo el Premio &nbsp;Anual de investigaciones socioculturales del  Centro de Investigaci&oacute;n y Desarrollo de la Cultura Cubana  &ldquo;Juan Marinello&rdquo; 2007 y el Premio de la Comisi&oacute;n de Arte en IX Bienal de  Investigaciones Socioculturales.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/roger.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Roger Blanco Morciego
+                    <br>
+                    <small>(Camag&uuml;ey, 1976)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Ha cultivado  la poes&iacute;a, la traducci&oacute;n literaria, la narrativa y la literatura
+                    para ni&ntilde;os. Ha  obtenido: Premio Rolando Escard&oacute; (2003 y 2005). Menci&oacute;n
+                    en d&eacute;cima en el  concurso 490 Aniversario de la fundaci&oacute;n de la Villa de Santa
+                    Mar&iacute;a. Es miembro de la    AHS. Textos suyos aparecen en la revista <em>Antenas</em>
+                    y en <em>Poes&iacute;a Camag&uuml;eyana</em>. Su libro <em>Poemas del le&ntilde;ador </em>(&Aacute;cana,
+                    2005) mereci&oacute; el Premio al Escritor  Novel de Ediciones Santiago.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

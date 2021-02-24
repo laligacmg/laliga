@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/dashiell.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Dashiell Enrique Hern&aacute;ndez Guirado
+                    <br>
+                    <small>(Camag&uuml;ey, 1977)</small>
+                </p>
+                <p class="text-normal text-white">
+                    <b>ESTUDIOS</b>
+                    <br>
+                    - Graduado de Nivel Elemental en la especialidad Artes Pl&aacute;sticas. Escuela Vocacional de Arte &ldquo;Luis Casas Romero&rdquo;. Camag&uuml;ey, 1992.&nbsp;
+                    <br>
+                    - T&iacute;tulo de Bachiller. Instituto Preuniversitario Vocacional de Ciencias  Exactas (IPVCE) &ldquo;General M&aacute;ximo G&oacute;mez B&aacute;ez&rdquo;. Camag&uuml;ey, 1995
+                    <br>
+                    - Diploma de Idioma Ingl&eacute;s. Escuela de Idiomas &ldquo;Mijail V. Lomonosov&rdquo;. Camag&uuml;ey,  1998.
+                    <br>
+                    - Licenciado en Estudios Socioculturales. Universidad de Camag&uuml;ey. 2008
+                </p>
+                <p class="text-normal text-white">
+                    <b>CURSOS DE SUPERACI&Oacute;N PROFESIONAL</b>
+                    <br>
+                    <em>La Est&eacute;tica dentro de la Historia del Pensamiento  Filos&oacute;fico Universal</em>. Centro  Provincial de Superaci&oacute;n para el Arte y la Cultura. Camag&uuml;ey.  1999.
+                    <br>
+                    <em>Psicolog&iacute;a  de las Edades</em>. Centro Provincial de Superaci&oacute;n para el Arte y la Cultura. Camag&uuml;ey  .1999.
+                    <br>
+                    <em>El Arte,  las artes y el Hombre</em>. Centro Provincial de Superaci&oacute;n para el Arte y la Cultura. Camag&uuml;ey.  2000.
+                    <br>
+                    <em>Apreciaci&oacute;n de las Artes Visuales y la Literatura. Centro Provincial de Superaci&oacute;n para el Arte y la Cultura. Camag&uuml;ey  2000. </em>
+                    <br>
+                    <em>El proceso identitario en la Pl&aacute;stica Cubana. Universidad de Camag&uuml;ey. 2000.</em>
+                    <br>
+                    <em>La Curadur&iacute;a y el  discurso cultural del Arte</em>.  Centro Provincial de Superaci&oacute;n para el Arte y la Cultura. Camag&uuml;ey.  2001.
+                    <br>
+                    <em>Teor&iacute;a y Cr&iacute;tica de las Artes Visuales</em>. Centro Provincial de Superaci&oacute;n para el Arte  y la Cultura. Camag&uuml;ey.  2004.
+                    <br>
+                    <em>Vida y Obra de Vicentina Antu&ntilde;a en su  Centenario</em>. Instituto Pedag&oacute;gico Latinoamericano y Caribe&ntilde;o  (IPLAC). Ciudad de La Habana.  2009
+                </p>
+                <p class="text-normal text-white">
+                    <b>EXPOSICIONES PERSONALES</b>
+                    <br>
+                    2009. (Septiembre-octubre) <strong>Jugar  al Tres: jugar al &Aacute;gape</strong>. Galer&iacute;a Miranda. Instituci&oacute;n Cultural <em>eJo.</em> Camag&uuml;ey. Cuba.
+                    <br>
+                    2007. (Diciembre-febrero 2008) <strong>Er&oacute;ntika</strong>.  Casa Museo Jos&eacute; Lezama Lima. Ciudad de La Habana. Cuba.
+                    <br>
+                    2005. (Septiembre-octubre) <strong>Del  Amor Universal I: Er&oacute;ntika</strong>. Museo San Juan de Dios. Camag&uuml;ey. Cuba.
+                    <br>
+                    2003. (Mayo-junio) <strong>Ait&iacute;a Elom&eacute;nu</strong>.  Galer&iacute;a de Arte Universal Alejo Carpentier. Camag&uuml;ey. Cuba.
+                    <br>
+                    2000. (Diciembre-enero 2001) <strong>C&aacute;nticos  de espera</strong>. Galer&iacute;a Miranda. Proyecto Sociocultural <em>eJo.</em> Camag&uuml;ey. Cuba.
+                    <br>
+                    1998. (Mayo-junio) <strong>Espejismos de  Eleusis</strong>. Galer&iacute;a MIRA. Casa del Joven Creador. Asociaci&oacute;n Hermanos Sa&iacute;z  (AHS) Filial Camag&uuml;ey. Camag&uuml;ey. Cuba.</p>
+                <p class="text-normal text-white">
+                    <b>EXPOSICIONES COLECTIVAS</b>
+                    <br>
+                    2010. (Marzo-abril) <em>Sal&oacute;n de Arte  Religioso X Aniversario. Retrospectiva 2000-2009</em>. Centro Cultural y de  Animaci&oacute;n Misionera San Antonio Mar&iacute;a Claret. Santiago de Cuba. Cuba.
+                    <br>
+                    2010. (Marzo-abril) Exposici&oacute;n Colectiva<em> Tributo: 30 Aniversario de la fundaci&oacute;n de la Galer&iacute;a de Arte Universal  Alejo Carpentier</em>. Galer&iacute;a de Arte Universal Alejo Carpentier. Camag&uuml;ey.  Cuba.
+                    <br>
+                    2010. (Febrero-marzo) <em>Fidelio  Ponce: homenaje m&uacute;ltiple</em>. (Aniversario 496 de la Fundaci&oacute;n de Santa Mar&iacute;a  del Puerto del Pr&iacute;ncipe.) Galer&iacute;a de Arte Fidelio Ponce de Le&oacute;n. Oficina del  Historiador de la Ciudad  de Camag&uuml;ey. Camag&uuml;ey. Cuba.
+                    <br>
+                    2009. (Diciembre-enero 2010) Exposici&oacute;n  Colectiva<em> Interconexiones</em>. (2  Festival Internacional VIDEOARTE. Camag&uuml;ey 2009.) Galer&iacute;a de Arte Fidelio Ponce  de Le&oacute;n. Oficina del Historiador de la Ciudad de Camag&uuml;ey. Camag&uuml;ey. Cuba.
+                    <br>
+                    2009. (Diciembre) Exposici&oacute;n Colectiva<em> Mestizaje e Identidad</em>. Galer&iacute;a de Arte Universal Alejo Carpentier.  Camag&uuml;ey. Cuba.
+                    <br>
+                    2009. (Octubre-noviembre) Exposici&oacute;n Colectiva <em>Primer Gesto</em>. Galer&iacute;a GESTOS. Asociaci&oacute;n Hermanos Sa&iacute;z (AHS) Filial  Camag&uuml;ey. Camag&uuml;ey. Cuba.
+                    <br>
+                    2008. (Diciembre-enero 2009) <em>IX  Sal&oacute;n de Arte Religioso</em>. Centro Cultural y de Animaci&oacute;n Misionera San  Antonio Mar&iacute;a Claret. Santiago de Cuba. Cuba.
+                    <br>
+                    2008. (Diciembre-enero 2009) <em>III  Sal&oacute;n Regional de Peque&ntilde;o Formato</em>. Galer&iacute;a Miranda. Proyecto Sociocultural <em>eJo</em>. Camag&uuml;ey. Cuba.
+                    <br>
+                    2008. (Noviembre-diciembre) <em>Antinom&iacute;a</em>.  Galer&iacute;a MIRA. Casa del Joven Creador. Asociaci&oacute;n Hermanos Sa&iacute;z (AHS) Filial  Camag&uuml;ey. Camag&uuml;ey. Cuba.
+                    <br>
+                    2008. (Noviembre-diciembre) <em>XXIV  Sal&oacute;n Provincial de Artes Pl&aacute;sticas</em> <em>Fidelio  Ponce de Le&oacute;n</em>. Consejo Provincial de las Artes Pl&aacute;sticas. Camag&uuml;ey. Cuba.
+                    <br>
+                    2007. (Septiembre-octubre) XXIII  Sal&oacute;n Provincial de Artes Pl&aacute;sticas <em>Fidelio  Ponce de Le&oacute;n</em>. Consejo Provincial de las Artes Pl&aacute;sticas. Camag&uuml;ey. Cuba.
+                    <br>
+                    2007. <em>En los l&iacute;mites del  Humanismo</em>. Galer&iacute;a Miranda. Proyecto Sociocultural <em>eJo.</em> Camag&uuml;ey. Cuba.
+                    <br>
+                    2006. (Diciembre-enero 2007) <em>Sal&oacute;n  de Arte Sacro El</em> <em>Misterio de La Navidad. Galer&iacute;a de  Arte Universal Alejo Carpentier. Camag&uuml;ey. Cuba</em>
+                    <br>
+                    2006. <em>Hijos de su tiempo</em>.  Galer&iacute;a de Arte Fidelio Ponce de Le&oacute;n. Oficina del Historiador de la Ciudad de Camag&uuml;ey.  Camag&uuml;ey. Cuba.
+                    <br>
+                    2006. (Enero-febrero) <em>Sal&oacute;n de  Peque&ntilde;o Formato</em> <em>Fayad Jam&iacute;s</em>.  Galer&iacute;a L. Ciudad de La Habana. Cuba.
+                    <br>
+                    2005. (Diciembre-enero 2006) <em>II  Sal&oacute;n Provincial de Artes Pl&aacute;sticas de Peque&ntilde;o Formato</em>. Galer&iacute;a Miranda.  Proyecto Sociocultural <em>eJo</em>. Camag&uuml;ey.  Cuba.
+                    <br>
+                    2005. (Septiembre-octubre) <em>XXI Sal&oacute;n  Provincial de Artes Pl&aacute;sticas Fidelio Ponce de Le&oacute;n</em>. Consejo Provincial de  las Artes Pl&aacute;sticas. Camag&uuml;ey. Cuba.
+                    <br>
+                    2005. (Febrero) <em>XV Sal&oacute;n de la Ciudad.   Galer&iacute;a de Arte  Universal Alejo Carpentier. Camag&uuml;ey. Cuba.</em>
+                    <br>
+                    2004. (Diciembre) <em>I Sal&oacute;n  Provincial de Artes Pl&aacute;sticas de Peque&ntilde;o Formato</em>. Galer&iacute;a Miranda. Proyecto  Sociocultural <em>eJo</em>. Camag&uuml;ey. Cuba.
+                    <br>
+                    2004. <em>Im&aacute;genes Posibles</em>. Galer&iacute;a  MIRA. Casa del Joven Creador. Camag&uuml;ey.
+                    <br>
+                    2002. <em>XVIII Sal&oacute;n Provincial de  Artes Pl&aacute;sticas</em> <em>Fidelio Ponce de Le&oacute;n</em>.  Consejo Provincial de las Artes Pl&aacute;sticas. Camag&uuml;ey. Cuba.
+                    <br>
+                    2002. (Junio) <em>I Sal&oacute;n  Experimental de Paisaje</em>. Galer&iacute;a de Arte Universal Alejo Carpentier.  Camag&uuml;ey. Cuba.
+                    <br>
+                    2002. (Febrero) <em>XII Sal&oacute;n de la Ciudad.   Galer&iacute;a de Arte  Universal Alejo Carpentier. Camag&uuml;ey. Cuba.</em>
+                    <br>
+                    2001. (Noviembre-diciembre) <em>IV  Sal&oacute;n Provincial de Artes Aplicadas, Artesan&iacute;a 2001</em>. Asociaci&oacute;n Cubana de  Artesanos y Artistas. Camag&uuml;ey. Cuba.
+                    <br>
+                    2001. (Febrero) <em>XI Sal&oacute;n de la Ciudad.   Galer&iacute;a de Arte  Universal Alejo Carpentier. Camag&uuml;ey. Cuba.</em>
+                    <br>
+                    2000. <em>Sal&oacute;n Colectivo de  Instructores de Arte</em>. Centro Provincial de Cultura Comunitaria. Camag&uuml;ey.  Cuba.
+                    <br>
+                    2000. (Mayo-junio) <em>Expo Colectiva  en saludo al D&iacute;a del Aficionado</em>. Grupo <em>Fidelio  Ponce de Le&oacute;n</em>. Casa de Cultura Julio Antonio Mella. Camag&uuml;ey. Cuba.
+                    <br>
+                    1999. (Diciembre-enero 2000) <em>Exposici&oacute;n  colectiva</em> <em>XVIII Aniversario del grupo  Fidelio Ponce de Le&oacute;n</em>. Casa de Cultura Julio Antonio Mella. Camag&uuml;ey. Cuba.
+                    <br>
+                    1999. <em>Sal&oacute;n Colectivo de  Instructores de Arte</em>. Centro Provincial de Cultura Comunitaria. Camag&uuml;ey.  Cuba.
+                    <br>
+                    1999. (Noviembre-diciembre) <em>Sal&oacute;n  de Peque&ntilde;o Formato</em>. Centro Provincial de Cultura Comunitaria. Camag&uuml;ey. Cuba.
+                    <br>
+                    1999. (Febrero) <em>IX Sal&oacute;n de la Ciudad.   Galer&iacute;a de Arte  Universal Alejo Carpentier. Camag&uuml;ey. Cuba.</em>
+                    <br>
+                    1998. <em>Sal&oacute;n de Asociados</em>. Galer&iacute;a  MIRA. Casa del Joven Creador. Asociaci&oacute;n Hermanos Sa&iacute;z (AHS) Filial Camag&uuml;ey.  Camag&uuml;ey. Cuba.
+                    <br>
+                    1998. (Octubre) <em>XIV Sal&oacute;n  Provincial de Artes Pl&aacute;sticas</em> <em>Fidelio  Ponce de Le&oacute;n</em>. Sala &ldquo;Fidelio Ponce&rdquo; Centro Provincial de Cultura  Comunitaria. Camag&uuml;ey. Cuba.
+                    <br>
+                    1991. (Octubre) <em>I Sal&oacute;n de Arte  Joven</em>. Consejo Provincial de las Artes Pl&aacute;sticas. Camag&uuml;ey. Cuba.</p>
+                <p class="text-normal text-white">
+                    <b>PREMIOS Y MENCIONES</b>
+                    <br>
+                    - Premio Colateral de la   Di&oacute;cesis de Caguas. Puerto Rico. IX Sal&oacute;n de Arte Religioso.  Centro Cultural y de Animaci&oacute;n Misionera San Antonio Mar&iacute;a Claret. Santiago de  Cuba. 2008.
+                    <br>
+                    - Premio de la Comisi&oacute;n   Arquidiocesana para la Cultura. IX Sal&oacute;n de Arte Religioso. Centro  Cultural y de Animaci&oacute;n Misionera San Antonio Mar&iacute;a Claret. Santiago de Cuba.  2008.
+                    <br>
+                    - Menci&oacute;n del Sal&oacute;n. IX Sal&oacute;n de Arte Religioso. Centro Cultural y de  Animaci&oacute;n Misionera San Antonio Mar&iacute;a Claret. Santiago de Cuba. 2008.
+                    <br>
+                    - Premio del Proyecto <em>El Barro de mi Barrio</em>. III Sal&oacute;n  Regional de Peque&ntilde;o Formato. Camag&uuml;ey. 2008.&nbsp;
+                    <br>
+                    - Premio del Proyecto Sociocultural <em>eJo</em>.  XXIV Sal&oacute;n Provincial de Artes Pl&aacute;sticas <em>Fidelio  Ponce de Le&oacute;n</em>. Camag&uuml;ey. 2008.
+                    <br>
+                    - Gran Premio. XXIV Sal&oacute;n Provincial de Artes Pl&aacute;sticas <em>Fidelio Ponce de Le&oacute;n</em>. Camag&uuml;ey. 2008.
+                    <br>
+                    - Premio del Proyecto Sociocultural <em>eJo</em>.  XXIII Sal&oacute;n Provincial de Artes Pl&aacute;sticas <em>Fidelio  Ponce de Le&oacute;n</em>. Camag&uuml;ey. 2007.
+                    <br>
+                    - Segundo Premio del Sal&oacute;n de Arte Sacro <em>El Misterio de La   Navidad. Camag&uuml;ey.</em> 2006.
+                    <br>
+                    - Menci&oacute;n del Proyecto Sociocultural <em>eJo</em>. II Sal&oacute;n Provincial de&nbsp; Peque&ntilde;o Formato. 2005&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <br>
+                    - Premio del Proyecto Sociocultural <em>eJo.</em> XXI Sal&oacute;n Provincial de Artes  Pl&aacute;sticas <em>Fidelio Ponce de Le&oacute;n</em>.  Camag&uuml;ey. 2005
+                    <br>
+                    - Premio del Centro Provincial  del Libro y la   Literatura. XXI Sal&oacute;n Provincial de Artes Pl&aacute;sticas <em>Fidelio Ponce de Le&oacute;n</em>. Camag&uuml;ey. 2005.
+                    <br>
+                    - Menci&oacute;n del Jurado  Central. XXI Sal&oacute;n Provincial de Artes Pl&aacute;sticas <em>Fidelio Ponce de Le&oacute;n</em>. Camag&uuml;ey. 2005.
+                    <br>
+                    - Tercer Premio. XV Sal&oacute;n de la Ciudad. Camag&uuml;ey.  2005
+                    <br>
+                    - Premio del Fondo Cubano  de Bienes Culturales. I Sal&oacute;n Provincial de Artes Pl&aacute;sticas de Peque&ntilde;o Formato.  Camag&uuml;ey. 2004.
+                    <br>
+                    &nbsp; -Premio de la Asociaci&oacute;n Hermanos  Sa&iacute;z. I Sal&oacute;n Provincial de Artes Pl&aacute;sticas de Peque&ntilde;o Formato. Camag&uuml;ey. 2004.
+                    <br>
+                    - Premio de la Biblioteca Provincial  Julio Antonio Mella. I Sal&oacute;n Provincial de Artes Pl&aacute;sticas de Peque&ntilde;o Formato. Camag&uuml;ey.  2004.
+                    <br>
+                    - Premio del Proyecto <em>El Barro de mi Barrio</em>. I Sal&oacute;n  Provincial de Artes Pl&aacute;sticas de Peque&ntilde;o Formato. Camag&uuml;ey. 2004.
+                </p>
+                <p class="text-normal text-white">
+                    <b>OBRAS EMPLAZADAS</b>
+                    <br>
+                    Oficina  del Historiador de la Ciudad  de Camag&uuml;ey.
+                    <br>
+                    Casa Museo  Jos&eacute; Lezama Lima. Ciudad de La   Habana.
+                    <br>
+                    Oficina  del Conservador. Santiago de Cuba.
+                    <br>
+                    Centro  Cultural y de Animaci&oacute;n Misionera San Antonio Mar&iacute;a Claret. Santiago de Cuba.
+                </p>
+                <p class="text-normal text-white">
+                    <b>ILUSTRACIONES</b>
+                    <br>
+                    Ha ilustrado o colaborado en la ilustraci&oacute;n de los  siguientes libros y publicaciones:
+                    <br>
+                    -<em>La Isla Infinita</em>.  Revista de Poes&iacute;a. N. 13. Editorial Letras Cubanas. (Con el texto <em>Iniciaci&oacute;n &oacute;rfica de Dashiell Hern&aacute;ndez</em>,  de Yoandy Cabrera, adjunto en este dossier.)
+                    <br>
+                    -Revista <em>Enfoque</em>.  A&ntilde;o XXVIII&nbsp; N. 102. Arquidi&oacute;cesis de Camag&uuml;ey.  Enero-Abril de 2009.
+                    <br>
+                    -<em>&iquest;Heredar&aacute;s el  Reino?</em> Rub&eacute;n Fa&iacute;lde Bra&ntilde;a. Editorial &Aacute;cana, Camag&uuml;ey. 2006.
+                    <br>
+                    -<em>&Iacute;ntimos  Vitrales</em>. Sergio Morales Vera. Editorial &Aacute;cana, Camag&uuml;ey. 2006.
+                    <br>
+                    -<em>Antenas</em>. Revista Cuatrimestral de Arte y Literatura. N. 16.  Septiembre-Diciembre 2005. Editorial &Aacute;cana, Camag&uuml;ey. (Con el texto <em>La b&uacute;squeda del Arquetipo, </em>de Eduardo  Albert, adjunto en este dossier.)
+                    <br>
+                    -<em>Upsal&oacute;n</em>.  Revista Estudiantil de la   Facultad de Artes y Letras. Universidad de La Habana. N. 2, 2004.
+                    <br>
+                    -<em>Quemar las  naves</em>. Obdulio Fenelo Noda. (O&acute;Fenel&oacute;n). Editorial &Aacute;cana, Camag&uuml;ey. 2006.
+                </p>
+                <p class="text-normal text-white">
+                    <b>DOCUMENTAL</b>
+                    <br>
+                    <em>Del Amor Universal</em>: <em>Er&oacute;ntika  y Del Amor Divino</em>.
+                    <br>
+                    Dashiell Hern&aacute;ndez y Maydelina P&eacute;rez Lezcano.
+                    <br>
+                    Dir. Rolando Ch&aacute;vez Miranda.
+                    <br>
+                    Oficina de Medios audiovisuales. Arzobispado de Camag&uuml;ey. 2006.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

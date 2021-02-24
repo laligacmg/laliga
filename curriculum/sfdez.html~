@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/saulo.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Saulo Antonio Fern&aacute;ndez N&uacute;&ntilde;ez
+                    <br>
+                    <small>(Ciego de &Aacute;vila, 1947)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Licenciado en Lengua y Literatura Hispanoamericana y  Cubana por la Universidad Central  de Las Villas en 1971. Profesor de Literatura Universal, Literatura  Hispanoamericana y Cubana, en el Instituto Superior Pedag&oacute;gico &ldquo;Jos&eacute; Mart&iacute;&rdquo;,  desde 1972. Fundador del Movimiento de la Nueva Trova en Camag&uuml;ey desde  1973. Fundador del grupo &ldquo;Canto Libre&rdquo; y miembro de la UNEAC, en 1978. En 1984  graba el disco <em>Asombro</em>, como  compositor e integrante de ese grupo y publica el poemario <em>Es mi argumento</em> por la editorial del Centro Provincial de Cultura.  Se grad&uacute;a de T&eacute;cnico en Informaci&oacute;n Cient&iacute;fico Pedag&oacute;gica en 1989 y pasa a ser  el director del CDIP. Profesor de Historia del Arte, perteneciente al  Departamento de Arte del ISP &ldquo;Jos&eacute; Mart&iacute;&rdquo;. Publica varios poemas y ensayos en  diversas revistas nacionales. Introduce, en los programas de Historia del Arte  de la carrera Licenciatura en Educaci&oacute;n Pl&aacute;stica, varios temas de cr&iacute;tica de  arte martiana e imparte una serie de postgrados sobre el tema. Gana el gran  premio del concurso nacional de la canci&oacute;n &ldquo;Patricio Ballagas&rdquo; y el primer  premio del Concurso Provincial de la Canci&oacute;n de la Nueva Trova, en 1998.  Publica, en 1999 y en la revista <em>ISLAS</em>, de la Universidad Central  de Las Villas, su trabajo &ldquo;G&eacute;nesis de un poema eterno&rdquo;, que descubre al autor  del cuadro que inspir&oacute; el poema XXI de los <em>Versos  sencillos </em>de Jos&eacute; Mart&iacute;. Participa en varios eventos nacionales e  internacionales con trabajos en torno a este y otros temas martianos. Se grad&uacute;a  de M&aacute;ster en Investigaci&oacute;n Pedag&oacute;gica y participa con su tesis de maestr&iacute;a  titulada &ldquo;Exigencias pedag&oacute;gicas y did&aacute;cticas para el tratamiento de la cr&iacute;tica  martiana de artes pl&aacute;sticas en la ense&ntilde;anza superior&rdquo; en el evento  internacional PEDAGOG&Iacute;A 2001. Graba su disco-demo en solitario, <em>Tiempos  ausentes</em>, con doce canciones originales, las cuales son divulgadas por la  radio provincial y nacional. Publica su libro <em>Fr&iacute;as:</em> <em>un poeta esclavo en Puerto  Pr&iacute;ncipe</em> (Ed. &Aacute;cana,  2005)
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

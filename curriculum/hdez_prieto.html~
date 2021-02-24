@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/yanel.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Yanel Hern&aacute;ndez Prieto
+                    <br>
+                    <small>(Camag&uuml;ey)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Egresado de la Academia Vicentina de la Torre en 2002, en la especialidad de Pintura y dibujo. Ha trabajado como Instructor de Artes Pl&aacute;sticas de la Casa de Cultura Luis Casas Romero y como especialista de la Galer&iacute;a de Arte en Florida, Camag&uuml;ey. Labora como Artista Independiente a trav&eacute;s del Fondo Cubano de Bienes Culturales desde su Estudio Galer&iacute;a ubicado en la Plaza San Juan de Dios del Casco Hist&oacute;rico de la Ciudad de Camag&uuml;ey. Miembro de la Asociaci&oacute;n Hermanos Sa&iacute;z. Ha participado en m&aacute;s de treinta exposiciones colectivas. Tiene en su haber diez exposiciones personales, entre las que se destacan la muestra iconogr&aacute;fica &ldquo;Hasta siempre&rdquo;, basada en retratos del Che Guevara y Fidel Castro, exhibida en varias ciudades italianas en 2017; &ldquo;Blackout&rdquo;, colateral al XXI Taller Nacional de la Cr&iacute;tica Cinematogr&aacute;fica, y &ldquo;Superfinos negros II&rdquo;, colateral a la XXXV Edici&oacute;n del Sal&oacute;n Nacional de Literatura y Artes Pl&aacute;sticas Regino E. Boti, Guant&aacute;namo. Obras suyas se encuentran en el Centro de Estudios Martianos, La Habana, Studio de Arte. Simeone-Italia, Visual Arts Building Athens Georgia, Miami Dreams of Properties USA, y en colecciones privadas en Canad&aacute;, Holanda, Espa&ntilde;a, USA y Rep&uacute;blica Dominicana.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

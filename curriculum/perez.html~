@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/gustavo.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Gustavo P&eacute;rez Fern&aacute;ndez
+                    <br>
+                    <small>(Camag&uuml;ey, 1962)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Poeta, Fot&oacute;grafo y videasta. Tiene publicados los poemarios <em>Aunar lo imprevisible</em>,
+                    <em>Por el ojo del tiempo,</em>&nbsp; <em>Friso  de la vida y El cuaderno de las Sombras</em>.
+                    Textos suyos han aparecido en  varias antolog&iacute;as dentro y fuera de Cuba. Su labor como
+                    documentalista, ha sido  reconocida en importantes festivales y concursos del pa&iacute;s.
+                    Es miembro de la UNEAC, y miembro de honor de  la AHS. Ostenta  la Distinci&oacute;n  por la
+                    Cultura Nacional.
+                </p>
+                <p class="text-normal text-white">
+                    <b>EXPOSICIONES COLECTIVAS</b>
+                    <br>
+                    2009. Convergencia. Galer&iacute;a Salvador Cisneros, Camag&uuml;ey
+                    <br>
+                    2008. <em>Regeneraci&oacute;n</em> Galer&iacute;a Juli&aacute;n Morales  UNEAC, Camag&uuml;ey
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Arboleda. Cuerpo es Cuerpos</em>, Galer&iacute;a Jes&uacute;s Gallardo, Le&oacute;n, Guanajuato, M&eacute;xico
+                    <br>
+                    2005. <em>Chatarra  viva</em> Galer&iacute;a del Centro Provincial de Artes Pl&aacute;sticas
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>El mar,  siempre el mar</em>. Galer&iacute;a &ldquo;Salvador Cisneros&rdquo;. Camag&uuml;ey
+                    <br>
+                    2004. <em>Simulaciones</em> Centro Provincial de Artes Pl&aacute;sticas. Camag&uuml;ey
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Centro  Provincial de Artes Pl&aacute;sticas. Bayamo
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>El momento perfecto</em>. Galer&iacute;a Alejo Carpentier. Camag&uuml;ey
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online &ldquo; Cuba mi Amor&rdquo;
+                    <br>
+                    2003. <em>Arte religioso.</em> Galer&iacute;a &ldquo;Alejo  Carpentier&rdquo;. Camag&uuml;ey.
+                    <br>
+                    2002. <em>D&iacute;cese mujer</em>&hellip; Galer&iacute;a  &ldquo;Fidelio Ponce&rdquo;, Oficina del Historiador de la Ciudad.
+                    <br>
+                    1999. <em>Las Im&aacute;genes Posibles </em>No. 4<em>. </em>Casa del Joven Creador. Camag&uuml;ey.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Camag&uuml;ey Legendario. </em>Casa del  Publicista. Camag&uuml;ey.
+                </p>
+                <p class="text-normal text-white">
+                    <b>SALONES Y CONCURSOS</b>
+                    <br>
+                    2008. Sal&oacute;n de la  Ciudad
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sal&oacute;n de Arte Contempor&aacute;neo, Galer&iacute;a  Juli&aacute;n&nbsp; Morales, UNEAC, Camag&uuml;ey
+                    <br>
+                    2007. Sal&oacute;n Regional de peque&ntilde;o  formato Proyecto Cultural  EJO. Camag&uuml;ey
+                    <br>
+                    2006. Sal&oacute;n de Peque&ntilde;o Formato. Proyecto Cultural  EJO. Camag&uuml;ey.
+                    <br>
+                    2005. Sal&oacute;n  de la Ciudad.
+                    <br>
+                    2004. Sal&oacute;n Provincial &ldquo;Fidelio  Ponce&rdquo;
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sal&oacute;n de la Ciudad490 aniversario de  la Villa
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo Sal&oacute;n Provincial de Fotograf&iacute;a &ldquo;Miguel  Adolfo Bello&rdquo;
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premier  Sal&oacute;n de Peque&ntilde;o Formato Proyecto Cultural EJO. Camag&uuml;ey
+                    <br>
+                    2003. Sal&oacute;n de la Ciudad.&rdquo;
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primer Sal&oacute;n provincial de Fotograf&iacute;a &ldquo;Miguel Adolfo Bello&rdquo;
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oficina del Historiador de la Ciudad. Camag&uuml;ey
+                    <br>
+                    2002. Sal&oacute;n de la ciudad.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sal&oacute;n provincial de Artes  Pl&aacute;sticas &ldquo;Fidelio  Ponce de Le&oacute;n&rdquo;
+                    <br>
+                    2001. Sal&oacute;n de la Ciudad.
+                    <br>
+                    2000. Sal&oacute;n Provincial de Artes  Pl&aacute;sticas &ldquo;Fidelio Ponce de Le&oacute;n&rdquo;
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sal&oacute;n  de la Ciudad.
+                    <br>
+                    1999. Sal&oacute;n  Provincial de Fotograf&iacute;a Camag&uuml;ey&middot; 99.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sal&oacute;n Provincial de Artes Pl&aacute;sticas &ldquo;Fidelio  Ponce de Le&oacute;n&rdquo;
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sal&oacute;n de la Ciudad. Camag&uuml;ey.
+                </p>
+                <p class="text-normal text-white">
+                    <b>PREMIOS OBTENIDOS</b>
+                    <br>
+                    2008. Primer premio Sal&oacute;n de la Ciudad
+                    <br>
+                    2007. Premio ISA, Premio Oficina  del Historiador de la ciudad&nbsp; Sal&oacute;n  Regional de&nbsp; peque&ntilde;o formato
+                    <br>
+                    2006. Premio del Museo Casa-Quinta &ldquo;Amalia  Simoni&rdquo;. Segundo Sal&oacute;n de Peque&ntilde;o Formato Galer&iacute;a Miranda  Proyecto Sociocultural EJO.
+                    <br>
+                    2005. Menci&oacute;n Sal&oacute;n de la Ciudad.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tercer Premio II Sal&oacute;n Provincial de Fotograf&iacute;a &ldquo;Miguel  Adolfo Bello&rdquo;.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio de la Oficina del Historiador de  la Ciudad&nbsp; PrimerSal&oacute;n de  Peque&ntilde;o Formato
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Galer&iacute;a Miranda Proyecto  Sociocultural EJO.
+                    <br>
+                    2003. Premio de la &ldquo;Galer&iacute;a Estudio  JOVER&rdquo;, Primer Sal&oacute;n
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Miguel Adolfo Bello&rdquo;. Oficina del Historiador de la Ciudad.
+                    <br>
+                    1999. Segundo Premio. Sal&oacute;n Provincial de Artes  Pl&aacute;sticas &ldquo;Fidelio Ponce de Le&oacute;n&rdquo;
+                </p>
+                <p class="text-normal text-white">
+                    <b>EXPOSICIONES PERSONALES</b>
+                    <br>
+                    2009. Simulation&rsquo;s Universidad Williams and Mary.  Virginia E.U
+                    <br>
+                    2007. <em>Cuba en una casa,</em> Galer&iacute;a&nbsp; Esmeralda Pimentel. Lisboa, Portugal
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Apuntes de Lisboa.</em> Galer&iacute;a Juli&aacute;n Morales  UNEAC, Camag&uuml;ey
+                    <br>
+                    2005. <em>A La Rumba ya no voy ma. Si, ta` bien</em>: Galer&iacute;a  &ldquo;Salvador Cisneros&rdquo;. Camag&uuml;ey
+                    <br>
+                    2004. <em>Mirar de Otro Modo</em>. Librer&iacute;a  &ldquo;Ateneo&rdquo;. Camag&uuml;ey
+                    <br>
+                    2003. <em>Cuba  Blue (s). </em>&nbsp;Galer&iacute;a &ldquo;Wereldwinkel&rdquo;,  Hasselt, B&eacute;lgica.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Trinidad. </em>&nbsp;Galer&iacute;a &ldquo;Miranda&rdquo; Proyecto Cultural EJO.  Camag&uuml;ey
+                    <br>
+                    2001. <em>Cartas de Relaci&oacute;n&rdquo;</em>. Galer&iacute;a Juli&aacute;n  Morales de la UNEAC. Camag&uuml;ey.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Un  Cari&ntilde;o poderoso</em> <em>I </em>&nbsp;San Pablo de Yao. Sierra  Maestra&nbsp;&nbsp;provincia Granma. (Proyecto comunitario en  coordinaci&oacute;n con la TV Serrana).
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Ven, mortal, y considera</em>. Exposici&oacute;n  colateral al Sal&oacute;n
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Fidelio Ponce de Le&oacute;n&rdquo;. Sociedad Cubana de  Publicistas  &nbsp;y Propagandistas.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>La luz del Continente</em>. Del 13 de Julio  al 23 de agosto,  &nbsp;itinerante por las ciudades italianas de  Spezia, Levanto  Porto Venere, Brugnato, Ameglia y Framura.
+                    <br>
+                    2000. <em>Aunar lo  imprevisible</em>. Uni&oacute;n de Escritores&nbsp;&nbsp;y  Artistas de Cuba. (UNEAC). Filial Guant&aacute;namo.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Cuba m&iacute;a. </em>Galer&iacute;a &ldquo;Soulfood&rdquo;. Hasselt.  B&eacute;lgica. Galer&iacute;a &ldquo;Wereldwinkel&rdquo;. Hasselt. B&eacute;lgica.
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Rumores</em> Complejo Cinematogr&aacute;fico  Chaplin. Sede de la  Cinemateca de Cuba. Ciudad de La Habana. <em>
+                    <br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La Extensa Realidad&nbsp; </em>Galer&iacute;a de Arte Universal &ldquo;Alejo&nbsp;&nbsp;Carpentier&rdquo;. Camag&uuml;ey
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

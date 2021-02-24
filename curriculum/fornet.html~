@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/ambrosio.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Ambrosio Fornet
+                    <br>
+                    <small>(1932)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Curs&oacute;  la primaria en su pueblo natal. Se gradu&oacute; de bachiller en el Instituto
+                    de  Manzanillo (1950). Realiz&oacute; estudios en la Universidad de Nueva  York (1975) y en
+                    la   Universidad Central de Madrid, ciudad donde residi&oacute; de 1957 a 1959. Ha viajado
+                    adem&aacute;s  por M&eacute;xico, Francia, Suiza, Alemania y Marruecos. Dirigi&oacute; de
+                    1964 a 1971 la editora Arte  y Literatura, primero perteneciente a la Editorial Nacional
+                    de Cuba, y m&aacute;s tarde al Instituto del Libro, con la colaboraci&oacute;n, hasta 1968,
+                    de Edmundo Desnoes. Asisti&oacute; como delegado de Cuba al XXXV Congreso  Internacional del
+                    Pen Club, celebrado en Abidj&aacute;n, Costa de Marfil (1967). Al  a&ntilde;o siguiente
+                    particip&oacute; en el Congreso Cultural de La Habana como secretario de la Comisi&oacute;n
+                    III. Tiene  colaboraciones en <em>Carteles, Lunes de Revoluci&oacute;n, Casa de las
+                    Am&eacute;ricas, La Gaceta de Cuba, Uni&oacute;n,  Revoluci&oacute;n y Cultura</em> y <em>El
+                    Bancario</em>. Ha figurado en diversas  antolog&iacute;as de cuentos. Tradujo varias obras del
+                    ingl&eacute;s, entre ellas <em>La llave  de cristal</em> de Dashiel Hammett (La   Habana,
+                    Instituto del Libro, 1967). Compil&oacute; una <em>Antolog&iacute;a  del cuento cubano
+                    contempor&aacute;neo</em> (M&eacute;xico, Eds. Era, 1967).
+                </p>
+                <p class="text-normal text-white">
+                    Es uno de nuestros m&aacute;s importantes cr&iacute;ticos literarios, actualmente se encuentra
+                    investigando la literatura cubana de la di&aacute;spora, un proyecto que el autor puso en
+                    marcha desde 1993.
+                </p>
+                <p class="text-normal text-white">
+                    Reside en La Habana
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/geovannys.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Geovannys Manso Sed&aacute;n
+                    <br>
+                    <small>(Vueltas, Villa Clara, 10 de septiembre de 1974)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Ha publicado <em>La soledad y otras mentiras</em> (cuento, Ediciones Sed de Belleza, 2001); <em>Las palabras ausentes</em> (cuento, Editorial Capiro, 2006); <em>Cifras de la muerte</em> (poes&iacute;a, Ediciones &Aacute;vila, 2006); <em>Insomnios de la palabra</em> (ensayo, Casa Editora Abril, 2007); <em>La isla inmersa</em> (novela, Editorial Capiro, 2007- Editorial Letras Cubanas, Colecci&oacute;n La puerta de papel, 2008); <em>Violante</em> (novela, Ediciones Sed de Belleza, 2008-Editorial Gente Nueva, Colecci&oacute;n XXI, 2013); <em>Un lugar en el mundo</em> (novela, Editorial Oriente, 2009); <em>Ven y mira</em> (novela, Editorial Oriente, 2012); <em>Cuidado: ni&ntilde;a en el jard&iacute;n</em> (novela, La pereza Ediciones, Miami, 2013); <em>Maximiliano (El loquito de Mar&iacute;a Virginia)</em> (cuento, Editorial Cauce, 2014); <em>Los leves sobresaltos</em> (poes&iacute;a, Editorial Autores Premiados, Huelva, Espa&ntilde;a, 2015); <em>Los hijos so&ntilde;olientos del abismo</em> (novela, Editorial Letras Cubanas, 2016); <em>20 kg de tristeza</em> (cuento, Editorial Capiro, 2017); <em>Un lugar en el mundo</em> (narrativa infantil, Editorial Cauce, 2017)
+                </p>
+                <p class="text-normal text-white">
+                    Su obra ha merecido, entre otros, el premio Calendario de ensayo y los premios Regino Pedroso y Ra&uacute;l Doblado de poes&iacute;a 2005; el premio Fundaci&oacute;n de la Ciudad de Santa Clara de novela 2006; el premio de Narrativa Joven &laquo;Reina del Mar Editores&raquo; 2007; el premio Oriente &laquo;Herminio Almendros&raquo;, el II Premio Internacional de poes&iacute;a Bonaventuriano, Colombia, Menci&oacute;n en el premio &Iacute;talo Calvino de Novela 2008, el premio Cauce de cuento 2010, Menci&oacute;n en el premio Casa de las Am&eacute;ricas de novela 2011, la Beca de Creaci&oacute;n Cintio Vitier y el XXXV Premio Hispanoamericano de Poes&iacute;a Juan Ram&oacute;n Jim&eacute;nez 2015, Huelva, Espa&ntilde;a.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

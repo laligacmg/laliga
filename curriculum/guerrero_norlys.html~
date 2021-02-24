@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/norlys.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Norlys Guerrero Pi
+                    <br>
+                    <small>(Camag&uuml;ey, 1986)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Licenciado en Direcci&oacute;n de Fotograf&iacute;a por la Universidad de las Artes, Camag&uuml;ey. Trabaja como director de programas de Televisi&oacute;n Camag&uuml;ey. Ha impartido clases en la Facultad de Lenguas y Comunicaci&oacute;n de la Universidad de Camag&uuml;ey Ignacio Agramonte; as&iacute; como cursos de fotograf&iacute;a y dise&ntilde;o de luces en la filial de la UNEAC en Guant&aacute;namo y en TV Camag&uuml;ey, respectivamente. Ha realizado spots, cortos de ficci&oacute;n, video clips, programas infantiles animados y documentales como &ldquo;Mala espina&rdquo;, &ldquo;El embajador del son&rdquo;, &ldquo;Calal&uacute;&rdquo;, &ldquo;Juega y aprende&rdquo;, entre otros. Ha participado como director de fotograf&iacute;a con obras audiovisuales, en eventos y festivales como El Almac&eacute;n de la Imagen, la Muestra Joven ICAIC y el Festival Internacional del Nuevo Cine Latinoamericano. Premio Imagen, de la Asociaci&oacute;n Cubana de Comunicadores Sociales; premio &ldquo;Claqueta&rdquo;, de Televisi&oacute;n Camag&uuml;ey y premio mejor corto de animaci&oacute;n, en el Almac&eacute;n de la Imagen; premios en las distintas ediciones del Festival de Televisi&oacute;n Camag&uuml;ey, menci&oacute;n en la Convenci&oacute;n Internacional de Radio y Televisi&oacute;n, La Habana 2014; y premio por direcci&oacute;n de fotograf&iacute;a en el XXXIII Concurso Santamareare, de la UNEAC. Fotograf&iacute;as suyas han sido expuestas en salones y exposiciones, como el Sal&oacute;n de la Ciudad, del Consejo Provincial de Artes Pl&aacute;sticas; Sal&oacute;n de peque&ntilde;o formato y Sal&oacute;n de Arte Er&oacute;tico, ambos de la Instituci&oacute;n Cultural EJO; y Bioencuadre de la Asociaci&oacute;n Cubana de Comunicadores Sociales. Miembro de la Asociaci&oacute;n Hermanos Sa&iacute;z, en la secci&oacute;n de Audiovisuales.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                    <br>
+                    <small>nguerreropi@gmail.com</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

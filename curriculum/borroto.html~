@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/mariaantonia.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Mar&iacute;a Antonia Borroto Trujillo
+                    <br>
+                    <small>(Camag&uuml;ey, 1973)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Autora de los libros: <em>Arreglamundos: mujeres y periodismo en Cuba</em> &mdash;Editorial El mar y la monta&ntilde;a, Guant&aacute;namo, 2018&mdash; y <em>Adriana Loredo: p&aacute;ginas muy bien condimentadas</em> &mdash;Editorial Oriente, 2018&mdash;, <em>Juli&aacute;n del Casal: modernidad y periodismo</em> &mdash;Editorial Oriente, 2016&mdash;, <em>El escritor y la bibliotecaria</em> &mdash;Editorial &Aacute;cana, 2015&mdash;, <em>Como a caballo sobre un rel&aacute;mpago: notas sobre periodismo y cultura</em> &mdash;Ediciones Matanzas, 2014&mdash;, <em>Ansias de traspasar el horizonte: estudios sobre Juli&aacute;n del Casal</em> &mdash;premio de ensayo Emilio Ballagas, Editorial &Aacute;cana 2012&mdash;; <em>Conversaciones gustosas</em> y <em>P&aacute;ginas volanderas</em> (compilaciones de textos period&iacute;sticos, editados por &Aacute;cana en Camag&uuml;ey); <em>Imagen m&uacute;ltiple de la ciudad: tres cronistas miran La Habana</em> (Casa Editora Abril, Premio Calendario de ensayo 2008), <em>Palpitaci&oacute;n de lo diario: un costumbrista llamado Jos&eacute; Mart&iacute;</em> (Premio Eliseo Diego 2007 y Premio de la Cr&iacute;tica Martiana 2011, facturado por Ediciones &Aacute;vila); <em>Lectura en dos orillas</em> y <em>La novia de Mart&iacute;</em>.
+                </p>
+                <p class="text-normal text-white">
+                    Ha obtenido en dos ocasiones el premio Raz&oacute;n de Ser, de la Fundaci&oacute;n Alejo Carpentier, con los proyectos &ldquo;El modernismo: cuesti&oacute;n de ideas&rdquo; y &ldquo;Miradas cruzadas desde el periodismo: lo franc&eacute;s y lo cubano en Carpentier&rdquo;. Su libro &ldquo;Juli&aacute;n del Casal: modernidad y periodismo&rdquo; obtuvo menci&oacute;n en la categor&iacute;a de ensayo sobre tema art&iacute;stico literario en la 55 Edici&oacute;n del Premio Casa de las Am&eacute;ricas.
+                </p>
+                <p class="text-normal text-white">
+                    Textos suyos han aparecido en varias compilaciones y en dis&iacute;miles revistas cubanas.
+                </p>
+                <p class="text-normal text-white">
+                    Doctora en Ciencias de la Comunicaci&oacute;n Social, Universidad de La Habana, 2013.
+                </p>
+                <p class="text-normal text-white">
+                    Master en Cultura Latinoamericana, Centro de Estudios Nicol&aacute;s Guill&eacute;n y Universidad de Camag&uuml;ey, 2002. Licenciada en Comunicaci&oacute;n Social, Universidad de Oriente, 1996.
+                </p>
+                <p class="text-normal text-white">
+                    Profesora titular de la Universidad de las Artes, en su filial ubicada en Camag&uuml;ey.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                    <br>
+                    <small>mariantonia@pprincipe.cult.cu</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

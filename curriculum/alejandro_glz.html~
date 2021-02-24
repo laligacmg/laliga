@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/alejandro_glz.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Alejandro González Bermúdez
+                    <br>
+                    <small>(Camagüey, Cuba, 27 de noviembre de 1964)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Licenciado en Estudios Socioculturales. Poeta y promotor cultural. Ha obtenido varios reconocimientos provinciales y nacionales, entre ellos: Premio Nacional de Poesía Adelaida del Mármol (Holguín, 1998); Premio Nacional de cuento breve Casa Tomada (Ciego de Ávila, 1999); Premio Nacional de Poesía Eliseo Diego (Ciego de Ávila, 1999); Premio Especial de Poesía Aniversario 490 de la Fundación de Santiago de Cuba (Santiago de Cuba, 2005); Mención en la VI edición del Premio Internacional de Poesía Nicolás Guillén (UNEAC-Quintana Roo, México, 2004). Libros publicados: Como un delfín después de la acrobacia (poesía, Ediciones Ácana, Camagüey, 1997); Fábulas del tiempo y la memoria (poesía, Ediciones Holguín, Holguín, 2000); Confesiones del espejo (poesía, Ediciones Ávila, Ciego de Ávila, 2000); Toda la verdad del tiempo (poesía, Ediciones Ácana, Camagüey, 2001), la selección Poesía camagüeyana (Ediciones Ácana, 2003); Cuadernos del Escriba (poesía, Ediciones Santiago, Santiago de Cuba, 2005); La pasada niebla (poesía, Ediciones Ácana, 2003), además el volumen de testimonio Cerca del cerco (Ediciones Ácana, 2010) en coautoría con Rubén Montero Hernández.
+                </p>
+                <p class="text-normal text-white">
+                   Textos suyos han sido antologados en los volúmenes El asunto es estar localizable (Editorial Oriente, Santiago de Cuba, 1992), Nuevos poetas cubanos I y II (Colección Pinos Nuevos, Editorial Letras Cubanas, Ciudad de La Habana, 1995), Nuevos juegos prohibidos (Ed. Letras Cubanas, 1997), La Estrella de Cuba. Inventario de una expedición (Ed. Letras Cubanas, 2004); La huella infidente y algún sobresalto (Ed. Ácana, 2004); Silvio: te debo una canción (Ed. Letras Cubanas, 2004); La Estrella de Cuba. Antología de poesía cubana contemporánea (Monte Ávila Editores Latinoamericana, Venezuela, 2006), Esta cárcel de aire puro (II parte, Editorial Letras Cubanas, 2010); Antología de la joven poesía cubana (Biblioteca Nacional, Buenos Aires, Argentina, 2009) y Versos en el horizonte de la isla (Antología cubana contemporánea) (Ediciones Caronte, Valparaíso, Chile, 2016). Varias de sus obras han aparecido en publicaciones cubanas y extranjeras. Pertenece a la Asociación de Escritores de la Uneac.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Centro Provincial del Libro y la Literatura.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

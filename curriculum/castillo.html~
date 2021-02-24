@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/luciano.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Luciano Castillo
+                    <br>
+                    <small>(Camag&uuml;ey, 1955)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Cr&iacute;tico, investigador e historiador  cinematogr&aacute;fico. M&aacute;ster en Cultura Latinoamericana. Colaborador asiduo en  revistas especializadas de varios pa&iacute;ses. Promotor de cine-clubes. Ejerce,  junto a Alberto Ramos, como corresponsal en Cuba de la importante publicaci&oacute;n  International Film Guide. Ha publicado los libros: Rita a tres voces (1989),  coescrito con V&iacute;ctor Gispert y Alejandro Mel&eacute;ndez; Carpentier en el reino de la  imagen (Universidad Veracruzana, 2000 / Editorial Uni&oacute;n, 2006), y A contraluz  (Editorial Oriente, 2005), entre otros. Integra el Consejo Nacional de la UNEAC  y es miembro de la Federaci&oacute;n Internacional de la Prensa Cinematogr&aacute;fica, a  trav&eacute;s de la Asociaci&oacute;n Cubana de la Prensa Cinematogr&aacute;fica. Es director de la  Mediateca &ldquo;Andr&eacute; Bazin&rdquo; de la Escuela Internacional de Cine y Televisi&oacute;n de San  Antonio de los Ba&ntilde;os.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>

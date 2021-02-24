@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- meta section -->
+    <meta charset="utf-8">
+    <title>LA LIGA, revista de literatura y arte</title>
+    <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
+
+    <!-- Style section -->
+    <link href="../assets/css/league.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="1" align="center">
+    <tr class="row-content">
+        <td colspan="2" align="right">
+            <img src="../assets/images/league.gif">
+        </td>
+    </tr>
+    <tr class="header-curriculo">
+        <td align="left" colspan="2">
+            <div class="post-author_gravatar">
+                <img src="../assets/images/writers/garcia_yero.jpg" class="avatar">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 12rem" align="center" valign="center" class="bg-ligthgrey">
+            <img src="../assets/images/curriculum.png">
+        </td>
+        <td>
+            <div class="content-body">
+                <p class="title text-white">
+                    Adela Mar&iacute;a Garc&iacute;a Yero
+                    <br>
+                    <small>(Camag&uuml;ey, 1969)</small>
+                </p>
+                <p class="text-normal text-white">
+                    Arquitecta, Doctora en Ciencias sobre Arte por el Instituto Superior de Arte, M&aacute;ster en Conservaci&oacute;n y Rehabilitaci&oacute;n del Patrimonio Edificado por el Instituto Superior Polit&eacute;cnico Jos&eacute; Antonio Echeverr&iacute;a. Profesora Titular del Centro de Estudios de Conservaci&oacute;n y Desarrollo de las Construcciones de la Universidad de Camag&uuml;ey. Ha publicado diversos trabajos en revistas y publicaciones especializadas, tanto nacionales como extranjeras. Tiene publicados los libros <em>Tir&aacute;ndinosaurio</em> (Ed. &Aacute;cana, 2006); <em>La ciudad, del barro a la palabra</em> (Ed. &Aacute;cana, 2016) y las compilaciones sobre temas de arquitectura <em>La ciudad: im&aacute;genes en juego</em> (Ed. &Aacute;cana, 2008) &mdash;menci&oacute;n en el VII Sal&oacute;n Nacional de Arquitectura&mdash;, e <em>IN-CO-NE-XOS, miradas desde y hacia la arquitectura</em> (Ediciones &Aacute;vila, 2011); adem&aacute;s de colaborar en la <em>Gu&iacute;a Arquitect&oacute;nica de Camag&uuml;ey, La luz perenne</em> (Ed. Oriente y Ed. &Aacute;cana, 2013) y <em>Conservaci&oacute;n de centros hist&oacute;ricos en Cuba</em> (Ed. Aracne Editrice, Italia, 2015) &mdash;premio del Sal&oacute;n Nacional de Arquitectura&mdash; y &ldquo;La otra ciudad: Cementerio General de Camag&uuml;ey&rdquo; &mdash;Premio de Investigaciones Hist&oacute;ricas Jorge Enrique Mendoza (2010), en proceso editorial&mdash;, entre otros. Miembro de la UNAICC, UNHIC y de la Sociedad Cultural Jos&eacute; Mart&iacute;.
+                </p>
+                <p class="text-normal text-white">
+                    Contactos:
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr class="bg-dark">
+        <td colspan="2">
+            <div class="footer">
+                <p class="text-white">
+                    &copy; Asociaci&oacute;n Hermanos Sa&iacute;z Camag&uuml;ey.
+                </p>
+                <p class="fw-normal text-mediumgrey">
+                    <small>Aprobada la reproducci&oacute;n parcial de este material siempre que se indique la fuente.</small>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+<!-- Scripts section -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../data.js"></script>
+<script src="../assets/js/league.js"></script>
+</html>
